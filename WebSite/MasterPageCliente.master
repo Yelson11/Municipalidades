@@ -1,0 +1,114 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<script runat="server">
+
+    Protected Sub Page_Load(sender As Object, e As EventArgs)
+
+    End Sub
+
+    Protected Sub btnCerrarSesión_Click(sender As Object, e As EventArgs)
+        Response.Redirect("InicioCliente.aspx")
+    End Sub
+</script>
+
+<!--
+Template Name: Corporation
+Author: <a href="http://www.os-templates.com/">OS Templates</a>
+Author URI: http://www.os-templates.com/
+Licence: Free to use under our free template licence terms
+Licence URI: http://www.os-templates.com/template-terms
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Corporation</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="stylesheet" href="layout/styles/layout.css" type="text/css" />
+    <style type="text/css">
+        .auto-style1 {
+            margin-left: 121;
+        }
+        .auto-style2 {
+            margin-left: 0px;
+        }
+        .auto-style3 {
+            left: 0px;
+            top: 0px;
+        }
+        .auto-style4 {
+            left: 0;
+            top: 20px;
+            height: 37px;
+        }
+        .auto-style5 {
+            right: 0;
+            top: 64px;
+            height: 9px;
+            width: 646px;
+        }
+    </style>
+</head>
+<body id="top">
+    <form id="form1" runat="server">
+<div class="wrapper col1">
+  <div id="head">
+    <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      </h1>
+      <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="Cliente.aspx" class="auto-style4">Municipalidades de Costa Rica&nbsp;&nbsp;&nbsp; </a>
+      </h1>
+    <p>&nbsp;</p>
+    <div id="topnav" class="auto-style5">
+      <ul>
+        <li><a href="Cliente.aspx" dir="ltr">Inicio</a></li>
+        <li><a href="ClientePendientes.aspx">Recibos Pendientes</a></li>
+        <li><a href="ClienteConsultar.aspx">Consultar Recibos</a></li>
+        <li><ul>
+            <li><a href="#">Link 1</a></li>
+            <li><a href="#">Link 2</a></li>
+            <li><a href="#">Link 3</a></li>
+          </ul>
+        </li>
+        <li class="last" style="height: 46px"><a href="ClienteHistorial.aspx">&nbsp;Historial Recibos</a></li>
+      </ul>
+    </div>
+      <asp:Button ID="btnCerrarSesión" runat="server" BackColor="#999999" ForeColor="White" OnClick="btnCerrarSesión_Click" Text="Cerrar Sesión" Width="109px" />
+  </div>
+</div>
+<div class="wrapper col2">
+  <div id="gallery">
+    <ul>
+      <li></li>
+      <li></li>
+      <li class="last"></li>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+    </ul>
+    <div class="clear"></div>
+  </div>
+</div>
+<div class="wrapper col4">
+  <div id="container" class="auto-style3">
+  </div>
+</div>
+<div class="wrapper col5">
+  <div id="footer">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <br />
+&nbsp;<!-- End Contact Form --><!-- End Company Details --><div id="copyright">
+      <p class="fl_left">Copyright &copy; 2018 - Derechos Reservados - <a href="#">Carlos Vega - Yelson Monge</a></p>
+      <p class="fl_right">&nbsp;<a target="_blank" href="http://www.os-templates.com/" title="Free Website Templates">OS Templates</a></p>
+      <br class="clear" />
+    </div>
+      <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+          <asp:Image ID="Image2" runat="server" CssClass="auto-style2" Height="45px" ImageUrl="~/bandera costa rica.png" Width="446px" />
+&nbsp;
+          <asp:Image ID="Image1" runat="server" CssClass="auto-style1" Height="45px" ImageUrl="~/escudo cr.png" Width="45px" />
+&nbsp;
+          <asp:Image ID="Image3" runat="server" CssClass="auto-style2" Height="45px" ImageUrl="~/bandera costa rica.png" Width="432px" />
+      </asp:ContentPlaceHolder>
+    <div class="clear">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <asp:Label ID="Label2" runat="server" Font-Italic="False" Font-Names="Segoe UI Light" Font-Size="X-Small" Text="Términos y condiciones | Políticas de privacidad | Declaración del uso de cookies"></asp:Label>
+      </div>
+  </div>
+</div>
+    </form>
+</body>
+</html>

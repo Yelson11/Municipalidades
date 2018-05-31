@@ -1,0 +1,2089 @@
+<XML>
+	<Abonado>
+		<dbo.Abonado Nombre="Latonya Joyce" />
+		<dbo.Abonado Nombre="Carlton Cardenas" />
+		<dbo.Abonado Nombre="Charity Dickerson" />
+		<dbo.Abonado Nombre="Jacquelyn Banks" />
+		<dbo.Abonado Nombre="Mindy Garcia" />
+		<dbo.Abonado Nombre="Sonia Chang" />
+		<dbo.Abonado Nombre="Damon Bates" />
+		<dbo.Abonado Nombre="Evan Blair" />
+		<dbo.Abonado Nombre="Brenda Zuniga" />
+		<dbo.Abonado Nombre="Benny Macias" />
+		<dbo.Abonado Nombre="Leanne Patton" />
+		<dbo.Abonado Nombre="Leo Brown" />
+		<dbo.Abonado Nombre="Tabatha Rodriguez" />
+		<dbo.Abonado Nombre="Kelly Wood" />
+		<dbo.Abonado Nombre="Ericka Cruz" />
+		<dbo.Abonado Nombre="Jayson Stevens" />
+		<dbo.Abonado Nombre="Marco Lane" />
+		<dbo.Abonado Nombre="Vickie Curtis" />
+		<dbo.Abonado Nombre="Guillermo Wong" />
+		<dbo.Abonado Nombre="Alice Andrews" />
+		<dbo.Abonado Nombre="Roberto Davila" />
+		<dbo.Abonado Nombre="Lillian Kirk" />
+		<dbo.Abonado Nombre="Joanne Henderson" />
+		<dbo.Abonado Nombre="Debbie Brooks" />
+		<dbo.Abonado Nombre="Warren Mayer" />
+		<dbo.Abonado Nombre="Shawn Arnold" />
+		<dbo.Abonado Nombre="Tom Mc Intyre" />
+		<dbo.Abonado Nombre="Jose Horne" />
+		<dbo.Abonado Nombre="Wade Mullins" />
+		<dbo.Abonado Nombre="Randy Price" />
+		<dbo.Abonado Nombre="Larry Douglas" />
+		<dbo.Abonado Nombre="Grant Ritter" />
+		<dbo.Abonado Nombre="Wendi Glenn" />
+		<dbo.Abonado Nombre="Tamiko Guerra" />
+		<dbo.Abonado Nombre="Darla Valentine" />
+		<dbo.Abonado Nombre="Vickie Shannon" />
+		<dbo.Abonado Nombre="Nora Dudley" />
+		<dbo.Abonado Nombre="Josephine Dalton" />
+		<dbo.Abonado Nombre="Janet Jensen" />
+		<dbo.Abonado Nombre="Kurt Forbes" />
+	</Abonado>
+	
+	<Municipalidades>
+		<dbo.Municipalidades Nombre="San Jose" DiaEmite="6" DiaLimite="24" TasaInteres="3.300000000000000e+000" ValorMAgua="5.550519697000000e+002" />
+		<dbo.Municipalidades Nombre="Cartago" DiaEmite="7" DiaLimite="25" TasaInteres="1.830000000000000e+000" ValorMAgua="5.018230985000000e+002" />
+		<dbo.Municipalidades Nombre="Heredia" DiaEmite="2" DiaLimite="16" TasaInteres="1.250000000000000e+000" ValorMAgua="5.556190121000000e+002" />
+		<dbo.Municipalidades Nombre="Puntarenas" DiaEmite="5" DiaLimite="20" TasaInteres="3.740000000000000e+000" ValorMAgua="6.070319099000000e+002" />
+		<dbo.Municipalidades Nombre="Guanacaste" DiaEmite="1" DiaLimite="17" TasaInteres="2.730000000000000e+000" ValorMAgua="6.384690747000000e+002" />
+		<dbo.Municipalidades Nombre="Alajuela" DiaEmite="9" DiaLimite="22" TasaInteres="3.460000000000000e+000" ValorMAgua="5.737829315000000e+002" />
+		<dbo.Municipalidades Nombre="Limon" DiaEmite="8" DiaLimite="19" TasaInteres="2.090000000000000e+000" ValorMAgua="5.592319893000000e+002" />
+	</Municipalidades>
+	
+	<TipoServicio>
+		<dbo.TipoServicio Nombre="Agua" Valor="2.350000000000000e+003" Variable="0" />
+		<dbo.TipoServicio Nombre="Alumbrado" Valor="1.000000000000000e+003" Variable="0" />
+		<dbo.TipoServicio Nombre="Basura" Valor="5.000000000000000e+002" Variable="0" />
+		<dbo.TipoServicio Nombre="Parques" Valor="8.500000000000000e+002" Variable="0" />
+		<dbo.TipoServicio Nombre="Patente" Valor="3.550000000000000e+004" Variable="0" />
+		<dbo.TipoServicio Nombre="Intereses Moratorios" Valor="0.000000000000000e+000" Variable="1" />
+	</TipoServicio>
+	
+	<Propiedades>
+		<dbo.Propiedades NumeroFinca="61609" IdMunicipalidad="6" IdAbonado="33" Descripcion="si habitatio Pro quorum dolorum" Valor="107104088" CodigoPostal="21114" />
+		<dbo.Propiedades NumeroFinca="47621" IdMunicipalidad="6" IdAbonado="23" Descripcion="non Et gravum si delerium." Valor="128375473" CodigoPostal="21513" />
+		<dbo.Propiedades NumeroFinca="31797" IdMunicipalidad="6" IdAbonado="23" Descripcion="transit. quad non essit." Valor="100441874" CodigoPostal="21506" />
+		<dbo.Propiedades NumeroFinca="18325" IdMunicipalidad="4" IdAbonado="18" Descripcion="esset quorum bono e manifestum" Valor="107642957" CodigoPostal="60407" />
+		<dbo.Propiedades NumeroFinca="29419" IdMunicipalidad="2" IdAbonado="11" Descripcion="quo, linguens estis quorum ut" Valor="58683605" CodigoPostal="30201" />
+		<dbo.Propiedades NumeroFinca="16035" IdMunicipalidad="4" IdAbonado="19" Descripcion="quad gravis egreddior venit." Valor="90185985" CodigoPostal="60401" />
+		<dbo.Propiedades NumeroFinca="32513" IdMunicipalidad="7" IdAbonado="19" Descripcion="non nomen et et Quad" Valor="142003334" CodigoPostal="70603" />
+		<dbo.Propiedades NumeroFinca="83136" IdMunicipalidad="4" IdAbonado="2" Descripcion="homo, linguens habitatio dolorum nomen homo," Valor="65269824" CodigoPostal="61111" />
+		<dbo.Propiedades NumeroFinca="96870" IdMunicipalidad="7" IdAbonado="40" Descripcion="linguens dolorum et Pro" Valor="48082788" CodigoPostal="70306" />
+		<dbo.Propiedades NumeroFinca="13866" IdMunicipalidad="2" IdAbonado="13" Descripcion="essit. plorum quo quad Longam, eudis pars Quad" Valor="39916622" CodigoPostal="30105" />
+		<dbo.Propiedades NumeroFinca="43010" IdMunicipalidad="3" IdAbonado="34" Descripcion="pars novum fecit, linguens" Valor="135319210" CodigoPostal="40602" />
+		<dbo.Propiedades NumeroFinca="24155" IdMunicipalidad="4" IdAbonado="2" Descripcion="gravis trepicandor in" Valor="71550192" CodigoPostal="60213" />
+		<dbo.Propiedades NumeroFinca="24789" IdMunicipalidad="5" IdAbonado="22" Descripcion="et quo estum. delerium." Valor="43660048" CodigoPostal="50604" />
+		<dbo.Propiedades NumeroFinca="54964" IdMunicipalidad="4" IdAbonado="28" Descripcion="plorum linguens plurissimum" Valor="87095059" CodigoPostal="60603" />
+		<dbo.Propiedades NumeroFinca="51454" IdMunicipalidad="7" IdAbonado="4" Descripcion="gravis Quad plurissimum" Valor="132684094" CodigoPostal="70504" />
+		<dbo.Propiedades NumeroFinca="39573" IdMunicipalidad="1" IdAbonado="19" Descripcion="parte novum Tam Quad imaginator quad brevens," Valor="93585433" CodigoPostal="11711" />
+		<dbo.Propiedades NumeroFinca="40607" IdMunicipalidad="7" IdAbonado="40" Descripcion="plorum pars Longam, pladior rarendum" Valor="63492506" CodigoPostal="70403" />
+		<dbo.Propiedades NumeroFinca="96010" IdMunicipalidad="7" IdAbonado="31" Descripcion="si si in estis quad Longam," Valor="149036441" CodigoPostal="70103" />
+		<dbo.Propiedades NumeroFinca="12223" IdMunicipalidad="5" IdAbonado="16" Descripcion="quo quo, si Pro plurissimum" Valor="106549473" CodigoPostal="50907" />
+		<dbo.Propiedades NumeroFinca="97622" IdMunicipalidad="3" IdAbonado="39" Descripcion="transit. novum cognitio," Valor="131099254" CodigoPostal="40504" />
+		<dbo.Propiedades NumeroFinca="36008" IdMunicipalidad="6" IdAbonado="29" Descripcion="essit. rarendum Versus volcans" Valor="96194901" CodigoPostal="21003" />
+		<dbo.Propiedades NumeroFinca="25361" IdMunicipalidad="6" IdAbonado="11" Descripcion="quo brevens, quo regit," Valor="114706527" CodigoPostal="21403" />
+		<dbo.Propiedades NumeroFinca="89960" IdMunicipalidad="7" IdAbonado="32" Descripcion="quad vantis. in plurissimum quo, in quantare" Valor="138617803" CodigoPostal="70405" />
+		<dbo.Propiedades NumeroFinca="74964" IdMunicipalidad="1" IdAbonado="19" Descripcion="pars regit, estum. delerium. quad cognitio," Valor="65594957" CodigoPostal="11202" />
+		<dbo.Propiedades NumeroFinca="81754" IdMunicipalidad="5" IdAbonado="9" Descripcion="et pladior essit. glavans" Valor="88037740" CodigoPostal="50205" />
+		<dbo.Propiedades NumeroFinca="19844" IdMunicipalidad="4" IdAbonado="29" Descripcion="volcans gravis pars gravum" Valor="94961516" CodigoPostal="60602" />
+		<dbo.Propiedades NumeroFinca="50754" IdMunicipalidad="7" IdAbonado="20" Descripcion="regit, vobis imaginator" Valor="146148126" CodigoPostal="70103" />
+		<dbo.Propiedades NumeroFinca="1024" IdMunicipalidad="5" IdAbonado="36" Descripcion="et Sed novum quad fecit. et quad plurissimum" Valor="30433155" CodigoPostal="50807" />
+		<dbo.Propiedades NumeroFinca="29348" IdMunicipalidad="4" IdAbonado="30" Descripcion="Longam, imaginator regit, Versus" Valor="22612874" CodigoPostal="60310" />
+		<dbo.Propiedades NumeroFinca="34703" IdMunicipalidad="1" IdAbonado="28" Descripcion="e et estum. brevens," Valor="27206140" CodigoPostal="10609" />
+		<dbo.Propiedades NumeroFinca="52919" IdMunicipalidad="2" IdAbonado="9" Descripcion="fecit, Longam, parte" Valor="126062487" CodigoPostal="30812" />
+		<dbo.Propiedades NumeroFinca="27673" IdMunicipalidad="4" IdAbonado="36" Descripcion="e plorum e quo, si eudis" Valor="74768721" CodigoPostal="60205" />
+		<dbo.Propiedades NumeroFinca="88212" IdMunicipalidad="3" IdAbonado="34" Descripcion="si venit. Sed vobis sed linguens Sed" Valor="20706455" CodigoPostal="40505" />
+		<dbo.Propiedades NumeroFinca="80822" IdMunicipalidad="7" IdAbonado="26" Descripcion="in eudis plorum novum si" Valor="121153020" CodigoPostal="70204" />
+		<dbo.Propiedades NumeroFinca="10556" IdMunicipalidad="5" IdAbonado="9" Descripcion="quad Multum novum venit. essit." Valor="55757034" CodigoPostal="50609" />
+		<dbo.Propiedades NumeroFinca="31432" IdMunicipalidad="6" IdAbonado="20" Descripcion="estum. ut cognitio, trepicandor cognitio," Valor="78348129" CodigoPostal="20414" />
+		<dbo.Propiedades NumeroFinca="7927" IdMunicipalidad="1" IdAbonado="29" Descripcion="non et Sed fecit. plorum funem." Valor="54131445" CodigoPostal="11213" />
+		<dbo.Propiedades NumeroFinca="8322" IdMunicipalidad="3" IdAbonado="5" Descripcion="venit. egreddior pars estis novum" Valor="88400554" CodigoPostal="41004" />
+		<dbo.Propiedades NumeroFinca="97619" IdMunicipalidad="3" IdAbonado="29" Descripcion="quartu travissimantor quad" Valor="81875913" CodigoPostal="40207" />
+		<dbo.Propiedades NumeroFinca="53186" IdMunicipalidad="7" IdAbonado="37" Descripcion="apparens egreddior quartu" Valor="143510063" CodigoPostal="70106" />
+		<dbo.Propiedades NumeroFinca="50073" IdMunicipalidad="4" IdAbonado="20" Descripcion="e fecit. gravis glavans" Valor="27605791" CodigoPostal="60209" />
+		<dbo.Propiedades NumeroFinca="32422" IdMunicipalidad="6" IdAbonado="14" Descripcion="Et nomen quoque essit. et" Valor="123181869" CodigoPostal="21508" />
+		<dbo.Propiedades NumeroFinca="68497" IdMunicipalidad="1" IdAbonado="19" Descripcion="quad essit. pladior volcans gravis Longam," Valor="139654877" CodigoPostal="10812" />
+		<dbo.Propiedades NumeroFinca="8292" IdMunicipalidad="2" IdAbonado="33" Descripcion="et delerium. et si non" Valor="51961082" CodigoPostal="30202" />
+		<dbo.Propiedades NumeroFinca="12250" IdMunicipalidad="7" IdAbonado="31" Descripcion="parte fecundio, Et esset funem." Valor="94698793" CodigoPostal="70503" />
+		<dbo.Propiedades NumeroFinca="3807" IdMunicipalidad="6" IdAbonado="12" Descripcion="et funem. vobis quo homo, fecit." Valor="74405550" CodigoPostal="21414" />
+		<dbo.Propiedades NumeroFinca="48117" IdMunicipalidad="3" IdAbonado="27" Descripcion="apparens sed manifestum funem. Quad" Valor="51802083" CodigoPostal="40906" />
+		<dbo.Propiedades NumeroFinca="12270" IdMunicipalidad="4" IdAbonado="12" Descripcion="regit, brevens, ut pladior cognitio," Valor="109359096" CodigoPostal="61006" />
+		<dbo.Propiedades NumeroFinca="16964" IdMunicipalidad="2" IdAbonado="9" Descripcion="Pro funem. eggredior. si plurissimum" Valor="109834278" CodigoPostal="30105" />
+		<dbo.Propiedades NumeroFinca="37678" IdMunicipalidad="2" IdAbonado="3" Descripcion="volcans brevens, quad volcans imaginator" Valor="35045694" CodigoPostal="30503" />
+		<dbo.Propiedades NumeroFinca="8201" IdMunicipalidad="3" IdAbonado="28" Descripcion="brevens, novum et quis quantare" Valor="116911951" CodigoPostal="40808" />
+		<dbo.Propiedades NumeroFinca="90216" IdMunicipalidad="6" IdAbonado="38" Descripcion="et glavans novum gravis plurissimum" Valor="96776555" CodigoPostal="20806" />
+		<dbo.Propiedades NumeroFinca="60230" IdMunicipalidad="5" IdAbonado="38" Descripcion="quad Tam travissimantor" Valor="62340680" CodigoPostal="51009" />
+		<dbo.Propiedades NumeroFinca="63370" IdMunicipalidad="4" IdAbonado="37" Descripcion="vantis. e et parte linguens" Valor="119879950" CodigoPostal="60911" />
+		<dbo.Propiedades NumeroFinca="28747" IdMunicipalidad="2" IdAbonado="4" Descripcion="pladior quoque non quad" Valor="37749141" CodigoPostal="30704" />
+		<dbo.Propiedades NumeroFinca="46521" IdMunicipalidad="7" IdAbonado="5" Descripcion="ut gravis bono quad gravis" Valor="142397562" CodigoPostal="70106" />
+		<dbo.Propiedades NumeroFinca="95764" IdMunicipalidad="6" IdAbonado="39" Descripcion="vobis gravis Et quoque" Valor="139757670" CodigoPostal="20202" />
+		<dbo.Propiedades NumeroFinca="62334" IdMunicipalidad="6" IdAbonado="6" Descripcion="quorum in gravis brevens, Id" Valor="54846917" CodigoPostal="21502" />
+		<dbo.Propiedades NumeroFinca="72930" IdMunicipalidad="7" IdAbonado="23" Descripcion="bono quartu egreddior quo travissimantor" Valor="39605217" CodigoPostal="70205" />
+		<dbo.Propiedades NumeroFinca="16977" IdMunicipalidad="5" IdAbonado="25" Descripcion="Id eggredior. vantis." Valor="113722089" CodigoPostal="50904" />
+		<dbo.Propiedades NumeroFinca="48370" IdMunicipalidad="5" IdAbonado="14" Descripcion="e quo linguens quad Sed Pro apparens" Valor="94037860" CodigoPostal="51105" />
+		<dbo.Propiedades NumeroFinca="6022" IdMunicipalidad="2" IdAbonado="35" Descripcion="si linguens gravis e in quorum" Valor="131570178" CodigoPostal="30606" />
+		<dbo.Propiedades NumeroFinca="28501" IdMunicipalidad="7" IdAbonado="12" Descripcion="quorum et apparens pladior" Valor="62656949" CodigoPostal="70604" />
+		<dbo.Propiedades NumeroFinca="55337" IdMunicipalidad="7" IdAbonado="39" Descripcion="quis Tam egreddior in non" Valor="40876647" CodigoPostal="70302" />
+		<dbo.Propiedades NumeroFinca="14608" IdMunicipalidad="1" IdAbonado="16" Descripcion="et quad plorum apparens" Valor="63854136" CodigoPostal="11302" />
+		<dbo.Propiedades NumeroFinca="99256" IdMunicipalidad="6" IdAbonado="12" Descripcion="habitatio Multum homo," Valor="80550488" CodigoPostal="20514" />
+		<dbo.Propiedades NumeroFinca="179" IdMunicipalidad="2" IdAbonado="22" Descripcion="travissimantor et si" Valor="70843736" CodigoPostal="30409" />
+		<dbo.Propiedades NumeroFinca="96983" IdMunicipalidad="5" IdAbonado="12" Descripcion="egreddior quantare Sed" Valor="72507028" CodigoPostal="50108" />
+		<dbo.Propiedades NumeroFinca="68513" IdMunicipalidad="6" IdAbonado="34" Descripcion="fecundio, plurissimum quoque" Valor="51338025" CodigoPostal="20104" />
+		<dbo.Propiedades NumeroFinca="45071" IdMunicipalidad="2" IdAbonado="5" Descripcion="manifestum parte quad" Valor="74335964" CodigoPostal="30507" />
+		<dbo.Propiedades NumeroFinca="41515" IdMunicipalidad="7" IdAbonado="17" Descripcion="fecundio, Quad et non" Valor="59453987" CodigoPostal="70605" />
+		<dbo.Propiedades NumeroFinca="75398" IdMunicipalidad="4" IdAbonado="6" Descripcion="quo eudis Versus fecit, quartu" Valor="125091953" CodigoPostal="60811" />
+		<dbo.Propiedades NumeroFinca="12840" IdMunicipalidad="5" IdAbonado="25" Descripcion="delerium. e homo, novum Multum linguens gravis non" Valor="87160527" CodigoPostal="50702" />
+		<dbo.Propiedades NumeroFinca="63771" IdMunicipalidad="6" IdAbonado="28" Descripcion="novum quartu cognitio, fecundio," Valor="113039410" CodigoPostal="20404" />
+		<dbo.Propiedades NumeroFinca="89081" IdMunicipalidad="6" IdAbonado="7" Descripcion="imaginator quo volcans vobis" Valor="123493463" CodigoPostal="21410" />
+		<dbo.Propiedades NumeroFinca="2722" IdMunicipalidad="1" IdAbonado="25" Descripcion="non dolorum Tam vobis et funem." Valor="123013032" CodigoPostal="11205" />
+		<dbo.Propiedades NumeroFinca="89135" IdMunicipalidad="6" IdAbonado="40" Descripcion="trepicandor bono e Sed" Valor="125051651" CodigoPostal="20107" />
+		<dbo.Propiedades NumeroFinca="77626" IdMunicipalidad="6" IdAbonado="3" Descripcion="si in estis funem. si gravis sed" Valor="106656720" CodigoPostal="21305" />
+		<dbo.Propiedades NumeroFinca="7990" IdMunicipalidad="1" IdAbonado="34" Descripcion="Longam, Multum quis quorum novum pladior nomen" Valor="120896164" CodigoPostal="11007" />
+		<dbo.Propiedades NumeroFinca="89240" IdMunicipalidad="7" IdAbonado="26" Descripcion="rarendum Pro quad eudis" Valor="33632189" CodigoPostal="70302" />
+		<dbo.Propiedades NumeroFinca="48250" IdMunicipalidad="2" IdAbonado="39" Descripcion="travissimantor et e vobis" Valor="63159433" CodigoPostal="30702" />
+		<dbo.Propiedades NumeroFinca="58347" IdMunicipalidad="4" IdAbonado="21" Descripcion="Versus regit, et quad pladior Versus delerium." Valor="56789029" CodigoPostal="60316" />
+		<dbo.Propiedades NumeroFinca="91365" IdMunicipalidad="4" IdAbonado="33" Descripcion="gravum quo transit. e parte" Valor="70598877" CodigoPostal="60612" />
+		<dbo.Propiedades NumeroFinca="35061" IdMunicipalidad="3" IdAbonado="24" Descripcion="pars e ut rarendum quo" Valor="137567180" CodigoPostal="40603" />
+		<dbo.Propiedades NumeroFinca="39022" IdMunicipalidad="5" IdAbonado="27" Descripcion="apparens Longam, non Pro" Valor="60294190" CodigoPostal="50103" />
+		<dbo.Propiedades NumeroFinca="78496" IdMunicipalidad="4" IdAbonado="13" Descripcion="e eudis eudis homo, novum" Valor="49285932" CodigoPostal="60707" />
+		<dbo.Propiedades NumeroFinca="94981" IdMunicipalidad="6" IdAbonado="19" Descripcion="rarendum e novum pladior" Valor="32428041" CodigoPostal="21010" />
+		<dbo.Propiedades NumeroFinca="77294" IdMunicipalidad="6" IdAbonado="9" Descripcion="ut homo, quad Tam vobis" Valor="50826506" CodigoPostal="20708" />
+		<dbo.Propiedades NumeroFinca="68149" IdMunicipalidad="6" IdAbonado="10" Descripcion="quo travissimantor in" Valor="103403879" CodigoPostal="20607" />
+		<dbo.Propiedades NumeroFinca="94401" IdMunicipalidad="6" IdAbonado="18" Descripcion="estis vantis. brevens," Valor="63359473" CodigoPostal="21412" />
+		<dbo.Propiedades NumeroFinca="89542" IdMunicipalidad="7" IdAbonado="1" Descripcion="egreddior et et quantare" Valor="88590459" CodigoPostal="70305" />
+		<dbo.Propiedades NumeroFinca="13904" IdMunicipalidad="3" IdAbonado="33" Descripcion="linguens pars plurissimum" Valor="149284529" CodigoPostal="41004" />
+		<dbo.Propiedades NumeroFinca="81135" IdMunicipalidad="4" IdAbonado="37" Descripcion="quis Et estum. in dolorum" Valor="68795337" CodigoPostal="60616" />
+		<dbo.Propiedades NumeroFinca="65506" IdMunicipalidad="5" IdAbonado="21" Descripcion="et glavans Pro dolorum" Valor="118153824" CodigoPostal="50404" />
+		<dbo.Propiedades NumeroFinca="16231" IdMunicipalidad="3" IdAbonado="40" Descripcion="transit. et quantare fecit." Valor="69472203" CodigoPostal="41003" />
+		<dbo.Propiedades NumeroFinca="56438" IdMunicipalidad="3" IdAbonado="27" Descripcion="Pro plorum quo plurissimum" Valor="46035613" CodigoPostal="41006" />
+		<dbo.Propiedades NumeroFinca="10369" IdMunicipalidad="6" IdAbonado="39" Descripcion="plurissimum non egreddior et esset" Valor="80524920" CodigoPostal="20112" />
+		<dbo.Propiedades NumeroFinca="19991" IdMunicipalidad="2" IdAbonado="31" Descripcion="Longam, fecit, et et novum" Valor="118778229" CodigoPostal="30304" />
+		<dbo.Propiedades NumeroFinca="35881" IdMunicipalidad="2" IdAbonado="17" Descripcion="ut e e quis transit." Valor="138106947" CodigoPostal="30409" />
+		<dbo.Propiedades NumeroFinca="53391" IdMunicipalidad="1" IdAbonado="36" Descripcion="habitatio et pladior" Valor="34148304" CodigoPostal="10603" />
+	</Propiedades>
+	
+	<ServicioXPropiedad>
+		<dbo.ServicioXPropiedad NumeroFinca="61609" IDServicio="1" FechaContratacion="2017-12-13T12:50:57.710" />
+		<dbo.ServicioXPropiedad NumeroFinca="61609" IDServicio="2" FechaContratacion="2017-12-13T12:50:57.710" />
+		<dbo.ServicioXPropiedad NumeroFinca="61609" IDServicio="3" FechaContratacion="2017-12-13T12:50:57.710" />
+		<dbo.ServicioXPropiedad NumeroFinca="61609" IDServicio="4" FechaContratacion="2017-12-13T12:50:57.710" />
+		<dbo.ServicioXPropiedad NumeroFinca="47621" IDServicio="1" FechaContratacion="2017-12-16T07:35:16.530" />
+		<dbo.ServicioXPropiedad NumeroFinca="47621" IDServicio="2" FechaContratacion="2017-12-16T07:35:16.530" />
+		<dbo.ServicioXPropiedad NumeroFinca="47621" IDServicio="3" FechaContratacion="2017-12-16T07:35:16.530" />
+		<dbo.ServicioXPropiedad NumeroFinca="47621" IDServicio="4" FechaContratacion="2017-12-16T07:35:16.530" />
+		<dbo.ServicioXPropiedad NumeroFinca="31797" IDServicio="1" FechaContratacion="2017-12-26T08:32:21.330" />
+		<dbo.ServicioXPropiedad NumeroFinca="31797" IDServicio="2" FechaContratacion="2017-12-26T08:32:21.330" />
+		<dbo.ServicioXPropiedad NumeroFinca="31797" IDServicio="3" FechaContratacion="2017-12-26T08:32:21.330" />
+		<dbo.ServicioXPropiedad NumeroFinca="31797" IDServicio="4" FechaContratacion="2017-12-26T08:32:21.330" />
+		<dbo.ServicioXPropiedad NumeroFinca="18325" IDServicio="1" FechaContratacion="2017-12-26T06:39:27.280" />
+		<dbo.ServicioXPropiedad NumeroFinca="18325" IDServicio="2" FechaContratacion="2017-12-26T06:39:27.280" />
+		<dbo.ServicioXPropiedad NumeroFinca="18325" IDServicio="3" FechaContratacion="2017-12-26T06:39:27.280" />
+		<dbo.ServicioXPropiedad NumeroFinca="18325" IDServicio="4" FechaContratacion="2017-12-26T06:39:27.280" />
+		<dbo.ServicioXPropiedad NumeroFinca="29419" IDServicio="1" FechaContratacion="2017-12-13T03:20:19.360" />
+		<dbo.ServicioXPropiedad NumeroFinca="29419" IDServicio="2" FechaContratacion="2017-12-13T03:20:19.360" />
+		<dbo.ServicioXPropiedad NumeroFinca="29419" IDServicio="3" FechaContratacion="2017-12-13T03:20:19.360" />
+		<dbo.ServicioXPropiedad NumeroFinca="29419" IDServicio="4" FechaContratacion="2017-12-13T03:20:19.360" />
+		<dbo.ServicioXPropiedad NumeroFinca="16035" IDServicio="1" FechaContratacion="2017-12-24T13:45:38.740" />
+		<dbo.ServicioXPropiedad NumeroFinca="16035" IDServicio="2" FechaContratacion="2017-12-24T13:45:38.740" />
+		<dbo.ServicioXPropiedad NumeroFinca="16035" IDServicio="3" FechaContratacion="2017-12-24T13:45:38.740" />
+		<dbo.ServicioXPropiedad NumeroFinca="16035" IDServicio="4" FechaContratacion="2017-12-24T13:45:38.740" />
+		<dbo.ServicioXPropiedad NumeroFinca="32513" IDServicio="1" FechaContratacion="2017-12-09T19:15:25.370" />
+		<dbo.ServicioXPropiedad NumeroFinca="32513" IDServicio="2" FechaContratacion="2017-12-09T19:15:25.370" />
+		<dbo.ServicioXPropiedad NumeroFinca="32513" IDServicio="3" FechaContratacion="2017-12-09T19:15:25.370" />
+		<dbo.ServicioXPropiedad NumeroFinca="32513" IDServicio="4" FechaContratacion="2017-12-09T19:15:25.370" />
+		<dbo.ServicioXPropiedad NumeroFinca="32513" IDServicio="5" FechaContratacion="2017-12-09T19:15:25.370" />
+		<dbo.ServicioXPropiedad NumeroFinca="83136" IDServicio="1" FechaContratacion="2017-12-07T16:37:13.610" />
+		<dbo.ServicioXPropiedad NumeroFinca="83136" IDServicio="2" FechaContratacion="2017-12-07T16:37:13.610" />
+		<dbo.ServicioXPropiedad NumeroFinca="83136" IDServicio="3" FechaContratacion="2017-12-07T16:37:13.610" />
+		<dbo.ServicioXPropiedad NumeroFinca="83136" IDServicio="4" FechaContratacion="2017-12-07T16:37:13.610" />
+		<dbo.ServicioXPropiedad NumeroFinca="96870" IDServicio="1" FechaContratacion="2017-12-08T11:09:50.930" />
+		<dbo.ServicioXPropiedad NumeroFinca="96870" IDServicio="2" FechaContratacion="2017-12-08T11:09:50.930" />
+		<dbo.ServicioXPropiedad NumeroFinca="96870" IDServicio="3" FechaContratacion="2017-12-08T11:09:50.930" />
+		<dbo.ServicioXPropiedad NumeroFinca="96870" IDServicio="4" FechaContratacion="2017-12-08T11:09:50.930" />
+		<dbo.ServicioXPropiedad NumeroFinca="13866" IDServicio="1" FechaContratacion="2017-12-19T18:25:16.510" />
+		<dbo.ServicioXPropiedad NumeroFinca="13866" IDServicio="2" FechaContratacion="2017-12-19T18:25:16.510" />
+		<dbo.ServicioXPropiedad NumeroFinca="13866" IDServicio="3" FechaContratacion="2017-12-19T18:25:16.510" />
+		<dbo.ServicioXPropiedad NumeroFinca="13866" IDServicio="4" FechaContratacion="2017-12-19T18:25:16.510" />
+		<dbo.ServicioXPropiedad NumeroFinca="43010" IDServicio="1" FechaContratacion="2017-12-24T20:10:53.330" />
+		<dbo.ServicioXPropiedad NumeroFinca="43010" IDServicio="2" FechaContratacion="2017-12-24T20:10:53.330" />
+		<dbo.ServicioXPropiedad NumeroFinca="43010" IDServicio="3" FechaContratacion="2017-12-24T20:10:53.330" />
+		<dbo.ServicioXPropiedad NumeroFinca="43010" IDServicio="4" FechaContratacion="2017-12-24T20:10:53.330" />
+		<dbo.ServicioXPropiedad NumeroFinca="24155" IDServicio="1" FechaContratacion="2017-12-10T04:10:38.630" />
+		<dbo.ServicioXPropiedad NumeroFinca="24155" IDServicio="2" FechaContratacion="2017-12-10T04:10:38.630" />
+		<dbo.ServicioXPropiedad NumeroFinca="24155" IDServicio="3" FechaContratacion="2017-12-10T04:10:38.630" />
+		<dbo.ServicioXPropiedad NumeroFinca="24155" IDServicio="4" FechaContratacion="2017-12-10T04:10:38.630" />
+		<dbo.ServicioXPropiedad NumeroFinca="24789" IDServicio="1" FechaContratacion="2017-12-29T15:15:23.230" />
+		<dbo.ServicioXPropiedad NumeroFinca="24789" IDServicio="2" FechaContratacion="2017-12-29T15:15:23.230" />
+		<dbo.ServicioXPropiedad NumeroFinca="24789" IDServicio="3" FechaContratacion="2017-12-29T15:15:23.230" />
+		<dbo.ServicioXPropiedad NumeroFinca="24789" IDServicio="4" FechaContratacion="2017-12-29T15:15:23.230" />
+		<dbo.ServicioXPropiedad NumeroFinca="54964" IDServicio="1" FechaContratacion="2017-12-07T17:35:35.630" />
+		<dbo.ServicioXPropiedad NumeroFinca="54964" IDServicio="2" FechaContratacion="2017-12-07T17:35:35.630" />
+		<dbo.ServicioXPropiedad NumeroFinca="54964" IDServicio="3" FechaContratacion="2017-12-07T17:35:35.630" />
+		<dbo.ServicioXPropiedad NumeroFinca="54964" IDServicio="4" FechaContratacion="2017-12-07T17:35:35.630" />
+		<dbo.ServicioXPropiedad NumeroFinca="51454" IDServicio="1" FechaContratacion="2017-12-20T18:24:00.240" />
+		<dbo.ServicioXPropiedad NumeroFinca="51454" IDServicio="2" FechaContratacion="2017-12-20T18:24:00.240" />
+		<dbo.ServicioXPropiedad NumeroFinca="51454" IDServicio="3" FechaContratacion="2017-12-20T18:24:00.240" />
+		<dbo.ServicioXPropiedad NumeroFinca="51454" IDServicio="4" FechaContratacion="2017-12-20T18:24:00.240" />
+		<dbo.ServicioXPropiedad NumeroFinca="39573" IDServicio="1" FechaContratacion="2017-12-29T07:49:34.210" />
+		<dbo.ServicioXPropiedad NumeroFinca="39573" IDServicio="2" FechaContratacion="2017-12-29T07:49:34.210" />
+		<dbo.ServicioXPropiedad NumeroFinca="39573" IDServicio="3" FechaContratacion="2017-12-29T07:49:34.210" />
+		<dbo.ServicioXPropiedad NumeroFinca="39573" IDServicio="4" FechaContratacion="2017-12-29T07:49:34.210" />
+		<dbo.ServicioXPropiedad NumeroFinca="40607" IDServicio="1" FechaContratacion="2017-12-18T22:43:58.090" />
+		<dbo.ServicioXPropiedad NumeroFinca="40607" IDServicio="2" FechaContratacion="2017-12-18T22:43:58.090" />
+		<dbo.ServicioXPropiedad NumeroFinca="40607" IDServicio="3" FechaContratacion="2017-12-18T22:43:58.090" />
+		<dbo.ServicioXPropiedad NumeroFinca="40607" IDServicio="4" FechaContratacion="2017-12-18T22:43:58.090" />
+		<dbo.ServicioXPropiedad NumeroFinca="96010" IDServicio="1" FechaContratacion="2017-12-12T23:11:58.060" />
+		<dbo.ServicioXPropiedad NumeroFinca="96010" IDServicio="2" FechaContratacion="2017-12-12T23:11:58.060" />
+		<dbo.ServicioXPropiedad NumeroFinca="96010" IDServicio="3" FechaContratacion="2017-12-12T23:11:58.060" />
+		<dbo.ServicioXPropiedad NumeroFinca="96010" IDServicio="4" FechaContratacion="2017-12-12T23:11:58.060" />
+		<dbo.ServicioXPropiedad NumeroFinca="96010" IDServicio="5" FechaContratacion="2017-12-12T23:11:58.060" />
+		<dbo.ServicioXPropiedad NumeroFinca="12223" IDServicio="1" FechaContratacion="2017-12-27T15:43:20.730" />
+		<dbo.ServicioXPropiedad NumeroFinca="12223" IDServicio="2" FechaContratacion="2017-12-27T15:43:20.730" />
+		<dbo.ServicioXPropiedad NumeroFinca="12223" IDServicio="3" FechaContratacion="2017-12-27T15:43:20.730" />
+		<dbo.ServicioXPropiedad NumeroFinca="12223" IDServicio="4" FechaContratacion="2017-12-27T15:43:20.730" />
+		<dbo.ServicioXPropiedad NumeroFinca="97622" IDServicio="1" FechaContratacion="2017-12-07T04:01:24.270" />
+		<dbo.ServicioXPropiedad NumeroFinca="97622" IDServicio="2" FechaContratacion="2017-12-07T04:01:24.270" />
+		<dbo.ServicioXPropiedad NumeroFinca="97622" IDServicio="3" FechaContratacion="2017-12-07T04:01:24.270" />
+		<dbo.ServicioXPropiedad NumeroFinca="97622" IDServicio="4" FechaContratacion="2017-12-07T04:01:24.270" />
+		<dbo.ServicioXPropiedad NumeroFinca="36008" IDServicio="1" FechaContratacion="2017-12-21T16:13:30.420" />
+		<dbo.ServicioXPropiedad NumeroFinca="36008" IDServicio="2" FechaContratacion="2017-12-21T16:13:30.420" />
+		<dbo.ServicioXPropiedad NumeroFinca="36008" IDServicio="3" FechaContratacion="2017-12-21T16:13:30.420" />
+		<dbo.ServicioXPropiedad NumeroFinca="36008" IDServicio="4" FechaContratacion="2017-12-21T16:13:30.420" />
+		<dbo.ServicioXPropiedad NumeroFinca="25361" IDServicio="1" FechaContratacion="2017-12-12T16:44:32.420" />
+		<dbo.ServicioXPropiedad NumeroFinca="25361" IDServicio="2" FechaContratacion="2017-12-12T16:44:32.420" />
+		<dbo.ServicioXPropiedad NumeroFinca="25361" IDServicio="3" FechaContratacion="2017-12-12T16:44:32.420" />
+		<dbo.ServicioXPropiedad NumeroFinca="25361" IDServicio="4" FechaContratacion="2017-12-12T16:44:32.420" />
+		<dbo.ServicioXPropiedad NumeroFinca="89960" IDServicio="1" FechaContratacion="2017-12-20T18:43:20.800" />
+		<dbo.ServicioXPropiedad NumeroFinca="89960" IDServicio="2" FechaContratacion="2017-12-20T18:43:20.800" />
+		<dbo.ServicioXPropiedad NumeroFinca="89960" IDServicio="3" FechaContratacion="2017-12-20T18:43:20.800" />
+		<dbo.ServicioXPropiedad NumeroFinca="89960" IDServicio="4" FechaContratacion="2017-12-20T18:43:20.800" />
+		<dbo.ServicioXPropiedad NumeroFinca="89960" IDServicio="5" FechaContratacion="2017-12-20T18:43:20.800" />
+		<dbo.ServicioXPropiedad NumeroFinca="74964" IDServicio="1" FechaContratacion="2017-12-04T13:10:11.490" />
+		<dbo.ServicioXPropiedad NumeroFinca="74964" IDServicio="2" FechaContratacion="2017-12-04T13:10:11.490" />
+		<dbo.ServicioXPropiedad NumeroFinca="74964" IDServicio="3" FechaContratacion="2017-12-04T13:10:11.490" />
+		<dbo.ServicioXPropiedad NumeroFinca="74964" IDServicio="4" FechaContratacion="2017-12-04T13:10:11.490" />
+		<dbo.ServicioXPropiedad NumeroFinca="81754" IDServicio="1" FechaContratacion="2017-12-26T00:39:11.650" />
+		<dbo.ServicioXPropiedad NumeroFinca="81754" IDServicio="2" FechaContratacion="2017-12-26T00:39:11.650" />
+		<dbo.ServicioXPropiedad NumeroFinca="81754" IDServicio="3" FechaContratacion="2017-12-26T00:39:11.650" />
+		<dbo.ServicioXPropiedad NumeroFinca="81754" IDServicio="4" FechaContratacion="2017-12-26T00:39:11.650" />
+		<dbo.ServicioXPropiedad NumeroFinca="19844" IDServicio="1" FechaContratacion="2017-12-16T01:35:39.110" />
+		<dbo.ServicioXPropiedad NumeroFinca="19844" IDServicio="2" FechaContratacion="2017-12-16T01:35:39.110" />
+		<dbo.ServicioXPropiedad NumeroFinca="19844" IDServicio="3" FechaContratacion="2017-12-16T01:35:39.110" />
+		<dbo.ServicioXPropiedad NumeroFinca="19844" IDServicio="4" FechaContratacion="2017-12-16T01:35:39.110" />
+		<dbo.ServicioXPropiedad NumeroFinca="50754" IDServicio="1" FechaContratacion="2017-12-22T16:54:33.240" />
+		<dbo.ServicioXPropiedad NumeroFinca="50754" IDServicio="2" FechaContratacion="2017-12-22T16:54:33.240" />
+		<dbo.ServicioXPropiedad NumeroFinca="50754" IDServicio="3" FechaContratacion="2017-12-22T16:54:33.240" />
+		<dbo.ServicioXPropiedad NumeroFinca="50754" IDServicio="4" FechaContratacion="2017-12-22T16:54:33.240" />
+		<dbo.ServicioXPropiedad NumeroFinca="50754" IDServicio="5" FechaContratacion="2017-12-22T16:54:33.240" />
+		<dbo.ServicioXPropiedad NumeroFinca="1024" IDServicio="1" FechaContratacion="2017-12-01T19:00:51.480" />
+		<dbo.ServicioXPropiedad NumeroFinca="1024" IDServicio="2" FechaContratacion="2017-12-01T19:00:51.480" />
+		<dbo.ServicioXPropiedad NumeroFinca="1024" IDServicio="3" FechaContratacion="2017-12-01T19:00:51.480" />
+		<dbo.ServicioXPropiedad NumeroFinca="1024" IDServicio="4" FechaContratacion="2017-12-01T19:00:51.480" />
+		<dbo.ServicioXPropiedad NumeroFinca="29348" IDServicio="1" FechaContratacion="2017-12-04T01:34:27.370" />
+		<dbo.ServicioXPropiedad NumeroFinca="29348" IDServicio="2" FechaContratacion="2017-12-04T01:34:27.370" />
+		<dbo.ServicioXPropiedad NumeroFinca="29348" IDServicio="3" FechaContratacion="2017-12-04T01:34:27.370" />
+		<dbo.ServicioXPropiedad NumeroFinca="29348" IDServicio="4" FechaContratacion="2017-12-04T01:34:27.370" />
+		<dbo.ServicioXPropiedad NumeroFinca="34703" IDServicio="1" FechaContratacion="2017-12-18T04:59:27.640" />
+		<dbo.ServicioXPropiedad NumeroFinca="34703" IDServicio="2" FechaContratacion="2017-12-18T04:59:27.640" />
+		<dbo.ServicioXPropiedad NumeroFinca="34703" IDServicio="3" FechaContratacion="2017-12-18T04:59:27.640" />
+		<dbo.ServicioXPropiedad NumeroFinca="34703" IDServicio="4" FechaContratacion="2017-12-18T04:59:27.640" />
+		<dbo.ServicioXPropiedad NumeroFinca="52919" IDServicio="1" FechaContratacion="2017-12-19T07:02:12.320" />
+		<dbo.ServicioXPropiedad NumeroFinca="52919" IDServicio="2" FechaContratacion="2017-12-19T07:02:12.320" />
+		<dbo.ServicioXPropiedad NumeroFinca="52919" IDServicio="3" FechaContratacion="2017-12-19T07:02:12.320" />
+		<dbo.ServicioXPropiedad NumeroFinca="52919" IDServicio="4" FechaContratacion="2017-12-19T07:02:12.320" />
+		<dbo.ServicioXPropiedad NumeroFinca="27673" IDServicio="1" FechaContratacion="2017-12-24T18:51:33.330" />
+		<dbo.ServicioXPropiedad NumeroFinca="27673" IDServicio="2" FechaContratacion="2017-12-24T18:51:33.330" />
+		<dbo.ServicioXPropiedad NumeroFinca="27673" IDServicio="3" FechaContratacion="2017-12-24T18:51:33.330" />
+		<dbo.ServicioXPropiedad NumeroFinca="27673" IDServicio="4" FechaContratacion="2017-12-24T18:51:33.330" />
+		<dbo.ServicioXPropiedad NumeroFinca="88212" IDServicio="1" FechaContratacion="2017-12-23T11:22:51.190" />
+		<dbo.ServicioXPropiedad NumeroFinca="88212" IDServicio="2" FechaContratacion="2017-12-23T11:22:51.190" />
+		<dbo.ServicioXPropiedad NumeroFinca="88212" IDServicio="3" FechaContratacion="2017-12-23T11:22:51.190" />
+		<dbo.ServicioXPropiedad NumeroFinca="88212" IDServicio="4" FechaContratacion="2017-12-23T11:22:51.190" />
+		<dbo.ServicioXPropiedad NumeroFinca="80822" IDServicio="1" FechaContratacion="2017-12-22T09:09:28.830" />
+		<dbo.ServicioXPropiedad NumeroFinca="80822" IDServicio="2" FechaContratacion="2017-12-26T23:18:50.770" />
+		<dbo.ServicioXPropiedad NumeroFinca="80822" IDServicio="3" FechaContratacion="2017-12-05T10:59:03.980" />
+		<dbo.ServicioXPropiedad NumeroFinca="80822" IDServicio="4" FechaContratacion="2017-12-21T00:20:11.800" />
+		<dbo.ServicioXPropiedad NumeroFinca="10556" IDServicio="1" FechaContratacion="2017-12-27T16:49:46.850" />
+		<dbo.ServicioXPropiedad NumeroFinca="10556" IDServicio="2" FechaContratacion="2017-12-27T16:49:46.850" />
+		<dbo.ServicioXPropiedad NumeroFinca="10556" IDServicio="3" FechaContratacion="2017-12-27T16:49:46.850" />
+		<dbo.ServicioXPropiedad NumeroFinca="10556" IDServicio="4" FechaContratacion="2017-12-27T16:49:46.850" />
+		<dbo.ServicioXPropiedad NumeroFinca="31432" IDServicio="1" FechaContratacion="2017-12-04T06:44:57.050" />
+		<dbo.ServicioXPropiedad NumeroFinca="31432" IDServicio="2" FechaContratacion="2017-12-04T06:44:57.050" />
+		<dbo.ServicioXPropiedad NumeroFinca="31432" IDServicio="3" FechaContratacion="2017-12-04T06:44:57.050" />
+		<dbo.ServicioXPropiedad NumeroFinca="31432" IDServicio="4" FechaContratacion="2017-12-04T06:44:57.050" />
+		<dbo.ServicioXPropiedad NumeroFinca="7927" IDServicio="1" FechaContratacion="2017-12-29T04:11:11.780" />
+		<dbo.ServicioXPropiedad NumeroFinca="7927" IDServicio="2" FechaContratacion="2017-12-29T04:11:11.780" />
+		<dbo.ServicioXPropiedad NumeroFinca="7927" IDServicio="3" FechaContratacion="2017-12-29T04:11:11.780" />
+		<dbo.ServicioXPropiedad NumeroFinca="7927" IDServicio="4" FechaContratacion="2017-12-29T04:11:11.780" />
+		<dbo.ServicioXPropiedad NumeroFinca="8322" IDServicio="1" FechaContratacion="2017-12-05T18:42:24.810" />
+		<dbo.ServicioXPropiedad NumeroFinca="8322" IDServicio="2" FechaContratacion="2017-12-05T18:42:24.810" />
+		<dbo.ServicioXPropiedad NumeroFinca="8322" IDServicio="3" FechaContratacion="2017-12-05T18:42:24.810" />
+		<dbo.ServicioXPropiedad NumeroFinca="8322" IDServicio="4" FechaContratacion="2017-12-05T18:42:24.810" />
+		<dbo.ServicioXPropiedad NumeroFinca="97619" IDServicio="1" FechaContratacion="2017-12-19T14:02:43.300" />
+		<dbo.ServicioXPropiedad NumeroFinca="97619" IDServicio="2" FechaContratacion="2017-12-19T14:02:43.300" />
+		<dbo.ServicioXPropiedad NumeroFinca="97619" IDServicio="3" FechaContratacion="2017-12-19T14:02:43.300" />
+		<dbo.ServicioXPropiedad NumeroFinca="97619" IDServicio="4" FechaContratacion="2017-12-19T14:02:43.300" />
+		<dbo.ServicioXPropiedad NumeroFinca="53186" IDServicio="1" FechaContratacion="2017-12-03T09:46:26.610" />
+		<dbo.ServicioXPropiedad NumeroFinca="53186" IDServicio="2" FechaContratacion="2017-12-03T09:46:26.610" />
+		<dbo.ServicioXPropiedad NumeroFinca="53186" IDServicio="3" FechaContratacion="2017-12-03T09:46:26.610" />
+		<dbo.ServicioXPropiedad NumeroFinca="53186" IDServicio="4" FechaContratacion="2017-12-03T09:46:26.610" />
+		<dbo.ServicioXPropiedad NumeroFinca="53186" IDServicio="5" FechaContratacion="2017-12-03T09:46:26.610" />
+		<dbo.ServicioXPropiedad NumeroFinca="50073" IDServicio="1" FechaContratacion="2017-12-24T10:48:21.190" />
+		<dbo.ServicioXPropiedad NumeroFinca="50073" IDServicio="2" FechaContratacion="2017-12-24T10:48:21.190" />
+		<dbo.ServicioXPropiedad NumeroFinca="50073" IDServicio="3" FechaContratacion="2017-12-24T10:48:21.190" />
+		<dbo.ServicioXPropiedad NumeroFinca="50073" IDServicio="4" FechaContratacion="2017-12-24T10:48:21.190" />
+		<dbo.ServicioXPropiedad NumeroFinca="32422" IDServicio="1" FechaContratacion="2017-12-04T03:21:34.140" />
+		<dbo.ServicioXPropiedad NumeroFinca="32422" IDServicio="2" FechaContratacion="2017-12-04T03:21:34.140" />
+		<dbo.ServicioXPropiedad NumeroFinca="32422" IDServicio="3" FechaContratacion="2017-12-04T03:21:34.140" />
+		<dbo.ServicioXPropiedad NumeroFinca="32422" IDServicio="4" FechaContratacion="2017-12-04T03:21:34.140" />
+		<dbo.ServicioXPropiedad NumeroFinca="68497" IDServicio="1" FechaContratacion="2017-12-16T13:55:44.980" />
+		<dbo.ServicioXPropiedad NumeroFinca="68497" IDServicio="2" FechaContratacion="2017-12-16T13:55:44.980" />
+		<dbo.ServicioXPropiedad NumeroFinca="68497" IDServicio="3" FechaContratacion="2017-12-16T13:55:44.980" />
+		<dbo.ServicioXPropiedad NumeroFinca="68497" IDServicio="4" FechaContratacion="2017-12-16T13:55:44.980" />
+		<dbo.ServicioXPropiedad NumeroFinca="68497" IDServicio="5" FechaContratacion="2017-12-16T13:55:44.980" />
+		<dbo.ServicioXPropiedad NumeroFinca="8292" IDServicio="1" FechaContratacion="2017-12-23T12:04:20.220" />
+		<dbo.ServicioXPropiedad NumeroFinca="8292" IDServicio="2" FechaContratacion="2017-12-23T12:04:20.220" />
+		<dbo.ServicioXPropiedad NumeroFinca="8292" IDServicio="3" FechaContratacion="2017-12-23T12:04:20.220" />
+		<dbo.ServicioXPropiedad NumeroFinca="8292" IDServicio="4" FechaContratacion="2017-12-23T12:04:20.220" />
+		<dbo.ServicioXPropiedad NumeroFinca="12250" IDServicio="1" FechaContratacion="2017-12-26T21:31:40.230" />
+		<dbo.ServicioXPropiedad NumeroFinca="12250" IDServicio="2" FechaContratacion="2017-12-26T21:31:40.230" />
+		<dbo.ServicioXPropiedad NumeroFinca="12250" IDServicio="3" FechaContratacion="2017-12-26T21:31:40.230" />
+		<dbo.ServicioXPropiedad NumeroFinca="12250" IDServicio="4" FechaContratacion="2017-12-26T21:31:40.230" />
+		<dbo.ServicioXPropiedad NumeroFinca="3807" IDServicio="1" FechaContratacion="2017-12-06T16:43:06.160" />
+		<dbo.ServicioXPropiedad NumeroFinca="3807" IDServicio="2" FechaContratacion="2017-12-06T16:43:06.160" />
+		<dbo.ServicioXPropiedad NumeroFinca="3807" IDServicio="3" FechaContratacion="2017-12-06T16:43:06.160" />
+		<dbo.ServicioXPropiedad NumeroFinca="3807" IDServicio="4" FechaContratacion="2017-12-06T16:43:06.160" />
+		<dbo.ServicioXPropiedad NumeroFinca="48117" IDServicio="1" FechaContratacion="2017-12-22T17:49:38.720" />
+		<dbo.ServicioXPropiedad NumeroFinca="48117" IDServicio="2" FechaContratacion="2017-12-22T17:49:38.720" />
+		<dbo.ServicioXPropiedad NumeroFinca="48117" IDServicio="3" FechaContratacion="2017-12-22T17:49:38.720" />
+		<dbo.ServicioXPropiedad NumeroFinca="48117" IDServicio="4" FechaContratacion="2017-12-22T17:49:38.720" />
+		<dbo.ServicioXPropiedad NumeroFinca="12270" IDServicio="1" FechaContratacion="2017-12-19T01:35:32.390" />
+		<dbo.ServicioXPropiedad NumeroFinca="12270" IDServicio="2" FechaContratacion="2017-12-19T01:35:32.390" />
+		<dbo.ServicioXPropiedad NumeroFinca="12270" IDServicio="3" FechaContratacion="2017-12-19T01:35:32.390" />
+		<dbo.ServicioXPropiedad NumeroFinca="12270" IDServicio="4" FechaContratacion="2017-12-19T01:35:32.390" />
+		<dbo.ServicioXPropiedad NumeroFinca="16964" IDServicio="1" FechaContratacion="2017-12-05T23:04:02.620" />
+		<dbo.ServicioXPropiedad NumeroFinca="16964" IDServicio="2" FechaContratacion="2017-12-05T23:04:02.620" />
+		<dbo.ServicioXPropiedad NumeroFinca="16964" IDServicio="3" FechaContratacion="2017-12-05T23:04:02.620" />
+		<dbo.ServicioXPropiedad NumeroFinca="16964" IDServicio="4" FechaContratacion="2017-12-05T23:04:02.620" />
+		<dbo.ServicioXPropiedad NumeroFinca="37678" IDServicio="1" FechaContratacion="2017-12-12T15:02:30.500" />
+		<dbo.ServicioXPropiedad NumeroFinca="37678" IDServicio="2" FechaContratacion="2017-12-12T15:02:30.500" />
+		<dbo.ServicioXPropiedad NumeroFinca="37678" IDServicio="3" FechaContratacion="2017-12-12T15:02:30.500" />
+		<dbo.ServicioXPropiedad NumeroFinca="37678" IDServicio="4" FechaContratacion="2017-12-12T15:02:30.500" />
+		<dbo.ServicioXPropiedad NumeroFinca="8201" IDServicio="1" FechaContratacion="2017-12-23T00:18:21.580" />
+		<dbo.ServicioXPropiedad NumeroFinca="8201" IDServicio="2" FechaContratacion="2017-12-23T00:18:21.580" />
+		<dbo.ServicioXPropiedad NumeroFinca="8201" IDServicio="3" FechaContratacion="2017-12-23T00:18:21.580" />
+		<dbo.ServicioXPropiedad NumeroFinca="8201" IDServicio="4" FechaContratacion="2017-12-23T00:18:21.580" />
+		<dbo.ServicioXPropiedad NumeroFinca="90216" IDServicio="1" FechaContratacion="2017-12-04T12:55:26.250" />
+		<dbo.ServicioXPropiedad NumeroFinca="90216" IDServicio="2" FechaContratacion="2017-12-04T12:55:26.250" />
+		<dbo.ServicioXPropiedad NumeroFinca="90216" IDServicio="3" FechaContratacion="2017-12-04T12:55:26.250" />
+		<dbo.ServicioXPropiedad NumeroFinca="90216" IDServicio="4" FechaContratacion="2017-12-04T12:55:26.250" />
+		<dbo.ServicioXPropiedad NumeroFinca="60230" IDServicio="1" FechaContratacion="2017-12-02T15:11:38.910" />
+		<dbo.ServicioXPropiedad NumeroFinca="60230" IDServicio="2" FechaContratacion="2017-12-02T15:11:38.910" />
+		<dbo.ServicioXPropiedad NumeroFinca="60230" IDServicio="3" FechaContratacion="2017-12-02T15:11:38.910" />
+		<dbo.ServicioXPropiedad NumeroFinca="60230" IDServicio="4" FechaContratacion="2017-12-02T15:11:38.910" />
+		<dbo.ServicioXPropiedad NumeroFinca="63370" IDServicio="1" FechaContratacion="2017-12-28T08:31:20.810" />
+		<dbo.ServicioXPropiedad NumeroFinca="63370" IDServicio="2" FechaContratacion="2017-12-28T08:31:20.810" />
+		<dbo.ServicioXPropiedad NumeroFinca="63370" IDServicio="3" FechaContratacion="2017-12-28T08:31:20.810" />
+		<dbo.ServicioXPropiedad NumeroFinca="63370" IDServicio="4" FechaContratacion="2017-12-28T08:31:20.810" />
+		<dbo.ServicioXPropiedad NumeroFinca="28747" IDServicio="1" FechaContratacion="2017-12-29T07:39:39.290" />
+		<dbo.ServicioXPropiedad NumeroFinca="28747" IDServicio="2" FechaContratacion="2017-12-29T07:39:39.290" />
+		<dbo.ServicioXPropiedad NumeroFinca="28747" IDServicio="3" FechaContratacion="2017-12-29T07:39:39.290" />
+		<dbo.ServicioXPropiedad NumeroFinca="28747" IDServicio="4" FechaContratacion="2017-12-29T07:39:39.290" />
+		<dbo.ServicioXPropiedad NumeroFinca="46521" IDServicio="1" FechaContratacion="2017-12-30T01:22:00.910" />
+		<dbo.ServicioXPropiedad NumeroFinca="46521" IDServicio="2" FechaContratacion="2017-12-30T01:22:00.910" />
+		<dbo.ServicioXPropiedad NumeroFinca="46521" IDServicio="3" FechaContratacion="2017-12-30T01:22:00.910" />
+		<dbo.ServicioXPropiedad NumeroFinca="46521" IDServicio="4" FechaContratacion="2017-12-30T01:22:00.910" />
+		<dbo.ServicioXPropiedad NumeroFinca="46521" IDServicio="5" FechaContratacion="2017-12-30T01:22:00.910" />
+		<dbo.ServicioXPropiedad NumeroFinca="95764" IDServicio="1" FechaContratacion="2017-12-18T17:48:37.500" />
+		<dbo.ServicioXPropiedad NumeroFinca="95764" IDServicio="2" FechaContratacion="2017-12-18T17:48:37.500" />
+		<dbo.ServicioXPropiedad NumeroFinca="95764" IDServicio="3" FechaContratacion="2017-12-18T17:48:37.500" />
+		<dbo.ServicioXPropiedad NumeroFinca="95764" IDServicio="4" FechaContratacion="2017-12-18T17:48:37.500" />
+		<dbo.ServicioXPropiedad NumeroFinca="95764" IDServicio="5" FechaContratacion="2017-12-18T17:48:37.500" />
+		<dbo.ServicioXPropiedad NumeroFinca="62334" IDServicio="1" FechaContratacion="2017-12-16T00:32:43.290" />
+		<dbo.ServicioXPropiedad NumeroFinca="62334" IDServicio="2" FechaContratacion="2017-12-16T00:32:43.290" />
+		<dbo.ServicioXPropiedad NumeroFinca="62334" IDServicio="3" FechaContratacion="2017-12-16T00:32:43.290" />
+		<dbo.ServicioXPropiedad NumeroFinca="62334" IDServicio="4" FechaContratacion="2017-12-16T00:32:43.290" />
+		<dbo.ServicioXPropiedad NumeroFinca="72930" IDServicio="1" FechaContratacion="2017-12-07T07:25:44.520" />
+		<dbo.ServicioXPropiedad NumeroFinca="72930" IDServicio="2" FechaContratacion="2017-12-07T07:25:44.520" />
+		<dbo.ServicioXPropiedad NumeroFinca="72930" IDServicio="3" FechaContratacion="2017-12-07T07:25:44.520" />
+		<dbo.ServicioXPropiedad NumeroFinca="72930" IDServicio="4" FechaContratacion="2017-12-07T07:25:44.520" />
+		<dbo.ServicioXPropiedad NumeroFinca="16977" IDServicio="1" FechaContratacion="2017-12-03T22:58:02.860" />
+		<dbo.ServicioXPropiedad NumeroFinca="16977" IDServicio="2" FechaContratacion="2017-12-03T22:58:02.860" />
+		<dbo.ServicioXPropiedad NumeroFinca="16977" IDServicio="3" FechaContratacion="2017-12-03T22:58:02.860" />
+		<dbo.ServicioXPropiedad NumeroFinca="16977" IDServicio="4" FechaContratacion="2017-12-03T22:58:02.860" />
+		<dbo.ServicioXPropiedad NumeroFinca="48370" IDServicio="1" FechaContratacion="2017-12-25T07:36:34.380" />
+		<dbo.ServicioXPropiedad NumeroFinca="48370" IDServicio="2" FechaContratacion="2017-12-25T07:36:34.380" />
+		<dbo.ServicioXPropiedad NumeroFinca="48370" IDServicio="3" FechaContratacion="2017-12-25T07:36:34.380" />
+		<dbo.ServicioXPropiedad NumeroFinca="48370" IDServicio="4" FechaContratacion="2017-12-25T07:36:34.380" />
+		<dbo.ServicioXPropiedad NumeroFinca="6022" IDServicio="1" FechaContratacion="2017-12-15T21:55:23.990" />
+		<dbo.ServicioXPropiedad NumeroFinca="6022" IDServicio="2" FechaContratacion="2017-12-15T21:55:23.990" />
+		<dbo.ServicioXPropiedad NumeroFinca="6022" IDServicio="3" FechaContratacion="2017-12-15T21:55:23.990" />
+		<dbo.ServicioXPropiedad NumeroFinca="6022" IDServicio="4" FechaContratacion="2017-12-15T21:55:23.990" />
+		<dbo.ServicioXPropiedad NumeroFinca="28501" IDServicio="1" FechaContratacion="2017-12-29T06:19:32.560" />
+		<dbo.ServicioXPropiedad NumeroFinca="28501" IDServicio="2" FechaContratacion="2017-12-29T06:19:32.560" />
+		<dbo.ServicioXPropiedad NumeroFinca="28501" IDServicio="3" FechaContratacion="2017-12-29T06:19:32.560" />
+		<dbo.ServicioXPropiedad NumeroFinca="28501" IDServicio="4" FechaContratacion="2017-12-29T06:19:32.560" />
+		<dbo.ServicioXPropiedad NumeroFinca="55337" IDServicio="1" FechaContratacion="2017-12-09T07:13:03.870" />
+		<dbo.ServicioXPropiedad NumeroFinca="55337" IDServicio="2" FechaContratacion="2017-12-09T07:13:03.870" />
+		<dbo.ServicioXPropiedad NumeroFinca="55337" IDServicio="3" FechaContratacion="2017-12-09T07:13:03.870" />
+		<dbo.ServicioXPropiedad NumeroFinca="55337" IDServicio="4" FechaContratacion="2017-12-09T07:13:03.870" />
+		<dbo.ServicioXPropiedad NumeroFinca="14608" IDServicio="1" FechaContratacion="2017-12-10T11:34:49.910" />
+		<dbo.ServicioXPropiedad NumeroFinca="14608" IDServicio="2" FechaContratacion="2017-12-10T11:34:49.910" />
+		<dbo.ServicioXPropiedad NumeroFinca="14608" IDServicio="3" FechaContratacion="2017-12-10T11:34:49.910" />
+		<dbo.ServicioXPropiedad NumeroFinca="14608" IDServicio="4" FechaContratacion="2017-12-10T11:34:49.910" />
+		<dbo.ServicioXPropiedad NumeroFinca="99256" IDServicio="1" FechaContratacion="2017-12-13T17:02:41.010" />
+		<dbo.ServicioXPropiedad NumeroFinca="99256" IDServicio="2" FechaContratacion="2017-12-13T17:02:41.010" />
+		<dbo.ServicioXPropiedad NumeroFinca="99256" IDServicio="3" FechaContratacion="2017-12-13T17:02:41.010" />
+		<dbo.ServicioXPropiedad NumeroFinca="99256" IDServicio="4" FechaContratacion="2017-12-13T17:02:41.010" />
+		<dbo.ServicioXPropiedad NumeroFinca="179" IDServicio="1" FechaContratacion="2017-12-22T23:56:38.400" />
+		<dbo.ServicioXPropiedad NumeroFinca="179" IDServicio="2" FechaContratacion="2017-12-22T23:56:38.400" />
+		<dbo.ServicioXPropiedad NumeroFinca="179" IDServicio="3" FechaContratacion="2017-12-22T23:56:38.400" />
+		<dbo.ServicioXPropiedad NumeroFinca="179" IDServicio="4" FechaContratacion="2017-12-22T23:56:38.400" />
+		<dbo.ServicioXPropiedad NumeroFinca="96983" IDServicio="1" FechaContratacion="2017-12-04T23:42:05.480" />
+		<dbo.ServicioXPropiedad NumeroFinca="96983" IDServicio="2" FechaContratacion="2017-12-04T23:42:05.480" />
+		<dbo.ServicioXPropiedad NumeroFinca="96983" IDServicio="3" FechaContratacion="2017-12-04T23:42:05.480" />
+		<dbo.ServicioXPropiedad NumeroFinca="96983" IDServicio="4" FechaContratacion="2017-12-04T23:42:05.480" />
+		<dbo.ServicioXPropiedad NumeroFinca="68513" IDServicio="1" FechaContratacion="2017-12-10T03:06:10.280" />
+		<dbo.ServicioXPropiedad NumeroFinca="68513" IDServicio="2" FechaContratacion="2017-12-10T03:06:10.280" />
+		<dbo.ServicioXPropiedad NumeroFinca="68513" IDServicio="3" FechaContratacion="2017-12-10T03:06:10.280" />
+		<dbo.ServicioXPropiedad NumeroFinca="68513" IDServicio="4" FechaContratacion="2017-12-10T03:06:10.280" />
+		<dbo.ServicioXPropiedad NumeroFinca="45071" IDServicio="1" FechaContratacion="2017-12-08T05:30:28.310" />
+		<dbo.ServicioXPropiedad NumeroFinca="45071" IDServicio="2" FechaContratacion="2017-12-08T05:30:28.310" />
+		<dbo.ServicioXPropiedad NumeroFinca="45071" IDServicio="3" FechaContratacion="2017-12-08T05:30:28.310" />
+		<dbo.ServicioXPropiedad NumeroFinca="45071" IDServicio="4" FechaContratacion="2017-12-08T05:30:28.310" />
+		<dbo.ServicioXPropiedad NumeroFinca="41515" IDServicio="1" FechaContratacion="2017-12-06T21:17:20.270" />
+		<dbo.ServicioXPropiedad NumeroFinca="41515" IDServicio="2" FechaContratacion="2017-12-06T21:17:20.270" />
+		<dbo.ServicioXPropiedad NumeroFinca="41515" IDServicio="3" FechaContratacion="2017-12-06T21:17:20.270" />
+		<dbo.ServicioXPropiedad NumeroFinca="41515" IDServicio="4" FechaContratacion="2017-12-06T21:17:20.270" />
+		<dbo.ServicioXPropiedad NumeroFinca="75398" IDServicio="1" FechaContratacion="2017-12-15T21:30:38.950" />
+		<dbo.ServicioXPropiedad NumeroFinca="75398" IDServicio="2" FechaContratacion="2017-12-15T21:30:38.950" />
+		<dbo.ServicioXPropiedad NumeroFinca="75398" IDServicio="3" FechaContratacion="2017-12-15T21:30:38.950" />
+		<dbo.ServicioXPropiedad NumeroFinca="75398" IDServicio="4" FechaContratacion="2017-12-15T21:30:38.950" />
+		<dbo.ServicioXPropiedad NumeroFinca="12840" IDServicio="1" FechaContratacion="2017-12-09T19:35:35.100" />
+		<dbo.ServicioXPropiedad NumeroFinca="12840" IDServicio="2" FechaContratacion="2017-12-09T19:35:35.100" />
+		<dbo.ServicioXPropiedad NumeroFinca="12840" IDServicio="3" FechaContratacion="2017-12-09T19:35:35.100" />
+		<dbo.ServicioXPropiedad NumeroFinca="12840" IDServicio="4" FechaContratacion="2017-12-09T19:35:35.100" />
+		<dbo.ServicioXPropiedad NumeroFinca="63771" IDServicio="1" FechaContratacion="2017-12-18T07:30:31.990" />
+		<dbo.ServicioXPropiedad NumeroFinca="63771" IDServicio="2" FechaContratacion="2017-12-18T07:30:31.990" />
+		<dbo.ServicioXPropiedad NumeroFinca="63771" IDServicio="3" FechaContratacion="2017-12-18T07:30:31.990" />
+		<dbo.ServicioXPropiedad NumeroFinca="63771" IDServicio="4" FechaContratacion="2017-12-18T07:30:31.990" />
+		<dbo.ServicioXPropiedad NumeroFinca="89081" IDServicio="1" FechaContratacion="2017-12-05T23:10:48.760" />
+		<dbo.ServicioXPropiedad NumeroFinca="89081" IDServicio="2" FechaContratacion="2017-12-05T23:10:48.760" />
+		<dbo.ServicioXPropiedad NumeroFinca="89081" IDServicio="3" FechaContratacion="2017-12-05T23:10:48.760" />
+		<dbo.ServicioXPropiedad NumeroFinca="89081" IDServicio="4" FechaContratacion="2017-12-05T23:10:48.760" />
+		<dbo.ServicioXPropiedad NumeroFinca="2722" IDServicio="1" FechaContratacion="2017-12-05T03:17:14.690" />
+		<dbo.ServicioXPropiedad NumeroFinca="2722" IDServicio="2" FechaContratacion="2017-12-05T03:17:14.690" />
+		<dbo.ServicioXPropiedad NumeroFinca="2722" IDServicio="3" FechaContratacion="2017-12-05T03:17:14.690" />
+		<dbo.ServicioXPropiedad NumeroFinca="2722" IDServicio="4" FechaContratacion="2017-12-05T03:17:14.690" />
+		<dbo.ServicioXPropiedad NumeroFinca="89135" IDServicio="1" FechaContratacion="2017-12-11T01:25:25.720" />
+		<dbo.ServicioXPropiedad NumeroFinca="89135" IDServicio="2" FechaContratacion="2017-12-11T01:25:25.720" />
+		<dbo.ServicioXPropiedad NumeroFinca="89135" IDServicio="3" FechaContratacion="2017-12-11T01:25:25.720" />
+		<dbo.ServicioXPropiedad NumeroFinca="89135" IDServicio="4" FechaContratacion="2017-12-11T01:25:25.720" />
+		<dbo.ServicioXPropiedad NumeroFinca="77626" IDServicio="1" FechaContratacion="2017-12-05T02:52:09.440" />
+		<dbo.ServicioXPropiedad NumeroFinca="77626" IDServicio="2" FechaContratacion="2017-12-05T02:52:09.440" />
+		<dbo.ServicioXPropiedad NumeroFinca="77626" IDServicio="3" FechaContratacion="2017-12-05T02:52:09.440" />
+		<dbo.ServicioXPropiedad NumeroFinca="77626" IDServicio="4" FechaContratacion="2017-12-05T02:52:09.440" />
+		<dbo.ServicioXPropiedad NumeroFinca="7990" IDServicio="1" FechaContratacion="2017-12-25T10:48:15.660" />
+		<dbo.ServicioXPropiedad NumeroFinca="7990" IDServicio="2" FechaContratacion="2017-12-25T10:48:15.660" />
+		<dbo.ServicioXPropiedad NumeroFinca="7990" IDServicio="3" FechaContratacion="2017-12-25T10:48:15.660" />
+		<dbo.ServicioXPropiedad NumeroFinca="7990" IDServicio="4" FechaContratacion="2017-12-25T10:48:15.660" />
+		<dbo.ServicioXPropiedad NumeroFinca="89240" IDServicio="1" FechaContratacion="2017-12-14T10:36:42.010" />
+		<dbo.ServicioXPropiedad NumeroFinca="89240" IDServicio="2" FechaContratacion="2017-12-14T10:36:42.010" />
+		<dbo.ServicioXPropiedad NumeroFinca="89240" IDServicio="3" FechaContratacion="2017-12-14T10:36:42.010" />
+		<dbo.ServicioXPropiedad NumeroFinca="89240" IDServicio="4" FechaContratacion="2017-12-14T10:36:42.010" />
+		<dbo.ServicioXPropiedad NumeroFinca="48250" IDServicio="1" FechaContratacion="2017-12-16T12:26:35.770" />
+		<dbo.ServicioXPropiedad NumeroFinca="48250" IDServicio="2" FechaContratacion="2017-12-16T12:26:35.770" />
+		<dbo.ServicioXPropiedad NumeroFinca="48250" IDServicio="3" FechaContratacion="2017-12-16T12:26:35.770" />
+		<dbo.ServicioXPropiedad NumeroFinca="48250" IDServicio="4" FechaContratacion="2017-12-16T12:26:35.770" />
+		<dbo.ServicioXPropiedad NumeroFinca="58347" IDServicio="1" FechaContratacion="2017-12-19T20:08:35.540" />
+		<dbo.ServicioXPropiedad NumeroFinca="58347" IDServicio="2" FechaContratacion="2017-12-19T20:08:35.540" />
+		<dbo.ServicioXPropiedad NumeroFinca="58347" IDServicio="3" FechaContratacion="2017-12-19T20:08:35.540" />
+		<dbo.ServicioXPropiedad NumeroFinca="58347" IDServicio="4" FechaContratacion="2017-12-19T20:08:35.540" />
+		<dbo.ServicioXPropiedad NumeroFinca="91365" IDServicio="1" FechaContratacion="2017-12-12T19:36:47.760" />
+		<dbo.ServicioXPropiedad NumeroFinca="91365" IDServicio="2" FechaContratacion="2017-12-12T19:36:47.760" />
+		<dbo.ServicioXPropiedad NumeroFinca="91365" IDServicio="3" FechaContratacion="2017-12-12T19:36:47.760" />
+		<dbo.ServicioXPropiedad NumeroFinca="91365" IDServicio="4" FechaContratacion="2017-12-12T19:36:47.760" />
+		<dbo.ServicioXPropiedad NumeroFinca="35061" IDServicio="1" FechaContratacion="2017-12-21T01:19:24.060" />
+		<dbo.ServicioXPropiedad NumeroFinca="35061" IDServicio="2" FechaContratacion="2017-12-21T01:19:24.060" />
+		<dbo.ServicioXPropiedad NumeroFinca="35061" IDServicio="3" FechaContratacion="2017-12-21T01:19:24.060" />
+		<dbo.ServicioXPropiedad NumeroFinca="35061" IDServicio="4" FechaContratacion="2017-12-21T01:19:24.060" />
+		<dbo.ServicioXPropiedad NumeroFinca="39022" IDServicio="1" FechaContratacion="2017-12-19T02:34:20.650" />
+		<dbo.ServicioXPropiedad NumeroFinca="39022" IDServicio="2" FechaContratacion="2017-12-19T02:34:20.650" />
+		<dbo.ServicioXPropiedad NumeroFinca="39022" IDServicio="3" FechaContratacion="2017-12-19T02:34:20.650" />
+		<dbo.ServicioXPropiedad NumeroFinca="39022" IDServicio="4" FechaContratacion="2017-12-19T02:34:20.650" />
+		<dbo.ServicioXPropiedad NumeroFinca="78496" IDServicio="1" FechaContratacion="2017-12-01T20:27:27.180" />
+		<dbo.ServicioXPropiedad NumeroFinca="78496" IDServicio="2" FechaContratacion="2017-12-01T20:27:27.180" />
+		<dbo.ServicioXPropiedad NumeroFinca="78496" IDServicio="3" FechaContratacion="2017-12-01T20:27:27.180" />
+		<dbo.ServicioXPropiedad NumeroFinca="78496" IDServicio="4" FechaContratacion="2017-12-01T20:27:27.180" />
+		<dbo.ServicioXPropiedad NumeroFinca="94981" IDServicio="1" FechaContratacion="2017-12-24T18:09:53.470" />
+		<dbo.ServicioXPropiedad NumeroFinca="94981" IDServicio="2" FechaContratacion="2017-12-24T18:09:53.470" />
+		<dbo.ServicioXPropiedad NumeroFinca="94981" IDServicio="3" FechaContratacion="2017-12-24T18:09:53.470" />
+		<dbo.ServicioXPropiedad NumeroFinca="94981" IDServicio="4" FechaContratacion="2017-12-24T18:09:53.470" />
+		<dbo.ServicioXPropiedad NumeroFinca="77294" IDServicio="1" FechaContratacion="2017-12-16T12:10:47.300" />
+		<dbo.ServicioXPropiedad NumeroFinca="77294" IDServicio="2" FechaContratacion="2017-12-16T12:10:47.300" />
+		<dbo.ServicioXPropiedad NumeroFinca="77294" IDServicio="3" FechaContratacion="2017-12-16T12:10:47.300" />
+		<dbo.ServicioXPropiedad NumeroFinca="77294" IDServicio="4" FechaContratacion="2017-12-16T12:10:47.300" />
+		<dbo.ServicioXPropiedad NumeroFinca="68149" IDServicio="1" FechaContratacion="2017-12-09T14:31:40.190" />
+		<dbo.ServicioXPropiedad NumeroFinca="68149" IDServicio="2" FechaContratacion="2017-12-09T14:31:40.190" />
+		<dbo.ServicioXPropiedad NumeroFinca="68149" IDServicio="3" FechaContratacion="2017-12-09T14:31:40.190" />
+		<dbo.ServicioXPropiedad NumeroFinca="68149" IDServicio="4" FechaContratacion="2017-12-09T14:31:40.190" />
+		<dbo.ServicioXPropiedad NumeroFinca="94401" IDServicio="1" FechaContratacion="2017-12-13T12:48:55.180" />
+		<dbo.ServicioXPropiedad NumeroFinca="94401" IDServicio="2" FechaContratacion="2017-12-13T12:48:55.180" />
+		<dbo.ServicioXPropiedad NumeroFinca="94401" IDServicio="3" FechaContratacion="2017-12-13T12:48:55.180" />
+		<dbo.ServicioXPropiedad NumeroFinca="94401" IDServicio="4" FechaContratacion="2017-12-13T12:48:55.180" />
+		<dbo.ServicioXPropiedad NumeroFinca="89542" IDServicio="1" FechaContratacion="2017-12-28T17:56:08.110" />
+		<dbo.ServicioXPropiedad NumeroFinca="89542" IDServicio="2" FechaContratacion="2017-12-28T17:56:08.110" />
+		<dbo.ServicioXPropiedad NumeroFinca="89542" IDServicio="3" FechaContratacion="2017-12-28T17:56:08.110" />
+		<dbo.ServicioXPropiedad NumeroFinca="89542" IDServicio="4" FechaContratacion="2017-12-28T17:56:08.110" />
+		<dbo.ServicioXPropiedad NumeroFinca="13904" IDServicio="1" FechaContratacion="2017-12-03T02:14:56.050" />
+		<dbo.ServicioXPropiedad NumeroFinca="13904" IDServicio="2" FechaContratacion="2017-12-03T02:14:56.050" />
+		<dbo.ServicioXPropiedad NumeroFinca="13904" IDServicio="3" FechaContratacion="2017-12-03T02:14:56.050" />
+		<dbo.ServicioXPropiedad NumeroFinca="13904" IDServicio="4" FechaContratacion="2017-12-03T02:14:56.050" />
+		<dbo.ServicioXPropiedad NumeroFinca="13904" IDServicio="5" FechaContratacion="2017-12-03T02:14:56.050" />
+		<dbo.ServicioXPropiedad NumeroFinca="81135" IDServicio="1" FechaContratacion="2017-12-04T03:58:50.370" />
+		<dbo.ServicioXPropiedad NumeroFinca="81135" IDServicio="2" FechaContratacion="2017-12-04T03:58:50.370" />
+		<dbo.ServicioXPropiedad NumeroFinca="81135" IDServicio="3" FechaContratacion="2017-12-04T03:58:50.370" />
+		<dbo.ServicioXPropiedad NumeroFinca="81135" IDServicio="4" FechaContratacion="2017-12-04T03:58:50.370" />
+		<dbo.ServicioXPropiedad NumeroFinca="65506" IDServicio="1" FechaContratacion="2017-12-25T05:57:37.310" />
+		<dbo.ServicioXPropiedad NumeroFinca="65506" IDServicio="2" FechaContratacion="2017-12-25T05:57:37.310" />
+		<dbo.ServicioXPropiedad NumeroFinca="65506" IDServicio="3" FechaContratacion="2017-12-25T05:57:37.310" />
+		<dbo.ServicioXPropiedad NumeroFinca="65506" IDServicio="4" FechaContratacion="2017-12-25T05:57:37.310" />
+		<dbo.ServicioXPropiedad NumeroFinca="16231" IDServicio="1" FechaContratacion="2017-12-29T18:02:32.510" />
+		<dbo.ServicioXPropiedad NumeroFinca="16231" IDServicio="2" FechaContratacion="2017-12-29T18:02:32.510" />
+		<dbo.ServicioXPropiedad NumeroFinca="16231" IDServicio="3" FechaContratacion="2017-12-29T18:02:32.510" />
+		<dbo.ServicioXPropiedad NumeroFinca="16231" IDServicio="4" FechaContratacion="2017-12-29T18:02:32.510" />
+		<dbo.ServicioXPropiedad NumeroFinca="56438" IDServicio="1" FechaContratacion="2017-12-06T21:00:18.860" />
+		<dbo.ServicioXPropiedad NumeroFinca="56438" IDServicio="2" FechaContratacion="2017-12-06T21:00:18.860" />
+		<dbo.ServicioXPropiedad NumeroFinca="56438" IDServicio="3" FechaContratacion="2017-12-06T21:00:18.860" />
+		<dbo.ServicioXPropiedad NumeroFinca="56438" IDServicio="4" FechaContratacion="2017-12-06T21:00:18.860" />
+		<dbo.ServicioXPropiedad NumeroFinca="10369" IDServicio="1" FechaContratacion="2017-12-01T06:08:03.230" />
+		<dbo.ServicioXPropiedad NumeroFinca="10369" IDServicio="2" FechaContratacion="2017-12-01T06:08:03.230" />
+		<dbo.ServicioXPropiedad NumeroFinca="10369" IDServicio="3" FechaContratacion="2017-12-01T06:08:03.230" />
+		<dbo.ServicioXPropiedad NumeroFinca="10369" IDServicio="4" FechaContratacion="2017-12-01T06:08:03.230" />
+		<dbo.ServicioXPropiedad NumeroFinca="19991" IDServicio="1" FechaContratacion="2017-12-23T20:27:53.150" />
+		<dbo.ServicioXPropiedad NumeroFinca="19991" IDServicio="2" FechaContratacion="2017-12-23T20:27:53.150" />
+		<dbo.ServicioXPropiedad NumeroFinca="19991" IDServicio="3" FechaContratacion="2017-12-23T20:27:53.150" />
+		<dbo.ServicioXPropiedad NumeroFinca="19991" IDServicio="4" FechaContratacion="2017-12-23T20:27:53.150" />
+		<dbo.ServicioXPropiedad NumeroFinca="35881" IDServicio="1" FechaContratacion="2017-12-24T13:54:12.310" />
+		<dbo.ServicioXPropiedad NumeroFinca="35881" IDServicio="2" FechaContratacion="2017-12-24T13:54:12.310" />
+		<dbo.ServicioXPropiedad NumeroFinca="35881" IDServicio="3" FechaContratacion="2017-12-24T13:54:12.310" />
+		<dbo.ServicioXPropiedad NumeroFinca="35881" IDServicio="4" FechaContratacion="2017-12-24T13:54:12.310" />
+		<dbo.ServicioXPropiedad NumeroFinca="35881" IDServicio="5" FechaContratacion="2017-12-24T13:54:12.310" />
+		<dbo.ServicioXPropiedad NumeroFinca="53391" IDServicio="1" FechaContratacion="2017-12-19T19:11:53.510" />
+		<dbo.ServicioXPropiedad NumeroFinca="53391" IDServicio="2" FechaContratacion="2017-12-19T19:11:53.510" />
+		<dbo.ServicioXPropiedad NumeroFinca="53391" IDServicio="3" FechaContratacion="2017-12-19T19:11:53.510" />
+		<dbo.ServicioXPropiedad NumeroFinca="53391" IDServicio="4" FechaContratacion="2017-12-19T19:11:53.510" />
+	</ServicioXPropiedad>
+	
+	<ConsumoAgua>
+		<dbo.ConsumoAgua NumeroFinca="12840" FechaLectura="2018-01-01T12:00:00" QM3="65" />
+		<dbo.ConsumoAgua NumeroFinca="16977" FechaLectura="2018-01-01T12:00:00" QM3="199" />
+		<dbo.ConsumoAgua NumeroFinca="10556" FechaLectura="2018-01-01T12:00:00" QM3="31" />
+		<dbo.ConsumoAgua NumeroFinca="24789" FechaLectura="2018-01-01T12:00:00" QM3="64" />
+		<dbo.ConsumoAgua NumeroFinca="12223" FechaLectura="2018-01-01T12:00:00" QM3="83" />
+		<dbo.ConsumoAgua NumeroFinca="39022" FechaLectura="2018-01-01T12:00:00" QM3="48" />
+		<dbo.ConsumoAgua NumeroFinca="60230" FechaLectura="2018-01-01T12:00:00" QM3="135" />
+		<dbo.ConsumoAgua NumeroFinca="96983" FechaLectura="2018-01-01T12:00:00" QM3="35" />
+		<dbo.ConsumoAgua NumeroFinca="48370" FechaLectura="2018-01-01T12:00:00" QM3="52" />
+		<dbo.ConsumoAgua NumeroFinca="81754" FechaLectura="2018-01-01T12:00:00" QM3="36" />
+		<dbo.ConsumoAgua NumeroFinca="1024" FechaLectura="2018-01-01T12:00:00" QM3="24" />
+		<dbo.ConsumoAgua NumeroFinca="65506" FechaLectura="2018-01-01T12:00:00" QM3="175" />
+		<dbo.ConsumoAgua NumeroFinca="97619" FechaLectura="2018-01-02T12:00:00" QM3="42" />
+		<dbo.ConsumoAgua NumeroFinca="88212" FechaLectura="2018-01-02T12:00:00" QM3="90" />
+		<dbo.ConsumoAgua NumeroFinca="8201" FechaLectura="2018-01-02T12:00:00" QM3="160" />
+		<dbo.ConsumoAgua NumeroFinca="16231" FechaLectura="2018-01-02T12:00:00" QM3="164" />
+		<dbo.ConsumoAgua NumeroFinca="35061" FechaLectura="2018-01-02T12:00:00" QM3="196" />
+		<dbo.ConsumoAgua NumeroFinca="8322" FechaLectura="2018-01-02T12:00:00" QM3="115" />
+		<dbo.ConsumoAgua NumeroFinca="43010" FechaLectura="2018-01-02T12:00:00" QM3="145" />
+		<dbo.ConsumoAgua NumeroFinca="48117" FechaLectura="2018-01-02T12:00:00" QM3="69" />
+		<dbo.ConsumoAgua NumeroFinca="56438" FechaLectura="2018-01-02T12:00:00" QM3="22" />
+		<dbo.ConsumoAgua NumeroFinca="97622" FechaLectura="2018-01-02T12:00:00" QM3="139" />
+		<dbo.ConsumoAgua NumeroFinca="13904" FechaLectura="2018-01-02T12:00:00" QM3="84" />
+		<dbo.ConsumoAgua NumeroFinca="19844" FechaLectura="2018-01-05T12:00:00" QM3="136" />
+		<dbo.ConsumoAgua NumeroFinca="29348" FechaLectura="2018-01-05T12:00:00" QM3="25" />
+		<dbo.ConsumoAgua NumeroFinca="58347" FechaLectura="2018-01-05T12:00:00" QM3="40" />
+		<dbo.ConsumoAgua NumeroFinca="78496" FechaLectura="2018-01-05T12:00:00" QM3="71" />
+		<dbo.ConsumoAgua NumeroFinca="27673" FechaLectura="2018-01-05T12:00:00" QM3="113" />
+		<dbo.ConsumoAgua NumeroFinca="81135" FechaLectura="2018-01-05T12:00:00" QM3="115" />
+		<dbo.ConsumoAgua NumeroFinca="75398" FechaLectura="2018-01-05T12:00:00" QM3="165" />
+		<dbo.ConsumoAgua NumeroFinca="83136" FechaLectura="2018-01-05T12:00:00" QM3="180" />
+		<dbo.ConsumoAgua NumeroFinca="18325" FechaLectura="2018-01-05T12:00:00" QM3="89" />
+		<dbo.ConsumoAgua NumeroFinca="91365" FechaLectura="2018-01-05T12:00:00" QM3="36" />
+		<dbo.ConsumoAgua NumeroFinca="50073" FechaLectura="2018-01-05T12:00:00" QM3="105" />
+		<dbo.ConsumoAgua NumeroFinca="24155" FechaLectura="2018-01-05T12:00:00" QM3="119" />
+		<dbo.ConsumoAgua NumeroFinca="63370" FechaLectura="2018-01-05T12:00:00" QM3="75" />
+		<dbo.ConsumoAgua NumeroFinca="16035" FechaLectura="2018-01-05T12:00:00" QM3="193" />
+		<dbo.ConsumoAgua NumeroFinca="54964" FechaLectura="2018-01-05T12:00:00" QM3="109" />
+		<dbo.ConsumoAgua NumeroFinca="12270" FechaLectura="2018-01-05T12:00:00" QM3="85" />
+		<dbo.ConsumoAgua NumeroFinca="7927" FechaLectura="2018-01-06T12:00:00" QM3="31" />
+		<dbo.ConsumoAgua NumeroFinca="74964" FechaLectura="2018-01-06T12:00:00" QM3="104" />
+		<dbo.ConsumoAgua NumeroFinca="14608" FechaLectura="2018-01-06T12:00:00" QM3="21" />
+		<dbo.ConsumoAgua NumeroFinca="2722" FechaLectura="2018-01-06T12:00:00" QM3="76" />
+		<dbo.ConsumoAgua NumeroFinca="39573" FechaLectura="2018-01-06T12:00:00" QM3="28" />
+		<dbo.ConsumoAgua NumeroFinca="7990" FechaLectura="2018-01-06T12:00:00" QM3="191" />
+		<dbo.ConsumoAgua NumeroFinca="53391" FechaLectura="2018-01-06T12:00:00" QM3="131" />
+		<dbo.ConsumoAgua NumeroFinca="34703" FechaLectura="2018-01-06T12:00:00" QM3="147" />
+		<dbo.ConsumoAgua NumeroFinca="68497" FechaLectura="2018-01-06T12:00:00" QM3="190" />
+		<dbo.ConsumoAgua NumeroFinca="19991" FechaLectura="2018-01-07T12:00:00" QM3="38" />
+		<dbo.ConsumoAgua NumeroFinca="35881" FechaLectura="2018-01-07T12:00:00" QM3="143" />
+		<dbo.ConsumoAgua NumeroFinca="28747" FechaLectura="2018-01-07T12:00:00" QM3="159" />
+		<dbo.ConsumoAgua NumeroFinca="37678" FechaLectura="2018-01-07T12:00:00" QM3="168" />
+		<dbo.ConsumoAgua NumeroFinca="179" FechaLectura="2018-01-07T12:00:00" QM3="164" />
+		<dbo.ConsumoAgua NumeroFinca="16964" FechaLectura="2018-01-07T12:00:00" QM3="50" />
+		<dbo.ConsumoAgua NumeroFinca="8292" FechaLectura="2018-01-07T12:00:00" QM3="145" />
+		<dbo.ConsumoAgua NumeroFinca="45071" FechaLectura="2018-01-07T12:00:00" QM3="50" />
+		<dbo.ConsumoAgua NumeroFinca="52919" FechaLectura="2018-01-07T12:00:00" QM3="142" />
+		<dbo.ConsumoAgua NumeroFinca="6022" FechaLectura="2018-01-07T12:00:00" QM3="131" />
+		<dbo.ConsumoAgua NumeroFinca="29419" FechaLectura="2018-01-07T12:00:00" QM3="180" />
+		<dbo.ConsumoAgua NumeroFinca="13866" FechaLectura="2018-01-07T12:00:00" QM3="160" />
+		<dbo.ConsumoAgua NumeroFinca="48250" FechaLectura="2018-01-07T12:00:00" QM3="178" />
+		<dbo.ConsumoAgua NumeroFinca="80822" FechaLectura="2018-01-08T12:00:00" QM3="78" />
+		<dbo.ConsumoAgua NumeroFinca="96870" FechaLectura="2018-01-08T12:00:00" QM3="191" />
+		<dbo.ConsumoAgua NumeroFinca="89960" FechaLectura="2018-01-08T12:00:00" QM3="89" />
+		<dbo.ConsumoAgua NumeroFinca="51454" FechaLectura="2018-01-08T12:00:00" QM3="91" />
+		<dbo.ConsumoAgua NumeroFinca="32513" FechaLectura="2018-01-08T12:00:00" QM3="35" />
+		<dbo.ConsumoAgua NumeroFinca="72930" FechaLectura="2018-01-08T12:00:00" QM3="108" />
+		<dbo.ConsumoAgua NumeroFinca="96010" FechaLectura="2018-01-08T12:00:00" QM3="178" />
+		<dbo.ConsumoAgua NumeroFinca="41515" FechaLectura="2018-01-08T12:00:00" QM3="97" />
+		<dbo.ConsumoAgua NumeroFinca="89542" FechaLectura="2018-01-08T12:00:00" QM3="163" />
+		<dbo.ConsumoAgua NumeroFinca="55337" FechaLectura="2018-01-08T12:00:00" QM3="75" />
+		<dbo.ConsumoAgua NumeroFinca="40607" FechaLectura="2018-01-08T12:00:00" QM3="120" />
+		<dbo.ConsumoAgua NumeroFinca="53186" FechaLectura="2018-01-08T12:00:00" QM3="149" />
+		<dbo.ConsumoAgua NumeroFinca="50754" FechaLectura="2018-01-08T12:00:00" QM3="146" />
+		<dbo.ConsumoAgua NumeroFinca="28501" FechaLectura="2018-01-08T12:00:00" QM3="77" />
+		<dbo.ConsumoAgua NumeroFinca="12250" FechaLectura="2018-01-08T12:00:00" QM3="199" />
+		<dbo.ConsumoAgua NumeroFinca="89240" FechaLectura="2018-01-08T12:00:00" QM3="191" />
+		<dbo.ConsumoAgua NumeroFinca="46521" FechaLectura="2018-01-08T12:00:00" QM3="98" />
+		<dbo.ConsumoAgua NumeroFinca="89135" FechaLectura="2018-01-09T12:00:00" QM3="104" />
+		<dbo.ConsumoAgua NumeroFinca="3807" FechaLectura="2018-01-09T12:00:00" QM3="64" />
+		<dbo.ConsumoAgua NumeroFinca="99256" FechaLectura="2018-01-09T12:00:00" QM3="147" />
+		<dbo.ConsumoAgua NumeroFinca="31797" FechaLectura="2018-01-09T12:00:00" QM3="138" />
+		<dbo.ConsumoAgua NumeroFinca="47621" FechaLectura="2018-01-09T12:00:00" QM3="175" />
+		<dbo.ConsumoAgua NumeroFinca="10369" FechaLectura="2018-01-09T12:00:00" QM3="49" />
+		<dbo.ConsumoAgua NumeroFinca="31432" FechaLectura="2018-01-09T12:00:00" QM3="59" />
+		<dbo.ConsumoAgua NumeroFinca="90216" FechaLectura="2018-01-09T12:00:00" QM3="38" />
+		<dbo.ConsumoAgua NumeroFinca="63771" FechaLectura="2018-01-09T12:00:00" QM3="200" />
+		<dbo.ConsumoAgua NumeroFinca="68149" FechaLectura="2018-01-09T12:00:00" QM3="41" />
+		<dbo.ConsumoAgua NumeroFinca="77294" FechaLectura="2018-01-09T12:00:00" QM3="58" />
+		<dbo.ConsumoAgua NumeroFinca="62334" FechaLectura="2018-01-09T12:00:00" QM3="82" />
+		<dbo.ConsumoAgua NumeroFinca="94981" FechaLectura="2018-01-09T12:00:00" QM3="98" />
+		<dbo.ConsumoAgua NumeroFinca="89081" FechaLectura="2018-01-09T12:00:00" QM3="142" />
+		<dbo.ConsumoAgua NumeroFinca="68513" FechaLectura="2018-01-09T12:00:00" QM3="199" />
+		<dbo.ConsumoAgua NumeroFinca="94401" FechaLectura="2018-01-09T12:00:00" QM3="42" />
+		<dbo.ConsumoAgua NumeroFinca="95764" FechaLectura="2018-01-09T12:00:00" QM3="92" />
+		<dbo.ConsumoAgua NumeroFinca="36008" FechaLectura="2018-01-09T12:00:00" QM3="60" />
+		<dbo.ConsumoAgua NumeroFinca="32422" FechaLectura="2018-01-09T12:00:00" QM3="171" />
+		<dbo.ConsumoAgua NumeroFinca="77626" FechaLectura="2018-01-09T12:00:00" QM3="86" />
+		<dbo.ConsumoAgua NumeroFinca="61609" FechaLectura="2018-01-09T12:00:00" QM3="106" />
+		<dbo.ConsumoAgua NumeroFinca="25361" FechaLectura="2018-01-09T12:00:00" QM3="74" />
+		<dbo.ConsumoAgua NumeroFinca="81754" FechaLectura="2018-02-01T12:00:00" QM3="159" />
+		<dbo.ConsumoAgua NumeroFinca="12840" FechaLectura="2018-02-01T12:00:00" QM3="194" />
+		<dbo.ConsumoAgua NumeroFinca="12223" FechaLectura="2018-02-01T12:00:00" QM3="37" />
+		<dbo.ConsumoAgua NumeroFinca="96983" FechaLectura="2018-02-01T12:00:00" QM3="35" />
+		<dbo.ConsumoAgua NumeroFinca="48370" FechaLectura="2018-02-01T12:00:00" QM3="161" />
+		<dbo.ConsumoAgua NumeroFinca="65506" FechaLectura="2018-02-01T12:00:00" QM3="188" />
+		<dbo.ConsumoAgua NumeroFinca="24789" FechaLectura="2018-02-01T12:00:00" QM3="197" />
+		<dbo.ConsumoAgua NumeroFinca="60230" FechaLectura="2018-02-01T12:00:00" QM3="70" />
+		<dbo.ConsumoAgua NumeroFinca="10556" FechaLectura="2018-02-01T12:00:00" QM3="89" />
+		<dbo.ConsumoAgua NumeroFinca="1024" FechaLectura="2018-02-01T12:00:00" QM3="192" />
+		<dbo.ConsumoAgua NumeroFinca="16977" FechaLectura="2018-02-01T12:00:00" QM3="71" />
+		<dbo.ConsumoAgua NumeroFinca="39022" FechaLectura="2018-02-01T12:00:00" QM3="20" />
+		<dbo.ConsumoAgua NumeroFinca="8322" FechaLectura="2018-02-02T12:00:00" QM3="32" />
+		<dbo.ConsumoAgua NumeroFinca="8201" FechaLectura="2018-02-02T12:00:00" QM3="110" />
+		<dbo.ConsumoAgua NumeroFinca="43010" FechaLectura="2018-02-02T12:00:00" QM3="76" />
+		<dbo.ConsumoAgua NumeroFinca="56438" FechaLectura="2018-02-02T12:00:00" QM3="167" />
+		<dbo.ConsumoAgua NumeroFinca="88212" FechaLectura="2018-02-02T12:00:00" QM3="174" />
+		<dbo.ConsumoAgua NumeroFinca="97619" FechaLectura="2018-02-02T12:00:00" QM3="94" />
+		<dbo.ConsumoAgua NumeroFinca="13904" FechaLectura="2018-02-02T12:00:00" QM3="27" />
+		<dbo.ConsumoAgua NumeroFinca="35061" FechaLectura="2018-02-02T12:00:00" QM3="152" />
+		<dbo.ConsumoAgua NumeroFinca="97622" FechaLectura="2018-02-02T12:00:00" QM3="68" />
+		<dbo.ConsumoAgua NumeroFinca="16231" FechaLectura="2018-02-02T12:00:00" QM3="112" />
+		<dbo.ConsumoAgua NumeroFinca="48117" FechaLectura="2018-02-02T12:00:00" QM3="117" />
+		<dbo.ConsumoAgua NumeroFinca="12270" FechaLectura="2018-02-05T12:00:00" QM3="33" />
+		<dbo.ConsumoAgua NumeroFinca="78496" FechaLectura="2018-02-05T12:00:00" QM3="34" />
+		<dbo.ConsumoAgua NumeroFinca="18325" FechaLectura="2018-02-05T12:00:00" QM3="193" />
+		<dbo.ConsumoAgua NumeroFinca="63370" FechaLectura="2018-02-05T12:00:00" QM3="134" />
+		<dbo.ConsumoAgua NumeroFinca="58347" FechaLectura="2018-02-05T12:00:00" QM3="35" />
+		<dbo.ConsumoAgua NumeroFinca="75398" FechaLectura="2018-02-05T12:00:00" QM3="190" />
+		<dbo.ConsumoAgua NumeroFinca="29348" FechaLectura="2018-02-05T12:00:00" QM3="49" />
+		<dbo.ConsumoAgua NumeroFinca="50073" FechaLectura="2018-02-05T12:00:00" QM3="69" />
+		<dbo.ConsumoAgua NumeroFinca="54964" FechaLectura="2018-02-05T12:00:00" QM3="79" />
+		<dbo.ConsumoAgua NumeroFinca="81135" FechaLectura="2018-02-05T12:00:00" QM3="64" />
+		<dbo.ConsumoAgua NumeroFinca="16035" FechaLectura="2018-02-05T12:00:00" QM3="80" />
+		<dbo.ConsumoAgua NumeroFinca="19844" FechaLectura="2018-02-05T12:00:00" QM3="130" />
+		<dbo.ConsumoAgua NumeroFinca="83136" FechaLectura="2018-02-05T12:00:00" QM3="92" />
+		<dbo.ConsumoAgua NumeroFinca="24155" FechaLectura="2018-02-05T12:00:00" QM3="198" />
+		<dbo.ConsumoAgua NumeroFinca="27673" FechaLectura="2018-02-05T12:00:00" QM3="135" />
+		<dbo.ConsumoAgua NumeroFinca="91365" FechaLectura="2018-02-05T12:00:00" QM3="139" />
+		<dbo.ConsumoAgua NumeroFinca="34703" FechaLectura="2018-02-06T12:00:00" QM3="54" />
+		<dbo.ConsumoAgua NumeroFinca="2722" FechaLectura="2018-02-06T12:00:00" QM3="151" />
+		<dbo.ConsumoAgua NumeroFinca="14608" FechaLectura="2018-02-06T12:00:00" QM3="68" />
+		<dbo.ConsumoAgua NumeroFinca="74964" FechaLectura="2018-02-06T12:00:00" QM3="180" />
+		<dbo.ConsumoAgua NumeroFinca="39573" FechaLectura="2018-02-06T12:00:00" QM3="148" />
+		<dbo.ConsumoAgua NumeroFinca="7927" FechaLectura="2018-02-06T12:00:00" QM3="39" />
+		<dbo.ConsumoAgua NumeroFinca="7990" FechaLectura="2018-02-06T12:00:00" QM3="145" />
+		<dbo.ConsumoAgua NumeroFinca="53391" FechaLectura="2018-02-06T12:00:00" QM3="193" />
+		<dbo.ConsumoAgua NumeroFinca="68497" FechaLectura="2018-02-06T12:00:00" QM3="196" />
+		<dbo.ConsumoAgua NumeroFinca="45071" FechaLectura="2018-02-07T12:00:00" QM3="163" />
+		<dbo.ConsumoAgua NumeroFinca="28747" FechaLectura="2018-02-07T12:00:00" QM3="192" />
+		<dbo.ConsumoAgua NumeroFinca="52919" FechaLectura="2018-02-07T12:00:00" QM3="51" />
+		<dbo.ConsumoAgua NumeroFinca="35881" FechaLectura="2018-02-07T12:00:00" QM3="126" />
+		<dbo.ConsumoAgua NumeroFinca="8292" FechaLectura="2018-02-07T12:00:00" QM3="132" />
+		<dbo.ConsumoAgua NumeroFinca="37678" FechaLectura="2018-02-07T12:00:00" QM3="144" />
+		<dbo.ConsumoAgua NumeroFinca="13866" FechaLectura="2018-02-07T12:00:00" QM3="71" />
+		<dbo.ConsumoAgua NumeroFinca="6022" FechaLectura="2018-02-07T12:00:00" QM3="90" />
+		<dbo.ConsumoAgua NumeroFinca="48250" FechaLectura="2018-02-07T12:00:00" QM3="35" />
+		<dbo.ConsumoAgua NumeroFinca="16964" FechaLectura="2018-02-07T12:00:00" QM3="63" />
+		<dbo.ConsumoAgua NumeroFinca="29419" FechaLectura="2018-02-07T12:00:00" QM3="105" />
+		<dbo.ConsumoAgua NumeroFinca="19991" FechaLectura="2018-02-07T12:00:00" QM3="199" />
+		<dbo.ConsumoAgua NumeroFinca="179" FechaLectura="2018-02-07T12:00:00" QM3="181" />
+		<dbo.ConsumoAgua NumeroFinca="80822" FechaLectura="2018-02-08T12:00:00" QM3="95" />
+		<dbo.ConsumoAgua NumeroFinca="32513" FechaLectura="2018-02-08T12:00:00" QM3="26" />
+		<dbo.ConsumoAgua NumeroFinca="89542" FechaLectura="2018-02-08T12:00:00" QM3="153" />
+		<dbo.ConsumoAgua NumeroFinca="28501" FechaLectura="2018-02-08T12:00:00" QM3="74" />
+		<dbo.ConsumoAgua NumeroFinca="89240" FechaLectura="2018-02-08T12:00:00" QM3="170" />
+		<dbo.ConsumoAgua NumeroFinca="51454" FechaLectura="2018-02-08T12:00:00" QM3="150" />
+		<dbo.ConsumoAgua NumeroFinca="55337" FechaLectura="2018-02-08T12:00:00" QM3="111" />
+		<dbo.ConsumoAgua NumeroFinca="72930" FechaLectura="2018-02-08T12:00:00" QM3="122" />
+		<dbo.ConsumoAgua NumeroFinca="40607" FechaLectura="2018-02-08T12:00:00" QM3="124" />
+		<dbo.ConsumoAgua NumeroFinca="89960" FechaLectura="2018-02-08T12:00:00" QM3="148" />
+		<dbo.ConsumoAgua NumeroFinca="96010" FechaLectura="2018-02-08T12:00:00" QM3="61" />
+		<dbo.ConsumoAgua NumeroFinca="53186" FechaLectura="2018-02-08T12:00:00" QM3="162" />
+		<dbo.ConsumoAgua NumeroFinca="41515" FechaLectura="2018-02-08T12:00:00" QM3="167" />
+		<dbo.ConsumoAgua NumeroFinca="46521" FechaLectura="2018-02-08T12:00:00" QM3="112" />
+		<dbo.ConsumoAgua NumeroFinca="96870" FechaLectura="2018-02-08T12:00:00" QM3="52" />
+		<dbo.ConsumoAgua NumeroFinca="12250" FechaLectura="2018-02-08T12:00:00" QM3="24" />
+		<dbo.ConsumoAgua NumeroFinca="50754" FechaLectura="2018-02-08T12:00:00" QM3="97" />
+		<dbo.ConsumoAgua NumeroFinca="31797" FechaLectura="2018-02-09T12:00:00" QM3="104" />
+		<dbo.ConsumoAgua NumeroFinca="68149" FechaLectura="2018-02-09T12:00:00" QM3="128" />
+		<dbo.ConsumoAgua NumeroFinca="94401" FechaLectura="2018-02-09T12:00:00" QM3="140" />
+		<dbo.ConsumoAgua NumeroFinca="99256" FechaLectura="2018-02-09T12:00:00" QM3="195" />
+		<dbo.ConsumoAgua NumeroFinca="89135" FechaLectura="2018-02-09T12:00:00" QM3="185" />
+		<dbo.ConsumoAgua NumeroFinca="32422" FechaLectura="2018-02-09T12:00:00" QM3="102" />
+		<dbo.ConsumoAgua NumeroFinca="68513" FechaLectura="2018-02-09T12:00:00" QM3="71" />
+		<dbo.ConsumoAgua NumeroFinca="89081" FechaLectura="2018-02-09T12:00:00" QM3="82" />
+		<dbo.ConsumoAgua NumeroFinca="94981" FechaLectura="2018-02-09T12:00:00" QM3="105" />
+		<dbo.ConsumoAgua NumeroFinca="36008" FechaLectura="2018-02-09T12:00:00" QM3="199" />
+		<dbo.ConsumoAgua NumeroFinca="31432" FechaLectura="2018-02-09T12:00:00" QM3="186" />
+		<dbo.ConsumoAgua NumeroFinca="63771" FechaLectura="2018-02-09T12:00:00" QM3="76" />
+		<dbo.ConsumoAgua NumeroFinca="77626" FechaLectura="2018-02-09T12:00:00" QM3="188" />
+		<dbo.ConsumoAgua NumeroFinca="47621" FechaLectura="2018-02-09T12:00:00" QM3="61" />
+		<dbo.ConsumoAgua NumeroFinca="3807" FechaLectura="2018-02-09T12:00:00" QM3="34" />
+		<dbo.ConsumoAgua NumeroFinca="77294" FechaLectura="2018-02-09T12:00:00" QM3="155" />
+		<dbo.ConsumoAgua NumeroFinca="90216" FechaLectura="2018-02-09T12:00:00" QM3="147" />
+		<dbo.ConsumoAgua NumeroFinca="62334" FechaLectura="2018-02-09T12:00:00" QM3="130" />
+		<dbo.ConsumoAgua NumeroFinca="25361" FechaLectura="2018-02-09T12:00:00" QM3="161" />
+		<dbo.ConsumoAgua NumeroFinca="95764" FechaLectura="2018-02-09T12:00:00" QM3="134" />
+		<dbo.ConsumoAgua NumeroFinca="10369" FechaLectura="2018-02-09T12:00:00" QM3="146" />
+		<dbo.ConsumoAgua NumeroFinca="61609" FechaLectura="2018-02-09T12:00:00" QM3="49" />
+		<dbo.ConsumoAgua NumeroFinca="81754" FechaLectura="2018-03-01T12:00:00" QM3="103" />
+		<dbo.ConsumoAgua NumeroFinca="12840" FechaLectura="2018-03-01T12:00:00" QM3="195" />
+		<dbo.ConsumoAgua NumeroFinca="12223" FechaLectura="2018-03-01T12:00:00" QM3="57" />
+		<dbo.ConsumoAgua NumeroFinca="96983" FechaLectura="2018-03-01T12:00:00" QM3="24" />
+		<dbo.ConsumoAgua NumeroFinca="48370" FechaLectura="2018-03-01T12:00:00" QM3="116" />
+		<dbo.ConsumoAgua NumeroFinca="65506" FechaLectura="2018-03-01T12:00:00" QM3="106" />
+		<dbo.ConsumoAgua NumeroFinca="60230" FechaLectura="2018-03-01T12:00:00" QM3="28" />
+		<dbo.ConsumoAgua NumeroFinca="10556" FechaLectura="2018-03-01T12:00:00" QM3="55" />
+		<dbo.ConsumoAgua NumeroFinca="24789" FechaLectura="2018-03-01T12:00:00" QM3="138" />
+		<dbo.ConsumoAgua NumeroFinca="1024" FechaLectura="2018-03-01T12:00:00" QM3="91" />
+		<dbo.ConsumoAgua NumeroFinca="16977" FechaLectura="2018-03-01T12:00:00" QM3="49" />
+		<dbo.ConsumoAgua NumeroFinca="39022" FechaLectura="2018-03-01T12:00:00" QM3="82" />
+		<dbo.ConsumoAgua NumeroFinca="8201" FechaLectura="2018-03-02T12:00:00" QM3="92" />
+		<dbo.ConsumoAgua NumeroFinca="8322" FechaLectura="2018-03-02T12:00:00" QM3="176" />
+		<dbo.ConsumoAgua NumeroFinca="97619" FechaLectura="2018-03-02T12:00:00" QM3="52" />
+		<dbo.ConsumoAgua NumeroFinca="43010" FechaLectura="2018-03-02T12:00:00" QM3="155" />
+		<dbo.ConsumoAgua NumeroFinca="56438" FechaLectura="2018-03-02T12:00:00" QM3="115" />
+		<dbo.ConsumoAgua NumeroFinca="88212" FechaLectura="2018-03-02T12:00:00" QM3="175" />
+		<dbo.ConsumoAgua NumeroFinca="13904" FechaLectura="2018-03-02T12:00:00" QM3="141" />
+		<dbo.ConsumoAgua NumeroFinca="35061" FechaLectura="2018-03-02T12:00:00" QM3="53" />
+		<dbo.ConsumoAgua NumeroFinca="97622" FechaLectura="2018-03-02T12:00:00" QM3="179" />
+		<dbo.ConsumoAgua NumeroFinca="16231" FechaLectura="2018-03-02T12:00:00" QM3="121" />
+		<dbo.ConsumoAgua NumeroFinca="48117" FechaLectura="2018-03-02T12:00:00" QM3="200" />
+		<dbo.ConsumoAgua NumeroFinca="12270" FechaLectura="2018-03-05T12:00:00" QM3="76" />
+		<dbo.ConsumoAgua NumeroFinca="58347" FechaLectura="2018-03-05T12:00:00" QM3="57" />
+		<dbo.ConsumoAgua NumeroFinca="75398" FechaLectura="2018-03-05T12:00:00" QM3="173" />
+		<dbo.ConsumoAgua NumeroFinca="78496" FechaLectura="2018-03-05T12:00:00" QM3="110" />
+		<dbo.ConsumoAgua NumeroFinca="18325" FechaLectura="2018-03-05T12:00:00" QM3="54" />
+		<dbo.ConsumoAgua NumeroFinca="63370" FechaLectura="2018-03-05T12:00:00" QM3="129" />
+		<dbo.ConsumoAgua NumeroFinca="29348" FechaLectura="2018-03-05T12:00:00" QM3="194" />
+		<dbo.ConsumoAgua NumeroFinca="50073" FechaLectura="2018-03-05T12:00:00" QM3="30" />
+		<dbo.ConsumoAgua NumeroFinca="83136" FechaLectura="2018-03-05T12:00:00" QM3="148" />
+		<dbo.ConsumoAgua NumeroFinca="54964" FechaLectura="2018-03-05T12:00:00" QM3="156" />
+		<dbo.ConsumoAgua NumeroFinca="81135" FechaLectura="2018-03-05T12:00:00" QM3="150" />
+		<dbo.ConsumoAgua NumeroFinca="16035" FechaLectura="2018-03-05T12:00:00" QM3="181" />
+		<dbo.ConsumoAgua NumeroFinca="19844" FechaLectura="2018-03-05T12:00:00" QM3="75" />
+		<dbo.ConsumoAgua NumeroFinca="24155" FechaLectura="2018-03-05T12:00:00" QM3="90" />
+		<dbo.ConsumoAgua NumeroFinca="27673" FechaLectura="2018-03-05T12:00:00" QM3="97" />
+		<dbo.ConsumoAgua NumeroFinca="91365" FechaLectura="2018-03-05T12:00:00" QM3="133" />
+		<dbo.ConsumoAgua NumeroFinca="34703" FechaLectura="2018-03-06T12:00:00" QM3="166" />
+		<dbo.ConsumoAgua NumeroFinca="2722" FechaLectura="2018-03-06T12:00:00" QM3="95" />
+		<dbo.ConsumoAgua NumeroFinca="14608" FechaLectura="2018-03-06T12:00:00" QM3="181" />
+		<dbo.ConsumoAgua NumeroFinca="74964" FechaLectura="2018-03-06T12:00:00" QM3="143" />
+		<dbo.ConsumoAgua NumeroFinca="39573" FechaLectura="2018-03-06T12:00:00" QM3="50" />
+		<dbo.ConsumoAgua NumeroFinca="53391" FechaLectura="2018-03-06T12:00:00" QM3="78" />
+		<dbo.ConsumoAgua NumeroFinca="7927" FechaLectura="2018-03-06T12:00:00" QM3="117" />
+		<dbo.ConsumoAgua NumeroFinca="7990" FechaLectura="2018-03-06T12:00:00" QM3="114" />
+		<dbo.ConsumoAgua NumeroFinca="68497" FechaLectura="2018-03-06T12:00:00" QM3="172" />
+		<dbo.ConsumoAgua NumeroFinca="8292" FechaLectura="2018-03-07T12:00:00" QM3="182" />
+		<dbo.ConsumoAgua NumeroFinca="28747" FechaLectura="2018-03-07T12:00:00" QM3="137" />
+		<dbo.ConsumoAgua NumeroFinca="52919" FechaLectura="2018-03-07T12:00:00" QM3="33" />
+		<dbo.ConsumoAgua NumeroFinca="35881" FechaLectura="2018-03-07T12:00:00" QM3="35" />
+		<dbo.ConsumoAgua NumeroFinca="45071" FechaLectura="2018-03-07T12:00:00" QM3="172" />
+		<dbo.ConsumoAgua NumeroFinca="29419" FechaLectura="2018-03-07T12:00:00" QM3="89" />
+		<dbo.ConsumoAgua NumeroFinca="13866" FechaLectura="2018-03-07T12:00:00" QM3="75" />
+		<dbo.ConsumoAgua NumeroFinca="48250" FechaLectura="2018-03-07T12:00:00" QM3="58" />
+		<dbo.ConsumoAgua NumeroFinca="6022" FechaLectura="2018-03-07T12:00:00" QM3="169" />
+		<dbo.ConsumoAgua NumeroFinca="37678" FechaLectura="2018-03-07T12:00:00" QM3="44" />
+		<dbo.ConsumoAgua NumeroFinca="19991" FechaLectura="2018-03-07T12:00:00" QM3="182" />
+		<dbo.ConsumoAgua NumeroFinca="16964" FechaLectura="2018-03-07T12:00:00" QM3="161" />
+		<dbo.ConsumoAgua NumeroFinca="179" FechaLectura="2018-03-07T12:00:00" QM3="157" />
+		<dbo.ConsumoAgua NumeroFinca="80822" FechaLectura="2018-03-08T12:00:00" QM3="128" />
+		<dbo.ConsumoAgua NumeroFinca="40607" FechaLectura="2018-03-08T12:00:00" QM3="82" />
+		<dbo.ConsumoAgua NumeroFinca="72930" FechaLectura="2018-03-08T12:00:00" QM3="95" />
+		<dbo.ConsumoAgua NumeroFinca="51454" FechaLectura="2018-03-08T12:00:00" QM3="200" />
+		<dbo.ConsumoAgua NumeroFinca="32513" FechaLectura="2018-03-08T12:00:00" QM3="75" />
+		<dbo.ConsumoAgua NumeroFinca="89542" FechaLectura="2018-03-08T12:00:00" QM3="135" />
+		<dbo.ConsumoAgua NumeroFinca="28501" FechaLectura="2018-03-08T12:00:00" QM3="160" />
+		<dbo.ConsumoAgua NumeroFinca="89240" FechaLectura="2018-03-08T12:00:00" QM3="94" />
+		<dbo.ConsumoAgua NumeroFinca="96010" FechaLectura="2018-03-08T12:00:00" QM3="96" />
+		<dbo.ConsumoAgua NumeroFinca="53186" FechaLectura="2018-03-08T12:00:00" QM3="122" />
+		<dbo.ConsumoAgua NumeroFinca="89960" FechaLectura="2018-03-08T12:00:00" QM3="106" />
+		<dbo.ConsumoAgua NumeroFinca="55337" FechaLectura="2018-03-08T12:00:00" QM3="80" />
+		<dbo.ConsumoAgua NumeroFinca="96870" FechaLectura="2018-03-08T12:00:00" QM3="86" />
+		<dbo.ConsumoAgua NumeroFinca="12250" FechaLectura="2018-03-08T12:00:00" QM3="162" />
+		<dbo.ConsumoAgua NumeroFinca="41515" FechaLectura="2018-03-08T12:00:00" QM3="171" />
+		<dbo.ConsumoAgua NumeroFinca="50754" FechaLectura="2018-03-08T12:00:00" QM3="86" />
+		<dbo.ConsumoAgua NumeroFinca="46521" FechaLectura="2018-03-08T12:00:00" QM3="28" />
+		<dbo.ConsumoAgua NumeroFinca="31797" FechaLectura="2018-03-09T12:00:00" QM3="75" />
+		<dbo.ConsumoAgua NumeroFinca="89135" FechaLectura="2018-03-09T12:00:00" QM3="98" />
+		<dbo.ConsumoAgua NumeroFinca="90216" FechaLectura="2018-03-09T12:00:00" QM3="194" />
+		<dbo.ConsumoAgua NumeroFinca="62334" FechaLectura="2018-03-09T12:00:00" QM3="116" />
+		<dbo.ConsumoAgua NumeroFinca="77294" FechaLectura="2018-03-09T12:00:00" QM3="164" />
+		<dbo.ConsumoAgua NumeroFinca="94401" FechaLectura="2018-03-09T12:00:00" QM3="77" />
+		<dbo.ConsumoAgua NumeroFinca="89081" FechaLectura="2018-03-09T12:00:00" QM3="174" />
+		<dbo.ConsumoAgua NumeroFinca="32422" FechaLectura="2018-03-09T12:00:00" QM3="192" />
+		<dbo.ConsumoAgua NumeroFinca="68513" FechaLectura="2018-03-09T12:00:00" QM3="46" />
+		<dbo.ConsumoAgua NumeroFinca="68149" FechaLectura="2018-03-09T12:00:00" QM3="187" />
+		<dbo.ConsumoAgua NumeroFinca="99256" FechaLectura="2018-03-09T12:00:00" QM3="96" />
+		<dbo.ConsumoAgua NumeroFinca="3807" FechaLectura="2018-03-09T12:00:00" QM3="177" />
+		<dbo.ConsumoAgua NumeroFinca="47621" FechaLectura="2018-03-09T12:00:00" QM3="21" />
+		<dbo.ConsumoAgua NumeroFinca="25361" FechaLectura="2018-03-09T12:00:00" QM3="180" />
+		<dbo.ConsumoAgua NumeroFinca="94981" FechaLectura="2018-03-09T12:00:00" QM3="109" />
+		<dbo.ConsumoAgua NumeroFinca="63771" FechaLectura="2018-03-09T12:00:00" QM3="52" />
+		<dbo.ConsumoAgua NumeroFinca="77626" FechaLectura="2018-03-09T12:00:00" QM3="141" />
+		<dbo.ConsumoAgua NumeroFinca="36008" FechaLectura="2018-03-09T12:00:00" QM3="40" />
+		<dbo.ConsumoAgua NumeroFinca="31432" FechaLectura="2018-03-09T12:00:00" QM3="142" />
+		<dbo.ConsumoAgua NumeroFinca="95764" FechaLectura="2018-03-09T12:00:00" QM3="33" />
+		<dbo.ConsumoAgua NumeroFinca="10369" FechaLectura="2018-03-09T12:00:00" QM3="116" />
+		<dbo.ConsumoAgua NumeroFinca="61609" FechaLectura="2018-03-09T12:00:00" QM3="151" />
+		<dbo.ConsumoAgua NumeroFinca="81754" FechaLectura="2018-04-01T12:00:00" QM3="33" />
+		<dbo.ConsumoAgua NumeroFinca="12840" FechaLectura="2018-04-01T12:00:00" QM3="90" />
+		<dbo.ConsumoAgua NumeroFinca="12223" FechaLectura="2018-04-01T12:00:00" QM3="60" />
+		<dbo.ConsumoAgua NumeroFinca="96983" FechaLectura="2018-04-01T12:00:00" QM3="147" />
+		<dbo.ConsumoAgua NumeroFinca="48370" FechaLectura="2018-04-01T12:00:00" QM3="151" />
+		<dbo.ConsumoAgua NumeroFinca="65506" FechaLectura="2018-04-01T12:00:00" QM3="62" />
+		<dbo.ConsumoAgua NumeroFinca="60230" FechaLectura="2018-04-01T12:00:00" QM3="194" />
+		<dbo.ConsumoAgua NumeroFinca="10556" FechaLectura="2018-04-01T12:00:00" QM3="108" />
+		<dbo.ConsumoAgua NumeroFinca="24789" FechaLectura="2018-04-01T12:00:00" QM3="171" />
+		<dbo.ConsumoAgua NumeroFinca="1024" FechaLectura="2018-04-01T12:00:00" QM3="108" />
+		<dbo.ConsumoAgua NumeroFinca="16977" FechaLectura="2018-04-01T12:00:00" QM3="38" />
+		<dbo.ConsumoAgua NumeroFinca="39022" FechaLectura="2018-04-01T12:00:00" QM3="111" />
+		<dbo.ConsumoAgua NumeroFinca="8201" FechaLectura="2018-04-02T12:00:00" QM3="33" />
+		<dbo.ConsumoAgua NumeroFinca="88212" FechaLectura="2018-04-02T12:00:00" QM3="37" />
+		<dbo.ConsumoAgua NumeroFinca="97619" FechaLectura="2018-04-02T12:00:00" QM3="114" />
+		<dbo.ConsumoAgua NumeroFinca="8322" FechaLectura="2018-04-02T12:00:00" QM3="21" />
+		<dbo.ConsumoAgua NumeroFinca="13904" FechaLectura="2018-04-02T12:00:00" QM3="90" />
+		<dbo.ConsumoAgua NumeroFinca="43010" FechaLectura="2018-04-02T12:00:00" QM3="131" />
+		<dbo.ConsumoAgua NumeroFinca="56438" FechaLectura="2018-04-02T12:00:00" QM3="60" />
+		<dbo.ConsumoAgua NumeroFinca="35061" FechaLectura="2018-04-02T12:00:00" QM3="33" />
+		<dbo.ConsumoAgua NumeroFinca="97622" FechaLectura="2018-04-02T12:00:00" QM3="30" />
+		<dbo.ConsumoAgua NumeroFinca="48117" FechaLectura="2018-04-02T12:00:00" QM3="97" />
+		<dbo.ConsumoAgua NumeroFinca="16231" FechaLectura="2018-04-02T12:00:00" QM3="167" />
+		<dbo.ConsumoAgua NumeroFinca="75398" FechaLectura="2018-04-05T12:00:00" QM3="178" />
+		<dbo.ConsumoAgua NumeroFinca="78496" FechaLectura="2018-04-05T12:00:00" QM3="147" />
+		<dbo.ConsumoAgua NumeroFinca="18325" FechaLectura="2018-04-05T12:00:00" QM3="186" />
+		<dbo.ConsumoAgua NumeroFinca="63370" FechaLectura="2018-04-05T12:00:00" QM3="125" />
+		<dbo.ConsumoAgua NumeroFinca="12270" FechaLectura="2018-04-05T12:00:00" QM3="149" />
+		<dbo.ConsumoAgua NumeroFinca="54964" FechaLectura="2018-04-05T12:00:00" QM3="159" />
+		<dbo.ConsumoAgua NumeroFinca="16035" FechaLectura="2018-04-05T12:00:00" QM3="121" />
+		<dbo.ConsumoAgua NumeroFinca="29348" FechaLectura="2018-04-05T12:00:00" QM3="57" />
+		<dbo.ConsumoAgua NumeroFinca="50073" FechaLectura="2018-04-05T12:00:00" QM3="200" />
+		<dbo.ConsumoAgua NumeroFinca="81135" FechaLectura="2018-04-05T12:00:00" QM3="168" />
+		<dbo.ConsumoAgua NumeroFinca="19844" FechaLectura="2018-04-05T12:00:00" QM3="182" />
+		<dbo.ConsumoAgua NumeroFinca="83136" FechaLectura="2018-04-05T12:00:00" QM3="61" />
+		<dbo.ConsumoAgua NumeroFinca="24155" FechaLectura="2018-04-05T12:00:00" QM3="195" />
+		<dbo.ConsumoAgua NumeroFinca="27673" FechaLectura="2018-04-05T12:00:00" QM3="185" />
+		<dbo.ConsumoAgua NumeroFinca="91365" FechaLectura="2018-04-05T12:00:00" QM3="97" />
+		<dbo.ConsumoAgua NumeroFinca="58347" FechaLectura="2018-04-05T12:00:00" QM3="144" />
+		<dbo.ConsumoAgua NumeroFinca="34703" FechaLectura="2018-04-06T12:00:00" QM3="72" />
+		<dbo.ConsumoAgua NumeroFinca="2722" FechaLectura="2018-04-06T12:00:00" QM3="130" />
+		<dbo.ConsumoAgua NumeroFinca="14608" FechaLectura="2018-04-06T12:00:00" QM3="88" />
+		<dbo.ConsumoAgua NumeroFinca="74964" FechaLectura="2018-04-06T12:00:00" QM3="123" />
+		<dbo.ConsumoAgua NumeroFinca="39573" FechaLectura="2018-04-06T12:00:00" QM3="53" />
+		<dbo.ConsumoAgua NumeroFinca="53391" FechaLectura="2018-04-06T12:00:00" QM3="140" />
+		<dbo.ConsumoAgua NumeroFinca="68497" FechaLectura="2018-04-06T12:00:00" QM3="42" />
+		<dbo.ConsumoAgua NumeroFinca="7990" FechaLectura="2018-04-06T12:00:00" QM3="29" />
+		<dbo.ConsumoAgua NumeroFinca="7927" FechaLectura="2018-04-06T12:00:00" QM3="91" />
+		<dbo.ConsumoAgua NumeroFinca="13866" FechaLectura="2018-04-07T12:00:00" QM3="62" />
+		<dbo.ConsumoAgua NumeroFinca="6022" FechaLectura="2018-04-07T12:00:00" QM3="139" />
+		<dbo.ConsumoAgua NumeroFinca="8292" FechaLectura="2018-04-07T12:00:00" QM3="158" />
+		<dbo.ConsumoAgua NumeroFinca="37678" FechaLectura="2018-04-07T12:00:00" QM3="80" />
+		<dbo.ConsumoAgua NumeroFinca="28747" FechaLectura="2018-04-07T12:00:00" QM3="116" />
+		<dbo.ConsumoAgua NumeroFinca="52919" FechaLectura="2018-04-07T12:00:00" QM3="178" />
+		<dbo.ConsumoAgua NumeroFinca="45071" FechaLectura="2018-04-07T12:00:00" QM3="58" />
+		<dbo.ConsumoAgua NumeroFinca="35881" FechaLectura="2018-04-07T12:00:00" QM3="76" />
+		<dbo.ConsumoAgua NumeroFinca="48250" FechaLectura="2018-04-07T12:00:00" QM3="47" />
+		<dbo.ConsumoAgua NumeroFinca="16964" FechaLectura="2018-04-07T12:00:00" QM3="186" />
+		<dbo.ConsumoAgua NumeroFinca="29419" FechaLectura="2018-04-07T12:00:00" QM3="119" />
+		<dbo.ConsumoAgua NumeroFinca="19991" FechaLectura="2018-04-07T12:00:00" QM3="181" />
+		<dbo.ConsumoAgua NumeroFinca="179" FechaLectura="2018-04-07T12:00:00" QM3="197" />
+		<dbo.ConsumoAgua NumeroFinca="32513" FechaLectura="2018-04-08T12:00:00" QM3="96" />
+		<dbo.ConsumoAgua NumeroFinca="40607" FechaLectura="2018-04-08T12:00:00" QM3="50" />
+		<dbo.ConsumoAgua NumeroFinca="80822" FechaLectura="2018-04-08T12:00:00" QM3="85" />
+		<dbo.ConsumoAgua NumeroFinca="55337" FechaLectura="2018-04-08T12:00:00" QM3="160" />
+		<dbo.ConsumoAgua NumeroFinca="72930" FechaLectura="2018-04-08T12:00:00" QM3="21" />
+		<dbo.ConsumoAgua NumeroFinca="51454" FechaLectura="2018-04-08T12:00:00" QM3="53" />
+		<dbo.ConsumoAgua NumeroFinca="89542" FechaLectura="2018-04-08T12:00:00" QM3="70" />
+		<dbo.ConsumoAgua NumeroFinca="28501" FechaLectura="2018-04-08T12:00:00" QM3="33" />
+		<dbo.ConsumoAgua NumeroFinca="89240" FechaLectura="2018-04-08T12:00:00" QM3="50" />
+		<dbo.ConsumoAgua NumeroFinca="53186" FechaLectura="2018-04-08T12:00:00" QM3="133" />
+		<dbo.ConsumoAgua NumeroFinca="89960" FechaLectura="2018-04-08T12:00:00" QM3="110" />
+		<dbo.ConsumoAgua NumeroFinca="96870" FechaLectura="2018-04-08T12:00:00" QM3="156" />
+		<dbo.ConsumoAgua NumeroFinca="12250" FechaLectura="2018-04-08T12:00:00" QM3="117" />
+		<dbo.ConsumoAgua NumeroFinca="50754" FechaLectura="2018-04-08T12:00:00" QM3="115" />
+		<dbo.ConsumoAgua NumeroFinca="41515" FechaLectura="2018-04-08T12:00:00" QM3="46" />
+		<dbo.ConsumoAgua NumeroFinca="96010" FechaLectura="2018-04-08T12:00:00" QM3="56" />
+		<dbo.ConsumoAgua NumeroFinca="46521" FechaLectura="2018-04-08T12:00:00" QM3="70" />
+		<dbo.ConsumoAgua NumeroFinca="32422" FechaLectura="2018-04-09T12:00:00" QM3="45" />
+		<dbo.ConsumoAgua NumeroFinca="68513" FechaLectura="2018-04-09T12:00:00" QM3="67" />
+		<dbo.ConsumoAgua NumeroFinca="94401" FechaLectura="2018-04-09T12:00:00" QM3="52" />
+		<dbo.ConsumoAgua NumeroFinca="68149" FechaLectura="2018-04-09T12:00:00" QM3="50" />
+		<dbo.ConsumoAgua NumeroFinca="99256" FechaLectura="2018-04-09T12:00:00" QM3="159" />
+		<dbo.ConsumoAgua NumeroFinca="31797" FechaLectura="2018-04-09T12:00:00" QM3="50" />
+		<dbo.ConsumoAgua NumeroFinca="89135" FechaLectura="2018-04-09T12:00:00" QM3="178" />
+		<dbo.ConsumoAgua NumeroFinca="89081" FechaLectura="2018-04-09T12:00:00" QM3="164" />
+		<dbo.ConsumoAgua NumeroFinca="90216" FechaLectura="2018-04-09T12:00:00" QM3="31" />
+		<dbo.ConsumoAgua NumeroFinca="62334" FechaLectura="2018-04-09T12:00:00" QM3="89" />
+		<dbo.ConsumoAgua NumeroFinca="25361" FechaLectura="2018-04-09T12:00:00" QM3="141" />
+		<dbo.ConsumoAgua NumeroFinca="77294" FechaLectura="2018-04-09T12:00:00" QM3="38" />
+		<dbo.ConsumoAgua NumeroFinca="3807" FechaLectura="2018-04-09T12:00:00" QM3="137" />
+		<dbo.ConsumoAgua NumeroFinca="47621" FechaLectura="2018-04-09T12:00:00" QM3="173" />
+		<dbo.ConsumoAgua NumeroFinca="36008" FechaLectura="2018-04-09T12:00:00" QM3="97" />
+		<dbo.ConsumoAgua NumeroFinca="31432" FechaLectura="2018-04-09T12:00:00" QM3="125" />
+		<dbo.ConsumoAgua NumeroFinca="94981" FechaLectura="2018-04-09T12:00:00" QM3="78" />
+		<dbo.ConsumoAgua NumeroFinca="63771" FechaLectura="2018-04-09T12:00:00" QM3="33" />
+		<dbo.ConsumoAgua NumeroFinca="95764" FechaLectura="2018-04-09T12:00:00" QM3="169" />
+		<dbo.ConsumoAgua NumeroFinca="10369" FechaLectura="2018-04-09T12:00:00" QM3="90" />
+		<dbo.ConsumoAgua NumeroFinca="61609" FechaLectura="2018-04-09T12:00:00" QM3="199" />
+		<dbo.ConsumoAgua NumeroFinca="77626" FechaLectura="2018-04-09T12:00:00" QM3="69" />
+		<dbo.ConsumoAgua NumeroFinca="81754" FechaLectura="2018-05-01T12:00:00" QM3="73" />
+		<dbo.ConsumoAgua NumeroFinca="12840" FechaLectura="2018-05-01T12:00:00" QM3="61" />
+		<dbo.ConsumoAgua NumeroFinca="12223" FechaLectura="2018-05-01T12:00:00" QM3="67" />
+		<dbo.ConsumoAgua NumeroFinca="96983" FechaLectura="2018-05-01T12:00:00" QM3="32" />
+		<dbo.ConsumoAgua NumeroFinca="48370" FechaLectura="2018-05-01T12:00:00" QM3="39" />
+		<dbo.ConsumoAgua NumeroFinca="65506" FechaLectura="2018-05-01T12:00:00" QM3="156" />
+		<dbo.ConsumoAgua NumeroFinca="24789" FechaLectura="2018-05-01T12:00:00" QM3="54" />
+		<dbo.ConsumoAgua NumeroFinca="60230" FechaLectura="2018-05-01T12:00:00" QM3="165" />
+		<dbo.ConsumoAgua NumeroFinca="10556" FechaLectura="2018-05-01T12:00:00" QM3="32" />
+		<dbo.ConsumoAgua NumeroFinca="1024" FechaLectura="2018-05-01T12:00:00" QM3="144" />
+		<dbo.ConsumoAgua NumeroFinca="16977" FechaLectura="2018-05-01T12:00:00" QM3="198" />
+		<dbo.ConsumoAgua NumeroFinca="39022" FechaLectura="2018-05-01T12:00:00" QM3="168" />
+		<dbo.ConsumoAgua NumeroFinca="8322" FechaLectura="2018-05-02T12:00:00" QM3="74" />
+		<dbo.ConsumoAgua NumeroFinca="8201" FechaLectura="2018-05-02T12:00:00" QM3="96" />
+		<dbo.ConsumoAgua NumeroFinca="43010" FechaLectura="2018-05-02T12:00:00" QM3="84" />
+		<dbo.ConsumoAgua NumeroFinca="56438" FechaLectura="2018-05-02T12:00:00" QM3="133" />
+		<dbo.ConsumoAgua NumeroFinca="88212" FechaLectura="2018-05-02T12:00:00" QM3="122" />
+		<dbo.ConsumoAgua NumeroFinca="97619" FechaLectura="2018-05-02T12:00:00" QM3="57" />
+		<dbo.ConsumoAgua NumeroFinca="13904" FechaLectura="2018-05-02T12:00:00" QM3="168" />
+		<dbo.ConsumoAgua NumeroFinca="35061" FechaLectura="2018-05-02T12:00:00" QM3="173" />
+		<dbo.ConsumoAgua NumeroFinca="97622" FechaLectura="2018-05-02T12:00:00" QM3="95" />
+		<dbo.ConsumoAgua NumeroFinca="16231" FechaLectura="2018-05-02T12:00:00" QM3="76" />
+		<dbo.ConsumoAgua NumeroFinca="48117" FechaLectura="2018-05-02T12:00:00" QM3="74" />
+		<dbo.ConsumoAgua NumeroFinca="12270" FechaLectura="2018-05-05T12:00:00" QM3="115" />
+		<dbo.ConsumoAgua NumeroFinca="78496" FechaLectura="2018-05-05T12:00:00" QM3="41" />
+		<dbo.ConsumoAgua NumeroFinca="18325" FechaLectura="2018-05-05T12:00:00" QM3="87" />
+		<dbo.ConsumoAgua NumeroFinca="63370" FechaLectura="2018-05-05T12:00:00" QM3="116" />
+		<dbo.ConsumoAgua NumeroFinca="58347" FechaLectura="2018-05-05T12:00:00" QM3="138" />
+		<dbo.ConsumoAgua NumeroFinca="75398" FechaLectura="2018-05-05T12:00:00" QM3="189" />
+		<dbo.ConsumoAgua NumeroFinca="29348" FechaLectura="2018-05-05T12:00:00" QM3="146" />
+		<dbo.ConsumoAgua NumeroFinca="50073" FechaLectura="2018-05-05T12:00:00" QM3="178" />
+		<dbo.ConsumoAgua NumeroFinca="16035" FechaLectura="2018-05-05T12:00:00" QM3="183" />
+		<dbo.ConsumoAgua NumeroFinca="54964" FechaLectura="2018-05-05T12:00:00" QM3="165" />
+		<dbo.ConsumoAgua NumeroFinca="81135" FechaLectura="2018-05-05T12:00:00" QM3="23" />
+		<dbo.ConsumoAgua NumeroFinca="83136" FechaLectura="2018-05-05T12:00:00" QM3="68" />
+		<dbo.ConsumoAgua NumeroFinca="19844" FechaLectura="2018-05-05T12:00:00" QM3="34" />
+		<dbo.ConsumoAgua NumeroFinca="24155" FechaLectura="2018-05-05T12:00:00" QM3="42" />
+		<dbo.ConsumoAgua NumeroFinca="27673" FechaLectura="2018-05-05T12:00:00" QM3="181" />
+		<dbo.ConsumoAgua NumeroFinca="91365" FechaLectura="2018-05-05T12:00:00" QM3="26" />
+		<dbo.ConsumoAgua NumeroFinca="34703" FechaLectura="2018-05-06T12:00:00" QM3="65" />
+		<dbo.ConsumoAgua NumeroFinca="2722" FechaLectura="2018-05-06T12:00:00" QM3="20" />
+		<dbo.ConsumoAgua NumeroFinca="39573" FechaLectura="2018-05-06T12:00:00" QM3="60" />
+		<dbo.ConsumoAgua NumeroFinca="14608" FechaLectura="2018-05-06T12:00:00" QM3="82" />
+		<dbo.ConsumoAgua NumeroFinca="74964" FechaLectura="2018-05-06T12:00:00" QM3="82" />
+		<dbo.ConsumoAgua NumeroFinca="7990" FechaLectura="2018-05-06T12:00:00" QM3="40" />
+		<dbo.ConsumoAgua NumeroFinca="7927" FechaLectura="2018-05-06T12:00:00" QM3="41" />
+		<dbo.ConsumoAgua NumeroFinca="68497" FechaLectura="2018-05-06T12:00:00" QM3="144" />
+		<dbo.ConsumoAgua NumeroFinca="53391" FechaLectura="2018-05-06T12:00:00" QM3="83" />
+		<dbo.ConsumoAgua NumeroFinca="52919" FechaLectura="2018-05-07T12:00:00" QM3="106" />
+		<dbo.ConsumoAgua NumeroFinca="45071" FechaLectura="2018-05-07T12:00:00" QM3="192" />
+		<dbo.ConsumoAgua NumeroFinca="28747" FechaLectura="2018-05-07T12:00:00" QM3="73" />
+		<dbo.ConsumoAgua NumeroFinca="35881" FechaLectura="2018-05-07T12:00:00" QM3="157" />
+		<dbo.ConsumoAgua NumeroFinca="8292" FechaLectura="2018-05-07T12:00:00" QM3="109" />
+		<dbo.ConsumoAgua NumeroFinca="37678" FechaLectura="2018-05-07T12:00:00" QM3="152" />
+		<dbo.ConsumoAgua NumeroFinca="13866" FechaLectura="2018-05-07T12:00:00" QM3="36" />
+		<dbo.ConsumoAgua NumeroFinca="48250" FechaLectura="2018-05-07T12:00:00" QM3="26" />
+		<dbo.ConsumoAgua NumeroFinca="6022" FechaLectura="2018-05-07T12:00:00" QM3="80" />
+		<dbo.ConsumoAgua NumeroFinca="16964" FechaLectura="2018-05-07T12:00:00" QM3="56" />
+		<dbo.ConsumoAgua NumeroFinca="29419" FechaLectura="2018-05-07T12:00:00" QM3="179" />
+		<dbo.ConsumoAgua NumeroFinca="19991" FechaLectura="2018-05-07T12:00:00" QM3="181" />
+		<dbo.ConsumoAgua NumeroFinca="179" FechaLectura="2018-05-07T12:00:00" QM3="96" />
+		<dbo.ConsumoAgua NumeroFinca="32513" FechaLectura="2018-05-08T12:00:00" QM3="138" />
+		<dbo.ConsumoAgua NumeroFinca="89542" FechaLectura="2018-05-08T12:00:00" QM3="121" />
+		<dbo.ConsumoAgua NumeroFinca="28501" FechaLectura="2018-05-08T12:00:00" QM3="140" />
+		<dbo.ConsumoAgua NumeroFinca="89240" FechaLectura="2018-05-08T12:00:00" QM3="144" />
+		<dbo.ConsumoAgua NumeroFinca="51454" FechaLectura="2018-05-08T12:00:00" QM3="122" />
+		<dbo.ConsumoAgua NumeroFinca="55337" FechaLectura="2018-05-08T12:00:00" QM3="139" />
+		<dbo.ConsumoAgua NumeroFinca="72930" FechaLectura="2018-05-08T12:00:00" QM3="54" />
+		<dbo.ConsumoAgua NumeroFinca="80822" FechaLectura="2018-05-08T12:00:00" QM3="181" />
+		<dbo.ConsumoAgua NumeroFinca="40607" FechaLectura="2018-05-08T12:00:00" QM3="167" />
+		<dbo.ConsumoAgua NumeroFinca="96010" FechaLectura="2018-05-08T12:00:00" QM3="157" />
+		<dbo.ConsumoAgua NumeroFinca="53186" FechaLectura="2018-05-08T12:00:00" QM3="155" />
+		<dbo.ConsumoAgua NumeroFinca="89960" FechaLectura="2018-05-08T12:00:00" QM3="117" />
+		<dbo.ConsumoAgua NumeroFinca="41515" FechaLectura="2018-05-08T12:00:00" QM3="158" />
+		<dbo.ConsumoAgua NumeroFinca="96870" FechaLectura="2018-05-08T12:00:00" QM3="114" />
+		<dbo.ConsumoAgua NumeroFinca="12250" FechaLectura="2018-05-08T12:00:00" QM3="28" />
+		<dbo.ConsumoAgua NumeroFinca="50754" FechaLectura="2018-05-08T12:00:00" QM3="173" />
+		<dbo.ConsumoAgua NumeroFinca="46521" FechaLectura="2018-05-08T12:00:00" QM3="153" />
+		<dbo.ConsumoAgua NumeroFinca="31797" FechaLectura="2018-05-09T12:00:00" QM3="181" />
+		<dbo.ConsumoAgua NumeroFinca="68149" FechaLectura="2018-05-09T12:00:00" QM3="136" />
+		<dbo.ConsumoAgua NumeroFinca="94401" FechaLectura="2018-05-09T12:00:00" QM3="184" />
+		<dbo.ConsumoAgua NumeroFinca="99256" FechaLectura="2018-05-09T12:00:00" QM3="102" />
+		<dbo.ConsumoAgua NumeroFinca="89135" FechaLectura="2018-05-09T12:00:00" QM3="156" />
+		<dbo.ConsumoAgua NumeroFinca="32422" FechaLectura="2018-05-09T12:00:00" QM3="113" />
+		<dbo.ConsumoAgua NumeroFinca="68513" FechaLectura="2018-05-09T12:00:00" QM3="108" />
+		<dbo.ConsumoAgua NumeroFinca="89081" FechaLectura="2018-05-09T12:00:00" QM3="144" />
+		<dbo.ConsumoAgua NumeroFinca="94981" FechaLectura="2018-05-09T12:00:00" QM3="197" />
+		<dbo.ConsumoAgua NumeroFinca="63771" FechaLectura="2018-05-09T12:00:00" QM3="176" />
+		<dbo.ConsumoAgua NumeroFinca="77626" FechaLectura="2018-05-09T12:00:00" QM3="107" />
+		<dbo.ConsumoAgua NumeroFinca="47621" FechaLectura="2018-05-09T12:00:00" QM3="114" />
+		<dbo.ConsumoAgua NumeroFinca="3807" FechaLectura="2018-05-09T12:00:00" QM3="58" />
+		<dbo.ConsumoAgua NumeroFinca="77294" FechaLectura="2018-05-09T12:00:00" QM3="150" />
+		<dbo.ConsumoAgua NumeroFinca="90216" FechaLectura="2018-05-09T12:00:00" QM3="69" />
+		<dbo.ConsumoAgua NumeroFinca="62334" FechaLectura="2018-05-09T12:00:00" QM3="35" />
+		<dbo.ConsumoAgua NumeroFinca="25361" FechaLectura="2018-05-09T12:00:00" QM3="62" />
+		<dbo.ConsumoAgua NumeroFinca="36008" FechaLectura="2018-05-09T12:00:00" QM3="32" />
+		<dbo.ConsumoAgua NumeroFinca="31432" FechaLectura="2018-05-09T12:00:00" QM3="93" />
+		<dbo.ConsumoAgua NumeroFinca="95764" FechaLectura="2018-05-09T12:00:00" QM3="79" />
+		<dbo.ConsumoAgua NumeroFinca="10369" FechaLectura="2018-05-09T12:00:00" QM3="40" />
+		<dbo.ConsumoAgua NumeroFinca="61609" FechaLectura="2018-05-09T12:00:00" QM3="112" />
+	</ConsumoAgua>
+	
+	<Recibos>
+		<dbo.Recibos NumeroFinca="1024" FechaEmision="2018-01-01T12:00:00" FechaLimite="2018-01-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="10556" FechaEmision="2018-01-01T12:00:00" FechaLimite="2018-01-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="12223" FechaEmision="2018-01-01T12:00:00" FechaLimite="2018-01-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="12840" FechaEmision="2018-01-01T12:00:00" FechaLimite="2018-01-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="16977" FechaEmision="2018-01-01T12:00:00" FechaLimite="2018-01-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="24789" FechaEmision="2018-01-01T12:00:00" FechaLimite="2018-01-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="39022" FechaEmision="2018-01-01T12:00:00" FechaLimite="2018-01-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="48370" FechaEmision="2018-01-01T12:00:00" FechaLimite="2018-01-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="60230" FechaEmision="2018-01-01T12:00:00" FechaLimite="2018-01-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="65506" FechaEmision="2018-01-01T12:00:00" FechaLimite="2018-01-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="81754" FechaEmision="2018-01-01T12:00:00" FechaLimite="2018-01-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="96983" FechaEmision="2018-01-01T12:00:00" FechaLimite="2018-01-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="8201" FechaEmision="2018-01-02T12:00:00" FechaLimite="2018-01-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="8322" FechaEmision="2018-01-02T12:00:00" FechaLimite="2018-01-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="13904" FechaEmision="2018-01-02T12:00:00" FechaLimite="2018-01-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="16231" FechaEmision="2018-01-02T12:00:00" FechaLimite="2018-01-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="35061" FechaEmision="2018-01-02T12:00:00" FechaLimite="2018-01-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="43010" FechaEmision="2018-01-02T12:00:00" FechaLimite="2018-01-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="48117" FechaEmision="2018-01-02T12:00:00" FechaLimite="2018-01-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="56438" FechaEmision="2018-01-02T12:00:00" FechaLimite="2018-01-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="88212" FechaEmision="2018-01-02T12:00:00" FechaLimite="2018-01-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="97619" FechaEmision="2018-01-02T12:00:00" FechaLimite="2018-01-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="97622" FechaEmision="2018-01-02T12:00:00" FechaLimite="2018-01-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="12270" FechaEmision="2018-01-05T12:00:00" FechaLimite="2018-01-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="16035" FechaEmision="2018-01-05T12:00:00" FechaLimite="2018-01-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="18325" FechaEmision="2018-01-05T12:00:00" FechaLimite="2018-01-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="19844" FechaEmision="2018-01-05T12:00:00" FechaLimite="2018-01-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="24155" FechaEmision="2018-01-05T12:00:00" FechaLimite="2018-01-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="27673" FechaEmision="2018-01-05T12:00:00" FechaLimite="2018-01-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="29348" FechaEmision="2018-01-05T12:00:00" FechaLimite="2018-01-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="50073" FechaEmision="2018-01-05T12:00:00" FechaLimite="2018-01-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="54964" FechaEmision="2018-01-05T12:00:00" FechaLimite="2018-01-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="58347" FechaEmision="2018-01-05T12:00:00" FechaLimite="2018-01-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="63370" FechaEmision="2018-01-05T12:00:00" FechaLimite="2018-01-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="75398" FechaEmision="2018-01-05T12:00:00" FechaLimite="2018-01-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="78496" FechaEmision="2018-01-05T12:00:00" FechaLimite="2018-01-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="81135" FechaEmision="2018-01-05T12:00:00" FechaLimite="2018-01-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="83136" FechaEmision="2018-01-05T12:00:00" FechaLimite="2018-01-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="91365" FechaEmision="2018-01-05T12:00:00" FechaLimite="2018-01-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="2722" FechaEmision="2018-01-06T12:00:00" FechaLimite="2018-01-24T23:59:59" />
+		<dbo.Recibos NumeroFinca="7927" FechaEmision="2018-01-06T12:00:00" FechaLimite="2018-01-24T23:59:59" />
+		<dbo.Recibos NumeroFinca="7990" FechaEmision="2018-01-06T12:00:00" FechaLimite="2018-01-24T23:59:59" />
+		<dbo.Recibos NumeroFinca="14608" FechaEmision="2018-01-06T12:00:00" FechaLimite="2018-01-24T23:59:59" />
+		<dbo.Recibos NumeroFinca="34703" FechaEmision="2018-01-06T12:00:00" FechaLimite="2018-01-24T23:59:59" />
+		<dbo.Recibos NumeroFinca="39573" FechaEmision="2018-01-06T12:00:00" FechaLimite="2018-01-24T23:59:59" />
+		<dbo.Recibos NumeroFinca="53391" FechaEmision="2018-01-06T12:00:00" FechaLimite="2018-01-24T23:59:59" />
+		<dbo.Recibos NumeroFinca="68497" FechaEmision="2018-01-06T12:00:00" FechaLimite="2018-01-24T23:59:59" />
+		<dbo.Recibos NumeroFinca="74964" FechaEmision="2018-01-06T12:00:00" FechaLimite="2018-01-24T23:59:59" />
+		<dbo.Recibos NumeroFinca="179" FechaEmision="2018-01-07T12:00:00" FechaLimite="2018-01-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="6022" FechaEmision="2018-01-07T12:00:00" FechaLimite="2018-01-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="8292" FechaEmision="2018-01-07T12:00:00" FechaLimite="2018-01-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="13866" FechaEmision="2018-01-07T12:00:00" FechaLimite="2018-01-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="16964" FechaEmision="2018-01-07T12:00:00" FechaLimite="2018-01-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="19991" FechaEmision="2018-01-07T12:00:00" FechaLimite="2018-01-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="28747" FechaEmision="2018-01-07T12:00:00" FechaLimite="2018-01-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="29419" FechaEmision="2018-01-07T12:00:00" FechaLimite="2018-01-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="35881" FechaEmision="2018-01-07T12:00:00" FechaLimite="2018-01-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="37678" FechaEmision="2018-01-07T12:00:00" FechaLimite="2018-01-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="45071" FechaEmision="2018-01-07T12:00:00" FechaLimite="2018-01-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="48250" FechaEmision="2018-01-07T12:00:00" FechaLimite="2018-01-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="52919" FechaEmision="2018-01-07T12:00:00" FechaLimite="2018-01-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="12250" FechaEmision="2018-01-08T12:00:00" FechaLimite="2018-01-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="28501" FechaEmision="2018-01-08T12:00:00" FechaLimite="2018-01-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="32513" FechaEmision="2018-01-08T12:00:00" FechaLimite="2018-01-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="40607" FechaEmision="2018-01-08T12:00:00" FechaLimite="2018-01-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="41515" FechaEmision="2018-01-08T12:00:00" FechaLimite="2018-01-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="46521" FechaEmision="2018-01-08T12:00:00" FechaLimite="2018-01-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="50754" FechaEmision="2018-01-08T12:00:00" FechaLimite="2018-01-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="51454" FechaEmision="2018-01-08T12:00:00" FechaLimite="2018-01-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="53186" FechaEmision="2018-01-08T12:00:00" FechaLimite="2018-01-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="55337" FechaEmision="2018-01-08T12:00:00" FechaLimite="2018-01-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="72930" FechaEmision="2018-01-08T12:00:00" FechaLimite="2018-01-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="80822" FechaEmision="2018-01-08T12:00:00" FechaLimite="2018-01-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="89240" FechaEmision="2018-01-08T12:00:00" FechaLimite="2018-01-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="89542" FechaEmision="2018-01-08T12:00:00" FechaLimite="2018-01-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="89960" FechaEmision="2018-01-08T12:00:00" FechaLimite="2018-01-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="96010" FechaEmision="2018-01-08T12:00:00" FechaLimite="2018-01-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="96870" FechaEmision="2018-01-08T12:00:00" FechaLimite="2018-01-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="3807" FechaEmision="2018-01-09T12:00:00" FechaLimite="2018-01-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="10369" FechaEmision="2018-01-09T12:00:00" FechaLimite="2018-01-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="25361" FechaEmision="2018-01-09T12:00:00" FechaLimite="2018-01-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="31432" FechaEmision="2018-01-09T12:00:00" FechaLimite="2018-01-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="31797" FechaEmision="2018-01-09T12:00:00" FechaLimite="2018-01-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="32422" FechaEmision="2018-01-09T12:00:00" FechaLimite="2018-01-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="36008" FechaEmision="2018-01-09T12:00:00" FechaLimite="2018-01-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="47621" FechaEmision="2018-01-09T12:00:00" FechaLimite="2018-01-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="61609" FechaEmision="2018-01-09T12:00:00" FechaLimite="2018-01-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="62334" FechaEmision="2018-01-09T12:00:00" FechaLimite="2018-01-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="63771" FechaEmision="2018-01-09T12:00:00" FechaLimite="2018-01-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="68149" FechaEmision="2018-01-09T12:00:00" FechaLimite="2018-01-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="68513" FechaEmision="2018-01-09T12:00:00" FechaLimite="2018-01-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="77294" FechaEmision="2018-01-09T12:00:00" FechaLimite="2018-01-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="77626" FechaEmision="2018-01-09T12:00:00" FechaLimite="2018-01-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="89081" FechaEmision="2018-01-09T12:00:00" FechaLimite="2018-01-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="89135" FechaEmision="2018-01-09T12:00:00" FechaLimite="2018-01-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="90216" FechaEmision="2018-01-09T12:00:00" FechaLimite="2018-01-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="94401" FechaEmision="2018-01-09T12:00:00" FechaLimite="2018-01-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="94981" FechaEmision="2018-01-09T12:00:00" FechaLimite="2018-01-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="95764" FechaEmision="2018-01-09T12:00:00" FechaLimite="2018-01-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="99256" FechaEmision="2018-01-09T12:00:00" FechaLimite="2018-01-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="1024" FechaEmision="2018-02-01T12:00:00" FechaLimite="2018-02-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="10556" FechaEmision="2018-02-01T12:00:00" FechaLimite="2018-02-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="12223" FechaEmision="2018-02-01T12:00:00" FechaLimite="2018-02-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="12840" FechaEmision="2018-02-01T12:00:00" FechaLimite="2018-02-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="16977" FechaEmision="2018-02-01T12:00:00" FechaLimite="2018-02-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="24789" FechaEmision="2018-02-01T12:00:00" FechaLimite="2018-02-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="39022" FechaEmision="2018-02-01T12:00:00" FechaLimite="2018-02-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="48370" FechaEmision="2018-02-01T12:00:00" FechaLimite="2018-02-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="60230" FechaEmision="2018-02-01T12:00:00" FechaLimite="2018-02-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="65506" FechaEmision="2018-02-01T12:00:00" FechaLimite="2018-02-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="81754" FechaEmision="2018-02-01T12:00:00" FechaLimite="2018-02-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="96983" FechaEmision="2018-02-01T12:00:00" FechaLimite="2018-02-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="8201" FechaEmision="2018-02-02T12:00:00" FechaLimite="2018-02-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="8322" FechaEmision="2018-02-02T12:00:00" FechaLimite="2018-02-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="13904" FechaEmision="2018-02-02T12:00:00" FechaLimite="2018-02-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="16231" FechaEmision="2018-02-02T12:00:00" FechaLimite="2018-02-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="35061" FechaEmision="2018-02-02T12:00:00" FechaLimite="2018-02-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="43010" FechaEmision="2018-02-02T12:00:00" FechaLimite="2018-02-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="48117" FechaEmision="2018-02-02T12:00:00" FechaLimite="2018-02-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="56438" FechaEmision="2018-02-02T12:00:00" FechaLimite="2018-02-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="88212" FechaEmision="2018-02-02T12:00:00" FechaLimite="2018-02-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="97619" FechaEmision="2018-02-02T12:00:00" FechaLimite="2018-02-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="97622" FechaEmision="2018-02-02T12:00:00" FechaLimite="2018-02-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="12270" FechaEmision="2018-02-05T12:00:00" FechaLimite="2018-02-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="16035" FechaEmision="2018-02-05T12:00:00" FechaLimite="2018-02-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="18325" FechaEmision="2018-02-05T12:00:00" FechaLimite="2018-02-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="19844" FechaEmision="2018-02-05T12:00:00" FechaLimite="2018-02-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="24155" FechaEmision="2018-02-05T12:00:00" FechaLimite="2018-02-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="27673" FechaEmision="2018-02-05T12:00:00" FechaLimite="2018-02-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="29348" FechaEmision="2018-02-05T12:00:00" FechaLimite="2018-02-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="50073" FechaEmision="2018-02-05T12:00:00" FechaLimite="2018-02-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="54964" FechaEmision="2018-02-05T12:00:00" FechaLimite="2018-02-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="58347" FechaEmision="2018-02-05T12:00:00" FechaLimite="2018-02-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="63370" FechaEmision="2018-02-05T12:00:00" FechaLimite="2018-02-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="75398" FechaEmision="2018-02-05T12:00:00" FechaLimite="2018-02-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="78496" FechaEmision="2018-02-05T12:00:00" FechaLimite="2018-02-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="81135" FechaEmision="2018-02-05T12:00:00" FechaLimite="2018-02-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="83136" FechaEmision="2018-02-05T12:00:00" FechaLimite="2018-02-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="91365" FechaEmision="2018-02-05T12:00:00" FechaLimite="2018-02-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="2722" FechaEmision="2018-02-06T12:00:00" FechaLimite="2018-02-24T23:59:59" />
+		<dbo.Recibos NumeroFinca="7927" FechaEmision="2018-02-06T12:00:00" FechaLimite="2018-02-24T23:59:59" />
+		<dbo.Recibos NumeroFinca="7990" FechaEmision="2018-02-06T12:00:00" FechaLimite="2018-02-24T23:59:59" />
+		<dbo.Recibos NumeroFinca="14608" FechaEmision="2018-02-06T12:00:00" FechaLimite="2018-02-24T23:59:59" />
+		<dbo.Recibos NumeroFinca="34703" FechaEmision="2018-02-06T12:00:00" FechaLimite="2018-02-24T23:59:59" />
+		<dbo.Recibos NumeroFinca="39573" FechaEmision="2018-02-06T12:00:00" FechaLimite="2018-02-24T23:59:59" />
+		<dbo.Recibos NumeroFinca="53391" FechaEmision="2018-02-06T12:00:00" FechaLimite="2018-02-24T23:59:59" />
+		<dbo.Recibos NumeroFinca="68497" FechaEmision="2018-02-06T12:00:00" FechaLimite="2018-02-24T23:59:59" />
+		<dbo.Recibos NumeroFinca="74964" FechaEmision="2018-02-06T12:00:00" FechaLimite="2018-02-24T23:59:59" />
+		<dbo.Recibos NumeroFinca="179" FechaEmision="2018-02-07T12:00:00" FechaLimite="2018-02-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="6022" FechaEmision="2018-02-07T12:00:00" FechaLimite="2018-02-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="8292" FechaEmision="2018-02-07T12:00:00" FechaLimite="2018-02-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="13866" FechaEmision="2018-02-07T12:00:00" FechaLimite="2018-02-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="16964" FechaEmision="2018-02-07T12:00:00" FechaLimite="2018-02-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="19991" FechaEmision="2018-02-07T12:00:00" FechaLimite="2018-02-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="28747" FechaEmision="2018-02-07T12:00:00" FechaLimite="2018-02-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="29419" FechaEmision="2018-02-07T12:00:00" FechaLimite="2018-02-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="35881" FechaEmision="2018-02-07T12:00:00" FechaLimite="2018-02-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="37678" FechaEmision="2018-02-07T12:00:00" FechaLimite="2018-02-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="45071" FechaEmision="2018-02-07T12:00:00" FechaLimite="2018-02-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="48250" FechaEmision="2018-02-07T12:00:00" FechaLimite="2018-02-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="52919" FechaEmision="2018-02-07T12:00:00" FechaLimite="2018-02-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="12250" FechaEmision="2018-02-08T12:00:00" FechaLimite="2018-02-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="28501" FechaEmision="2018-02-08T12:00:00" FechaLimite="2018-02-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="32513" FechaEmision="2018-02-08T12:00:00" FechaLimite="2018-02-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="40607" FechaEmision="2018-02-08T12:00:00" FechaLimite="2018-02-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="41515" FechaEmision="2018-02-08T12:00:00" FechaLimite="2018-02-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="46521" FechaEmision="2018-02-08T12:00:00" FechaLimite="2018-02-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="50754" FechaEmision="2018-02-08T12:00:00" FechaLimite="2018-02-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="51454" FechaEmision="2018-02-08T12:00:00" FechaLimite="2018-02-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="53186" FechaEmision="2018-02-08T12:00:00" FechaLimite="2018-02-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="55337" FechaEmision="2018-02-08T12:00:00" FechaLimite="2018-02-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="72930" FechaEmision="2018-02-08T12:00:00" FechaLimite="2018-02-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="80822" FechaEmision="2018-02-08T12:00:00" FechaLimite="2018-02-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="89240" FechaEmision="2018-02-08T12:00:00" FechaLimite="2018-02-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="89542" FechaEmision="2018-02-08T12:00:00" FechaLimite="2018-02-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="89960" FechaEmision="2018-02-08T12:00:00" FechaLimite="2018-02-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="96010" FechaEmision="2018-02-08T12:00:00" FechaLimite="2018-02-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="96870" FechaEmision="2018-02-08T12:00:00" FechaLimite="2018-02-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="3807" FechaEmision="2018-02-09T12:00:00" FechaLimite="2018-02-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="10369" FechaEmision="2018-02-09T12:00:00" FechaLimite="2018-02-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="25361" FechaEmision="2018-02-09T12:00:00" FechaLimite="2018-02-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="31432" FechaEmision="2018-02-09T12:00:00" FechaLimite="2018-02-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="31797" FechaEmision="2018-02-09T12:00:00" FechaLimite="2018-02-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="32422" FechaEmision="2018-02-09T12:00:00" FechaLimite="2018-02-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="36008" FechaEmision="2018-02-09T12:00:00" FechaLimite="2018-02-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="47621" FechaEmision="2018-02-09T12:00:00" FechaLimite="2018-02-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="61609" FechaEmision="2018-02-09T12:00:00" FechaLimite="2018-02-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="62334" FechaEmision="2018-02-09T12:00:00" FechaLimite="2018-02-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="63771" FechaEmision="2018-02-09T12:00:00" FechaLimite="2018-02-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="68149" FechaEmision="2018-02-09T12:00:00" FechaLimite="2018-02-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="68513" FechaEmision="2018-02-09T12:00:00" FechaLimite="2018-02-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="77294" FechaEmision="2018-02-09T12:00:00" FechaLimite="2018-02-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="77626" FechaEmision="2018-02-09T12:00:00" FechaLimite="2018-02-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="89081" FechaEmision="2018-02-09T12:00:00" FechaLimite="2018-02-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="89135" FechaEmision="2018-02-09T12:00:00" FechaLimite="2018-02-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="90216" FechaEmision="2018-02-09T12:00:00" FechaLimite="2018-02-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="94401" FechaEmision="2018-02-09T12:00:00" FechaLimite="2018-02-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="94981" FechaEmision="2018-02-09T12:00:00" FechaLimite="2018-02-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="95764" FechaEmision="2018-02-09T12:00:00" FechaLimite="2018-02-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="99256" FechaEmision="2018-02-09T12:00:00" FechaLimite="2018-02-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="1024" FechaEmision="2018-03-01T12:00:00" FechaLimite="2018-03-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="10556" FechaEmision="2018-03-01T12:00:00" FechaLimite="2018-03-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="12223" FechaEmision="2018-03-01T12:00:00" FechaLimite="2018-03-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="12840" FechaEmision="2018-03-01T12:00:00" FechaLimite="2018-03-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="16977" FechaEmision="2018-03-01T12:00:00" FechaLimite="2018-03-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="24789" FechaEmision="2018-03-01T12:00:00" FechaLimite="2018-03-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="39022" FechaEmision="2018-03-01T12:00:00" FechaLimite="2018-03-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="48370" FechaEmision="2018-03-01T12:00:00" FechaLimite="2018-03-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="60230" FechaEmision="2018-03-01T12:00:00" FechaLimite="2018-03-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="65506" FechaEmision="2018-03-01T12:00:00" FechaLimite="2018-03-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="81754" FechaEmision="2018-03-01T12:00:00" FechaLimite="2018-03-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="96983" FechaEmision="2018-03-01T12:00:00" FechaLimite="2018-03-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="8201" FechaEmision="2018-03-02T12:00:00" FechaLimite="2018-03-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="8322" FechaEmision="2018-03-02T12:00:00" FechaLimite="2018-03-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="13904" FechaEmision="2018-03-02T12:00:00" FechaLimite="2018-03-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="16231" FechaEmision="2018-03-02T12:00:00" FechaLimite="2018-03-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="35061" FechaEmision="2018-03-02T12:00:00" FechaLimite="2018-03-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="43010" FechaEmision="2018-03-02T12:00:00" FechaLimite="2018-03-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="48117" FechaEmision="2018-03-02T12:00:00" FechaLimite="2018-03-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="56438" FechaEmision="2018-03-02T12:00:00" FechaLimite="2018-03-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="88212" FechaEmision="2018-03-02T12:00:00" FechaLimite="2018-03-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="97619" FechaEmision="2018-03-02T12:00:00" FechaLimite="2018-03-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="97622" FechaEmision="2018-03-02T12:00:00" FechaLimite="2018-03-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="12270" FechaEmision="2018-03-05T12:00:00" FechaLimite="2018-03-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="16035" FechaEmision="2018-03-05T12:00:00" FechaLimite="2018-03-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="18325" FechaEmision="2018-03-05T12:00:00" FechaLimite="2018-03-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="19844" FechaEmision="2018-03-05T12:00:00" FechaLimite="2018-03-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="24155" FechaEmision="2018-03-05T12:00:00" FechaLimite="2018-03-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="27673" FechaEmision="2018-03-05T12:00:00" FechaLimite="2018-03-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="29348" FechaEmision="2018-03-05T12:00:00" FechaLimite="2018-03-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="50073" FechaEmision="2018-03-05T12:00:00" FechaLimite="2018-03-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="54964" FechaEmision="2018-03-05T12:00:00" FechaLimite="2018-03-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="58347" FechaEmision="2018-03-05T12:00:00" FechaLimite="2018-03-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="63370" FechaEmision="2018-03-05T12:00:00" FechaLimite="2018-03-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="75398" FechaEmision="2018-03-05T12:00:00" FechaLimite="2018-03-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="78496" FechaEmision="2018-03-05T12:00:00" FechaLimite="2018-03-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="81135" FechaEmision="2018-03-05T12:00:00" FechaLimite="2018-03-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="83136" FechaEmision="2018-03-05T12:00:00" FechaLimite="2018-03-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="91365" FechaEmision="2018-03-05T12:00:00" FechaLimite="2018-03-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="2722" FechaEmision="2018-03-06T12:00:00" FechaLimite="2018-03-24T23:59:59" />
+		<dbo.Recibos NumeroFinca="7927" FechaEmision="2018-03-06T12:00:00" FechaLimite="2018-03-24T23:59:59" />
+		<dbo.Recibos NumeroFinca="7990" FechaEmision="2018-03-06T12:00:00" FechaLimite="2018-03-24T23:59:59" />
+		<dbo.Recibos NumeroFinca="14608" FechaEmision="2018-03-06T12:00:00" FechaLimite="2018-03-24T23:59:59" />
+		<dbo.Recibos NumeroFinca="34703" FechaEmision="2018-03-06T12:00:00" FechaLimite="2018-03-24T23:59:59" />
+		<dbo.Recibos NumeroFinca="39573" FechaEmision="2018-03-06T12:00:00" FechaLimite="2018-03-24T23:59:59" />
+		<dbo.Recibos NumeroFinca="53391" FechaEmision="2018-03-06T12:00:00" FechaLimite="2018-03-24T23:59:59" />
+		<dbo.Recibos NumeroFinca="68497" FechaEmision="2018-03-06T12:00:00" FechaLimite="2018-03-24T23:59:59" />
+		<dbo.Recibos NumeroFinca="74964" FechaEmision="2018-03-06T12:00:00" FechaLimite="2018-03-24T23:59:59" />
+		<dbo.Recibos NumeroFinca="179" FechaEmision="2018-03-07T12:00:00" FechaLimite="2018-03-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="6022" FechaEmision="2018-03-07T12:00:00" FechaLimite="2018-03-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="8292" FechaEmision="2018-03-07T12:00:00" FechaLimite="2018-03-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="13866" FechaEmision="2018-03-07T12:00:00" FechaLimite="2018-03-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="16964" FechaEmision="2018-03-07T12:00:00" FechaLimite="2018-03-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="19991" FechaEmision="2018-03-07T12:00:00" FechaLimite="2018-03-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="28747" FechaEmision="2018-03-07T12:00:00" FechaLimite="2018-03-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="29419" FechaEmision="2018-03-07T12:00:00" FechaLimite="2018-03-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="35881" FechaEmision="2018-03-07T12:00:00" FechaLimite="2018-03-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="37678" FechaEmision="2018-03-07T12:00:00" FechaLimite="2018-03-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="45071" FechaEmision="2018-03-07T12:00:00" FechaLimite="2018-03-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="48250" FechaEmision="2018-03-07T12:00:00" FechaLimite="2018-03-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="52919" FechaEmision="2018-03-07T12:00:00" FechaLimite="2018-03-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="12250" FechaEmision="2018-03-08T12:00:00" FechaLimite="2018-03-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="28501" FechaEmision="2018-03-08T12:00:00" FechaLimite="2018-03-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="32513" FechaEmision="2018-03-08T12:00:00" FechaLimite="2018-03-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="40607" FechaEmision="2018-03-08T12:00:00" FechaLimite="2018-03-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="41515" FechaEmision="2018-03-08T12:00:00" FechaLimite="2018-03-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="46521" FechaEmision="2018-03-08T12:00:00" FechaLimite="2018-03-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="50754" FechaEmision="2018-03-08T12:00:00" FechaLimite="2018-03-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="51454" FechaEmision="2018-03-08T12:00:00" FechaLimite="2018-03-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="53186" FechaEmision="2018-03-08T12:00:00" FechaLimite="2018-03-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="55337" FechaEmision="2018-03-08T12:00:00" FechaLimite="2018-03-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="72930" FechaEmision="2018-03-08T12:00:00" FechaLimite="2018-03-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="80822" FechaEmision="2018-03-08T12:00:00" FechaLimite="2018-03-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="89240" FechaEmision="2018-03-08T12:00:00" FechaLimite="2018-03-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="89542" FechaEmision="2018-03-08T12:00:00" FechaLimite="2018-03-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="89960" FechaEmision="2018-03-08T12:00:00" FechaLimite="2018-03-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="96010" FechaEmision="2018-03-08T12:00:00" FechaLimite="2018-03-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="96870" FechaEmision="2018-03-08T12:00:00" FechaLimite="2018-03-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="3807" FechaEmision="2018-03-09T12:00:00" FechaLimite="2018-03-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="10369" FechaEmision="2018-03-09T12:00:00" FechaLimite="2018-03-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="25361" FechaEmision="2018-03-09T12:00:00" FechaLimite="2018-03-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="31432" FechaEmision="2018-03-09T12:00:00" FechaLimite="2018-03-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="31797" FechaEmision="2018-03-09T12:00:00" FechaLimite="2018-03-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="32422" FechaEmision="2018-03-09T12:00:00" FechaLimite="2018-03-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="36008" FechaEmision="2018-03-09T12:00:00" FechaLimite="2018-03-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="47621" FechaEmision="2018-03-09T12:00:00" FechaLimite="2018-03-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="61609" FechaEmision="2018-03-09T12:00:00" FechaLimite="2018-03-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="62334" FechaEmision="2018-03-09T12:00:00" FechaLimite="2018-03-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="63771" FechaEmision="2018-03-09T12:00:00" FechaLimite="2018-03-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="68149" FechaEmision="2018-03-09T12:00:00" FechaLimite="2018-03-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="68513" FechaEmision="2018-03-09T12:00:00" FechaLimite="2018-03-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="77294" FechaEmision="2018-03-09T12:00:00" FechaLimite="2018-03-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="77626" FechaEmision="2018-03-09T12:00:00" FechaLimite="2018-03-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="89081" FechaEmision="2018-03-09T12:00:00" FechaLimite="2018-03-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="89135" FechaEmision="2018-03-09T12:00:00" FechaLimite="2018-03-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="90216" FechaEmision="2018-03-09T12:00:00" FechaLimite="2018-03-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="94401" FechaEmision="2018-03-09T12:00:00" FechaLimite="2018-03-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="94981" FechaEmision="2018-03-09T12:00:00" FechaLimite="2018-03-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="95764" FechaEmision="2018-03-09T12:00:00" FechaLimite="2018-03-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="99256" FechaEmision="2018-03-09T12:00:00" FechaLimite="2018-03-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="1024" FechaEmision="2018-04-01T12:00:00" FechaLimite="2018-04-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="10556" FechaEmision="2018-04-01T12:00:00" FechaLimite="2018-04-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="12223" FechaEmision="2018-04-01T12:00:00" FechaLimite="2018-04-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="12840" FechaEmision="2018-04-01T12:00:00" FechaLimite="2018-04-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="16977" FechaEmision="2018-04-01T12:00:00" FechaLimite="2018-04-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="24789" FechaEmision="2018-04-01T12:00:00" FechaLimite="2018-04-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="39022" FechaEmision="2018-04-01T12:00:00" FechaLimite="2018-04-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="48370" FechaEmision="2018-04-01T12:00:00" FechaLimite="2018-04-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="60230" FechaEmision="2018-04-01T12:00:00" FechaLimite="2018-04-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="65506" FechaEmision="2018-04-01T12:00:00" FechaLimite="2018-04-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="81754" FechaEmision="2018-04-01T12:00:00" FechaLimite="2018-04-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="96983" FechaEmision="2018-04-01T12:00:00" FechaLimite="2018-04-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="8201" FechaEmision="2018-04-02T12:00:00" FechaLimite="2018-04-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="8322" FechaEmision="2018-04-02T12:00:00" FechaLimite="2018-04-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="13904" FechaEmision="2018-04-02T12:00:00" FechaLimite="2018-04-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="16231" FechaEmision="2018-04-02T12:00:00" FechaLimite="2018-04-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="35061" FechaEmision="2018-04-02T12:00:00" FechaLimite="2018-04-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="43010" FechaEmision="2018-04-02T12:00:00" FechaLimite="2018-04-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="48117" FechaEmision="2018-04-02T12:00:00" FechaLimite="2018-04-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="56438" FechaEmision="2018-04-02T12:00:00" FechaLimite="2018-04-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="88212" FechaEmision="2018-04-02T12:00:00" FechaLimite="2018-04-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="97619" FechaEmision="2018-04-02T12:00:00" FechaLimite="2018-04-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="97622" FechaEmision="2018-04-02T12:00:00" FechaLimite="2018-04-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="12270" FechaEmision="2018-04-05T12:00:00" FechaLimite="2018-04-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="16035" FechaEmision="2018-04-05T12:00:00" FechaLimite="2018-04-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="18325" FechaEmision="2018-04-05T12:00:00" FechaLimite="2018-04-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="19844" FechaEmision="2018-04-05T12:00:00" FechaLimite="2018-04-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="24155" FechaEmision="2018-04-05T12:00:00" FechaLimite="2018-04-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="27673" FechaEmision="2018-04-05T12:00:00" FechaLimite="2018-04-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="29348" FechaEmision="2018-04-05T12:00:00" FechaLimite="2018-04-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="50073" FechaEmision="2018-04-05T12:00:00" FechaLimite="2018-04-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="54964" FechaEmision="2018-04-05T12:00:00" FechaLimite="2018-04-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="58347" FechaEmision="2018-04-05T12:00:00" FechaLimite="2018-04-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="63370" FechaEmision="2018-04-05T12:00:00" FechaLimite="2018-04-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="75398" FechaEmision="2018-04-05T12:00:00" FechaLimite="2018-04-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="78496" FechaEmision="2018-04-05T12:00:00" FechaLimite="2018-04-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="81135" FechaEmision="2018-04-05T12:00:00" FechaLimite="2018-04-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="83136" FechaEmision="2018-04-05T12:00:00" FechaLimite="2018-04-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="91365" FechaEmision="2018-04-05T12:00:00" FechaLimite="2018-04-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="2722" FechaEmision="2018-04-06T12:00:00" FechaLimite="2018-04-24T23:59:59" />
+		<dbo.Recibos NumeroFinca="7927" FechaEmision="2018-04-06T12:00:00" FechaLimite="2018-04-24T23:59:59" />
+		<dbo.Recibos NumeroFinca="7990" FechaEmision="2018-04-06T12:00:00" FechaLimite="2018-04-24T23:59:59" />
+		<dbo.Recibos NumeroFinca="14608" FechaEmision="2018-04-06T12:00:00" FechaLimite="2018-04-24T23:59:59" />
+		<dbo.Recibos NumeroFinca="34703" FechaEmision="2018-04-06T12:00:00" FechaLimite="2018-04-24T23:59:59" />
+		<dbo.Recibos NumeroFinca="39573" FechaEmision="2018-04-06T12:00:00" FechaLimite="2018-04-24T23:59:59" />
+		<dbo.Recibos NumeroFinca="53391" FechaEmision="2018-04-06T12:00:00" FechaLimite="2018-04-24T23:59:59" />
+		<dbo.Recibos NumeroFinca="68497" FechaEmision="2018-04-06T12:00:00" FechaLimite="2018-04-24T23:59:59" />
+		<dbo.Recibos NumeroFinca="74964" FechaEmision="2018-04-06T12:00:00" FechaLimite="2018-04-24T23:59:59" />
+		<dbo.Recibos NumeroFinca="179" FechaEmision="2018-04-07T12:00:00" FechaLimite="2018-04-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="6022" FechaEmision="2018-04-07T12:00:00" FechaLimite="2018-04-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="8292" FechaEmision="2018-04-07T12:00:00" FechaLimite="2018-04-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="13866" FechaEmision="2018-04-07T12:00:00" FechaLimite="2018-04-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="16964" FechaEmision="2018-04-07T12:00:00" FechaLimite="2018-04-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="19991" FechaEmision="2018-04-07T12:00:00" FechaLimite="2018-04-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="28747" FechaEmision="2018-04-07T12:00:00" FechaLimite="2018-04-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="29419" FechaEmision="2018-04-07T12:00:00" FechaLimite="2018-04-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="35881" FechaEmision="2018-04-07T12:00:00" FechaLimite="2018-04-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="37678" FechaEmision="2018-04-07T12:00:00" FechaLimite="2018-04-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="45071" FechaEmision="2018-04-07T12:00:00" FechaLimite="2018-04-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="48250" FechaEmision="2018-04-07T12:00:00" FechaLimite="2018-04-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="52919" FechaEmision="2018-04-07T12:00:00" FechaLimite="2018-04-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="12250" FechaEmision="2018-04-08T12:00:00" FechaLimite="2018-04-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="28501" FechaEmision="2018-04-08T12:00:00" FechaLimite="2018-04-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="32513" FechaEmision="2018-04-08T12:00:00" FechaLimite="2018-04-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="40607" FechaEmision="2018-04-08T12:00:00" FechaLimite="2018-04-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="41515" FechaEmision="2018-04-08T12:00:00" FechaLimite="2018-04-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="46521" FechaEmision="2018-04-08T12:00:00" FechaLimite="2018-04-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="50754" FechaEmision="2018-04-08T12:00:00" FechaLimite="2018-04-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="51454" FechaEmision="2018-04-08T12:00:00" FechaLimite="2018-04-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="53186" FechaEmision="2018-04-08T12:00:00" FechaLimite="2018-04-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="55337" FechaEmision="2018-04-08T12:00:00" FechaLimite="2018-04-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="72930" FechaEmision="2018-04-08T12:00:00" FechaLimite="2018-04-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="80822" FechaEmision="2018-04-08T12:00:00" FechaLimite="2018-04-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="89240" FechaEmision="2018-04-08T12:00:00" FechaLimite="2018-04-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="89542" FechaEmision="2018-04-08T12:00:00" FechaLimite="2018-04-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="89960" FechaEmision="2018-04-08T12:00:00" FechaLimite="2018-04-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="96010" FechaEmision="2018-04-08T12:00:00" FechaLimite="2018-04-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="96870" FechaEmision="2018-04-08T12:00:00" FechaLimite="2018-04-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="3807" FechaEmision="2018-04-09T12:00:00" FechaLimite="2018-04-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="10369" FechaEmision="2018-04-09T12:00:00" FechaLimite="2018-04-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="25361" FechaEmision="2018-04-09T12:00:00" FechaLimite="2018-04-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="31432" FechaEmision="2018-04-09T12:00:00" FechaLimite="2018-04-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="31797" FechaEmision="2018-04-09T12:00:00" FechaLimite="2018-04-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="32422" FechaEmision="2018-04-09T12:00:00" FechaLimite="2018-04-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="36008" FechaEmision="2018-04-09T12:00:00" FechaLimite="2018-04-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="47621" FechaEmision="2018-04-09T12:00:00" FechaLimite="2018-04-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="61609" FechaEmision="2018-04-09T12:00:00" FechaLimite="2018-04-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="62334" FechaEmision="2018-04-09T12:00:00" FechaLimite="2018-04-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="63771" FechaEmision="2018-04-09T12:00:00" FechaLimite="2018-04-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="68149" FechaEmision="2018-04-09T12:00:00" FechaLimite="2018-04-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="68513" FechaEmision="2018-04-09T12:00:00" FechaLimite="2018-04-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="77294" FechaEmision="2018-04-09T12:00:00" FechaLimite="2018-04-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="77626" FechaEmision="2018-04-09T12:00:00" FechaLimite="2018-04-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="89081" FechaEmision="2018-04-09T12:00:00" FechaLimite="2018-04-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="89135" FechaEmision="2018-04-09T12:00:00" FechaLimite="2018-04-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="90216" FechaEmision="2018-04-09T12:00:00" FechaLimite="2018-04-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="94401" FechaEmision="2018-04-09T12:00:00" FechaLimite="2018-04-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="94981" FechaEmision="2018-04-09T12:00:00" FechaLimite="2018-04-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="95764" FechaEmision="2018-04-09T12:00:00" FechaLimite="2018-04-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="99256" FechaEmision="2018-04-09T12:00:00" FechaLimite="2018-04-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="1024" FechaEmision="2018-05-01T12:00:00" FechaLimite="2018-05-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="10556" FechaEmision="2018-05-01T12:00:00" FechaLimite="2018-05-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="12223" FechaEmision="2018-05-01T12:00:00" FechaLimite="2018-05-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="12840" FechaEmision="2018-05-01T12:00:00" FechaLimite="2018-05-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="16977" FechaEmision="2018-05-01T12:00:00" FechaLimite="2018-05-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="24789" FechaEmision="2018-05-01T12:00:00" FechaLimite="2018-05-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="39022" FechaEmision="2018-05-01T12:00:00" FechaLimite="2018-05-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="48370" FechaEmision="2018-05-01T12:00:00" FechaLimite="2018-05-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="60230" FechaEmision="2018-05-01T12:00:00" FechaLimite="2018-05-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="65506" FechaEmision="2018-05-01T12:00:00" FechaLimite="2018-05-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="81754" FechaEmision="2018-05-01T12:00:00" FechaLimite="2018-05-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="96983" FechaEmision="2018-05-01T12:00:00" FechaLimite="2018-05-17T23:59:59" />
+		<dbo.Recibos NumeroFinca="8201" FechaEmision="2018-05-02T12:00:00" FechaLimite="2018-05-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="8322" FechaEmision="2018-05-02T12:00:00" FechaLimite="2018-05-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="13904" FechaEmision="2018-05-02T12:00:00" FechaLimite="2018-05-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="16231" FechaEmision="2018-05-02T12:00:00" FechaLimite="2018-05-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="35061" FechaEmision="2018-05-02T12:00:00" FechaLimite="2018-05-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="43010" FechaEmision="2018-05-02T12:00:00" FechaLimite="2018-05-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="48117" FechaEmision="2018-05-02T12:00:00" FechaLimite="2018-05-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="56438" FechaEmision="2018-05-02T12:00:00" FechaLimite="2018-05-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="88212" FechaEmision="2018-05-02T12:00:00" FechaLimite="2018-05-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="97619" FechaEmision="2018-05-02T12:00:00" FechaLimite="2018-05-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="97622" FechaEmision="2018-05-02T12:00:00" FechaLimite="2018-05-16T23:59:59" />
+		<dbo.Recibos NumeroFinca="12270" FechaEmision="2018-05-05T12:00:00" FechaLimite="2018-05-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="16035" FechaEmision="2018-05-05T12:00:00" FechaLimite="2018-05-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="18325" FechaEmision="2018-05-05T12:00:00" FechaLimite="2018-05-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="19844" FechaEmision="2018-05-05T12:00:00" FechaLimite="2018-05-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="24155" FechaEmision="2018-05-05T12:00:00" FechaLimite="2018-05-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="27673" FechaEmision="2018-05-05T12:00:00" FechaLimite="2018-05-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="29348" FechaEmision="2018-05-05T12:00:00" FechaLimite="2018-05-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="50073" FechaEmision="2018-05-05T12:00:00" FechaLimite="2018-05-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="54964" FechaEmision="2018-05-05T12:00:00" FechaLimite="2018-05-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="58347" FechaEmision="2018-05-05T12:00:00" FechaLimite="2018-05-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="63370" FechaEmision="2018-05-05T12:00:00" FechaLimite="2018-05-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="75398" FechaEmision="2018-05-05T12:00:00" FechaLimite="2018-05-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="78496" FechaEmision="2018-05-05T12:00:00" FechaLimite="2018-05-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="81135" FechaEmision="2018-05-05T12:00:00" FechaLimite="2018-05-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="83136" FechaEmision="2018-05-05T12:00:00" FechaLimite="2018-05-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="91365" FechaEmision="2018-05-05T12:00:00" FechaLimite="2018-05-20T23:59:59" />
+		<dbo.Recibos NumeroFinca="2722" FechaEmision="2018-05-06T12:00:00" FechaLimite="2018-05-24T23:59:59" />
+		<dbo.Recibos NumeroFinca="7927" FechaEmision="2018-05-06T12:00:00" FechaLimite="2018-05-24T23:59:59" />
+		<dbo.Recibos NumeroFinca="7990" FechaEmision="2018-05-06T12:00:00" FechaLimite="2018-05-24T23:59:59" />
+		<dbo.Recibos NumeroFinca="14608" FechaEmision="2018-05-06T12:00:00" FechaLimite="2018-05-24T23:59:59" />
+		<dbo.Recibos NumeroFinca="34703" FechaEmision="2018-05-06T12:00:00" FechaLimite="2018-05-24T23:59:59" />
+		<dbo.Recibos NumeroFinca="39573" FechaEmision="2018-05-06T12:00:00" FechaLimite="2018-05-24T23:59:59" />
+		<dbo.Recibos NumeroFinca="53391" FechaEmision="2018-05-06T12:00:00" FechaLimite="2018-05-24T23:59:59" />
+		<dbo.Recibos NumeroFinca="68497" FechaEmision="2018-05-06T12:00:00" FechaLimite="2018-05-24T23:59:59" />
+		<dbo.Recibos NumeroFinca="74964" FechaEmision="2018-05-06T12:00:00" FechaLimite="2018-05-24T23:59:59" />
+		<dbo.Recibos NumeroFinca="179" FechaEmision="2018-05-07T12:00:00" FechaLimite="2018-05-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="6022" FechaEmision="2018-05-07T12:00:00" FechaLimite="2018-05-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="8292" FechaEmision="2018-05-07T12:00:00" FechaLimite="2018-05-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="13866" FechaEmision="2018-05-07T12:00:00" FechaLimite="2018-05-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="16964" FechaEmision="2018-05-07T12:00:00" FechaLimite="2018-05-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="19991" FechaEmision="2018-05-07T12:00:00" FechaLimite="2018-05-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="28747" FechaEmision="2018-05-07T12:00:00" FechaLimite="2018-05-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="29419" FechaEmision="2018-05-07T12:00:00" FechaLimite="2018-05-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="35881" FechaEmision="2018-05-07T12:00:00" FechaLimite="2018-05-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="37678" FechaEmision="2018-05-07T12:00:00" FechaLimite="2018-05-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="45071" FechaEmision="2018-05-07T12:00:00" FechaLimite="2018-05-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="48250" FechaEmision="2018-05-07T12:00:00" FechaLimite="2018-05-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="52919" FechaEmision="2018-05-07T12:00:00" FechaLimite="2018-05-25T23:59:59" />
+		<dbo.Recibos NumeroFinca="12250" FechaEmision="2018-05-08T12:00:00" FechaLimite="2018-05-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="28501" FechaEmision="2018-05-08T12:00:00" FechaLimite="2018-05-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="32513" FechaEmision="2018-05-08T12:00:00" FechaLimite="2018-05-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="40607" FechaEmision="2018-05-08T12:00:00" FechaLimite="2018-05-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="41515" FechaEmision="2018-05-08T12:00:00" FechaLimite="2018-05-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="46521" FechaEmision="2018-05-08T12:00:00" FechaLimite="2018-05-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="50754" FechaEmision="2018-05-08T12:00:00" FechaLimite="2018-05-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="51454" FechaEmision="2018-05-08T12:00:00" FechaLimite="2018-05-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="53186" FechaEmision="2018-05-08T12:00:00" FechaLimite="2018-05-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="55337" FechaEmision="2018-05-08T12:00:00" FechaLimite="2018-05-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="72930" FechaEmision="2018-05-08T12:00:00" FechaLimite="2018-05-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="80822" FechaEmision="2018-05-08T12:00:00" FechaLimite="2018-05-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="89240" FechaEmision="2018-05-08T12:00:00" FechaLimite="2018-05-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="89542" FechaEmision="2018-05-08T12:00:00" FechaLimite="2018-05-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="89960" FechaEmision="2018-05-08T12:00:00" FechaLimite="2018-05-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="96010" FechaEmision="2018-05-08T12:00:00" FechaLimite="2018-05-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="96870" FechaEmision="2018-05-08T12:00:00" FechaLimite="2018-05-19T23:59:59" />
+		<dbo.Recibos NumeroFinca="3807" FechaEmision="2018-05-09T12:00:00" FechaLimite="2018-05-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="10369" FechaEmision="2018-05-09T12:00:00" FechaLimite="2018-05-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="25361" FechaEmision="2018-05-09T12:00:00" FechaLimite="2018-05-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="31432" FechaEmision="2018-05-09T12:00:00" FechaLimite="2018-05-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="31797" FechaEmision="2018-05-09T12:00:00" FechaLimite="2018-05-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="32422" FechaEmision="2018-05-09T12:00:00" FechaLimite="2018-05-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="36008" FechaEmision="2018-05-09T12:00:00" FechaLimite="2018-05-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="47621" FechaEmision="2018-05-09T12:00:00" FechaLimite="2018-05-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="61609" FechaEmision="2018-05-09T12:00:00" FechaLimite="2018-05-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="62334" FechaEmision="2018-05-09T12:00:00" FechaLimite="2018-05-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="63771" FechaEmision="2018-05-09T12:00:00" FechaLimite="2018-05-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="68149" FechaEmision="2018-05-09T12:00:00" FechaLimite="2018-05-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="68513" FechaEmision="2018-05-09T12:00:00" FechaLimite="2018-05-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="77294" FechaEmision="2018-05-09T12:00:00" FechaLimite="2018-05-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="77626" FechaEmision="2018-05-09T12:00:00" FechaLimite="2018-05-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="89081" FechaEmision="2018-05-09T12:00:00" FechaLimite="2018-05-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="89135" FechaEmision="2018-05-09T12:00:00" FechaLimite="2018-05-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="90216" FechaEmision="2018-05-09T12:00:00" FechaLimite="2018-05-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="94401" FechaEmision="2018-05-09T12:00:00" FechaLimite="2018-05-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="94981" FechaEmision="2018-05-09T12:00:00" FechaLimite="2018-05-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="95764" FechaEmision="2018-05-09T12:00:00" FechaLimite="2018-05-22T23:59:59" />
+		<dbo.Recibos NumeroFinca="99256" FechaEmision="2018-05-09T12:00:00" FechaLimite="2018-05-22T23:59:59" />
+	</Recibos>
+	
+	<Pagos>
+		<pago NumeroFinca="74964" FechaPago="2018-01-21T18:13:11.520" />
+		<pago NumeroFinca="61609" FechaPago="2018-01-23T07:05:54.990" />
+		<pago NumeroFinca="48117" FechaPago="2018-01-15T07:37:28.360" />
+		<pago NumeroFinca="54964" FechaPago="2018-01-22T09:46:12.970" />
+		<pago NumeroFinca="18325" FechaPago="2018-01-23T15:30:21.420" />
+		<pago NumeroFinca="36008" FechaPago="2018-01-23T15:30:21.420" />
+		<pago NumeroFinca="89081" FechaPago="2018-01-23T15:30:21.420" />
+		<pago NumeroFinca="62334" FechaPago="2018-01-25T06:41:37.610" />
+		<pago NumeroFinca="53391" FechaPago="2018-01-23T15:30:21.420" />
+		<pago NumeroFinca="63370" FechaPago="2018-01-15T10:17:17.250" />
+		<pago NumeroFinca="97622" FechaPago="2018-01-19T11:17:38.720" />
+		<pago NumeroFinca="53186" FechaPago="2018-01-26T01:16:21.540" />
+		<pago NumeroFinca="12840" FechaPago="2018-01-16T06:55:12.540" />
+		<pago NumeroFinca="27673" FechaPago="2018-01-18T13:36:41.220" />
+		<pago NumeroFinca="3807" FechaPago="2018-01-12T02:07:25.980" />
+		<pago NumeroFinca="77294" FechaPago="2018-01-16T16:03:19.150" />
+		<pago NumeroFinca="32513" FechaPago="2018-01-19T14:00:31.410" />
+		<pago NumeroFinca="24155" FechaPago="2018-01-27T03:23:42.130" />
+		<pago NumeroFinca="94401" FechaPago="2018-01-19T10:35:52.560" />
+		<pago NumeroFinca="77626" FechaPago="2018-01-23T15:30:21.420" />
+		<pago NumeroFinca="95764" FechaPago="2018-01-23T15:30:21.420" />
+		<pago NumeroFinca="12250" FechaPago="2018-01-23T15:30:21.420" />
+		<pago NumeroFinca="8292" FechaPago="2018-01-23T15:30:21.420" />
+		<pago NumeroFinca="51454" FechaPago="2018-01-10T21:14:17.670" />
+		<pago NumeroFinca="50073" FechaPago="2018-01-23T15:20:46.280" />
+		<pago NumeroFinca="12270" FechaPago="2018-01-23T13:42:52.420" />
+		<pago NumeroFinca="81754" FechaPago="2018-01-23T15:30:21.420" />
+		<pago NumeroFinca="10369" FechaPago="2018-01-12T02:41:15.330" />
+		<pago NumeroFinca="97619" FechaPago="2018-01-15T14:00:08.970" />
+		<pago NumeroFinca="19991" FechaPago="2018-01-26T20:15:09.800" />
+		<pago NumeroFinca="68513" FechaPago="2018-01-15T08:34:00.530" />
+		<pago NumeroFinca="1024" FechaPago="2018-01-23T15:30:21.420" />
+		<pago NumeroFinca="96010" FechaPago="2018-01-12T01:19:06.890" />
+		<pago NumeroFinca="31797" FechaPago="2018-01-18T20:58:11.920" />
+		<pago NumeroFinca="78496" FechaPago="2018-01-17T11:33:28.270" />
+		<pago NumeroFinca="7927" FechaPago="2018-01-23T18:31:07.310" />
+		<pago NumeroFinca="35881" FechaPago="2018-01-23T04:30:39.830" />
+		<pago NumeroFinca="40607" FechaPago="2018-01-21T14:31:11.250" />
+		<pago NumeroFinca="6022" FechaPago="2018-01-14T03:48:19.790" />
+		<pago NumeroFinca="52919" FechaPago="2018-01-18T05:39:44.430" />
+		<pago NumeroFinca="55337" FechaPago="2018-01-23T15:30:21.420" />
+		<pago NumeroFinca="32422" FechaPago="2018-01-14T17:40:34.460" />
+		<pago NumeroFinca="81135" FechaPago="2018-01-23T15:30:21.420" />
+		<pago NumeroFinca="89960" FechaPago="2018-01-26T09:20:07.860" />
+		<pago NumeroFinca="35061" FechaPago="2018-01-25T05:55:40.150" />
+		<pago NumeroFinca="47621" FechaPago="2018-01-15T23:56:02.650" />
+		<pago NumeroFinca="179" FechaPago="2018-01-23T15:30:21.420" />
+		<pago NumeroFinca="16977" FechaPago="2018-01-23T15:30:21.420" />
+		<pago NumeroFinca="29419" FechaPago="2018-01-23T15:30:21.420" />
+		<pago NumeroFinca="56438" FechaPago="2018-01-23T16:32:38.440" />
+		<pago NumeroFinca="72930" FechaPago="2018-01-23T15:30:21.420" />
+		<pago NumeroFinca="16231" FechaPago="2018-01-19T08:18:13.500" />
+		<pago NumeroFinca="29348" FechaPago="2018-01-18T19:34:55.480" />
+		<pago NumeroFinca="16964" FechaPago="2018-01-23T15:30:21.420" />
+		<pago NumeroFinca="88212" FechaPago="2018-01-11T15:07:55.720" />
+		<pago NumeroFinca="75398" FechaPago="2018-01-23T15:30:21.420" />
+		<pago NumeroFinca="83136" FechaPago="2018-01-11T04:57:58.310" />
+		<pago NumeroFinca="25361" FechaPago="2018-01-23T15:30:21.420" />
+		<pago NumeroFinca="65506" FechaPago="2018-01-24T17:26:42.640" />
+		<pago NumeroFinca="2722" FechaPago="2018-01-23T10:27:21.340" />
+		<pago NumeroFinca="28501" FechaPago="2018-01-22T14:03:03.280" />
+		<pago NumeroFinca="96870" FechaPago="2018-01-25T18:10:16.690" />
+		<pago NumeroFinca="19844" FechaPago="2018-01-10T14:23:47.010" />
+		<pago NumeroFinca="48250" FechaPago="2018-01-22T08:30:58.290" />
+		<pago NumeroFinca="89240" FechaPago="2018-01-16T05:11:36.160" />
+		<pago NumeroFinca="94981" FechaPago="2018-01-11T23:42:56.820" />
+		<pago NumeroFinca="80822" FechaPago="2018-01-19T17:41:43.220" />
+		<pago NumeroFinca="99256" FechaPago="2018-01-23T15:30:21.420" />
+		<pago NumeroFinca="90216" FechaPago="2018-01-14T00:34:11.830" />
+		<pago NumeroFinca="14608" FechaPago="2018-01-26T06:36:31.140" />
+		<pago NumeroFinca="43010" FechaPago="2018-01-16T05:13:11.240" />
+		<pago NumeroFinca="68497" FechaPago="2018-01-23T13:24:25.210" />
+		<pago NumeroFinca="50754" FechaPago="2018-01-23T15:30:21.420" />
+		<pago NumeroFinca="96983" FechaPago="2018-01-10T08:18:55.810" />
+		<pago NumeroFinca="91365" FechaPago="2018-01-23T15:30:21.420" />
+		<pago NumeroFinca="12223" FechaPago="2018-01-22T23:20:07.530" />
+		<pago NumeroFinca="13866" FechaPago="2018-01-23T15:30:21.420" />
+		<pago NumeroFinca="39573" FechaPago="2018-01-14T18:35:37.510" />
+		<pago NumeroFinca="10556" FechaPago="2018-01-16T09:39:10.990" />
+		<pago NumeroFinca="24789" FechaPago="2018-01-21T05:46:48.090" />
+		<pago NumeroFinca="37678" FechaPago="2018-01-24T10:39:16.450" />
+		<pago NumeroFinca="31432" FechaPago="2018-01-14T22:12:44.690" />
+		<pago NumeroFinca="8322" FechaPago="2018-01-11T12:10:30.300" />
+		<pago NumeroFinca="89542" FechaPago="2018-01-23T15:30:21.420" />
+		<pago NumeroFinca="60230" FechaPago="2018-01-20T05:46:37.420" />
+		<pago NumeroFinca="58347" FechaPago="2018-01-25T20:46:27.480" />
+		<pago NumeroFinca="39022" FechaPago="2018-01-21T21:28:01.750" />
+		<pago NumeroFinca="41515" FechaPago="2018-01-26T01:15:28.110" />
+		<pago NumeroFinca="16035" FechaPago="2018-01-23T15:30:21.420" />
+		<pago NumeroFinca="7990" FechaPago="2018-01-23T15:30:21.420" />
+		<pago NumeroFinca="8201" FechaPago="2018-01-13T19:56:06.750" />
+		<pago NumeroFinca="28747" FechaPago="2018-01-13T16:47:18.130" />
+		<pago NumeroFinca="68149" FechaPago="2018-01-23T15:30:21.420" />
+		<pago NumeroFinca="89135" FechaPago="2018-01-19T10:07:39.010" />
+		<pago NumeroFinca="48370" FechaPago="2018-01-13T14:04:28.750" />
+		<pago NumeroFinca="34703" FechaPago="2018-01-23T15:30:21.420" />
+		<pago NumeroFinca="46521" FechaPago="2018-01-13T10:51:03.680" />
+		<pago NumeroFinca="13904" FechaPago="2018-01-10T02:17:39.060" />
+		<pago NumeroFinca="45071" FechaPago="2018-01-20T01:39:22.200" />
+		<pago NumeroFinca="63771" FechaPago="2018-01-22T00:12:50.550" />
+		<pago NumeroFinca="60230" FechaPago="2018-02-21T18:13:11.520" />
+		<pago NumeroFinca="25361" FechaPago="2018-02-23T07:05:54.990" />
+		<pago NumeroFinca="80822" FechaPago="2018-02-15T07:37:28.360" />
+		<pago NumeroFinca="55337" FechaPago="2018-02-22T09:46:12.970" />
+		<pago NumeroFinca="53186" FechaPago="2018-02-27T11:15:21.420" />
+		<pago NumeroFinca="10369" FechaPago="2018-02-27T11:15:21.420" />
+		<pago NumeroFinca="81754" FechaPago="2018-02-27T11:15:21.420" />
+		<pago NumeroFinca="40607" FechaPago="2018-02-25T06:41:37.610" />
+		<pago NumeroFinca="28501" FechaPago="2018-02-27T11:15:21.420" />
+		<pago NumeroFinca="89542" FechaPago="2018-02-15T10:17:17.250" />
+		<pago NumeroFinca="8292" FechaPago="2018-02-19T11:17:38.720" />
+		<pago NumeroFinca="63771" FechaPago="2018-02-26T01:16:21.540" />
+		<pago NumeroFinca="31432" FechaPago="2018-02-16T06:55:12.540" />
+		<pago NumeroFinca="13904" FechaPago="2018-02-18T13:36:41.220" />
+		<pago NumeroFinca="74964" FechaPago="2018-02-12T02:07:25.980" />
+		<pago NumeroFinca="43010" FechaPago="2018-02-16T16:03:19.150" />
+		<pago NumeroFinca="83136" FechaPago="2018-02-19T14:00:31.410" />
+		<pago NumeroFinca="54964" FechaPago="2018-02-27T03:23:42.130" />
+		<pago NumeroFinca="72930" FechaPago="2018-02-19T10:35:52.560" />
+		<pago NumeroFinca="10556" FechaPago="2018-02-27T11:15:21.420" />
+		<pago NumeroFinca="91365" FechaPago="2018-02-27T11:15:21.420" />
+		<pago NumeroFinca="95764" FechaPago="2018-02-27T11:15:21.420" />
+		<pago NumeroFinca="27673" FechaPago="2018-02-27T11:15:21.420" />
+		<pago NumeroFinca="24789" FechaPago="2018-02-10T21:14:17.670" />
+		<pago NumeroFinca="28747" FechaPago="2018-02-23T15:20:46.280" />
+		<pago NumeroFinca="77294" FechaPago="2018-02-23T13:42:52.420" />
+		<pago NumeroFinca="12250" FechaPago="2018-02-27T11:15:21.420" />
+		<pago NumeroFinca="19844" FechaPago="2018-02-12T02:41:15.330" />
+		<pago NumeroFinca="2722" FechaPago="2018-02-15T14:00:08.970" />
+		<pago NumeroFinca="48250" FechaPago="2018-02-26T20:15:09.800" />
+		<pago NumeroFinca="8201" FechaPago="2018-02-15T08:34:00.530" />
+		<pago NumeroFinca="48370" FechaPago="2018-02-27T11:15:21.420" />
+		<pago NumeroFinca="96983" FechaPago="2018-02-12T01:19:06.890" />
+		<pago NumeroFinca="75398" FechaPago="2018-02-18T20:58:11.920" />
+		<pago NumeroFinca="37678" FechaPago="2018-02-17T11:33:28.270" />
+		<pago NumeroFinca="16035" FechaPago="2018-02-23T18:31:07.310" />
+		<pago NumeroFinca="3807" FechaPago="2018-02-23T04:30:39.830" />
+		<pago NumeroFinca="61609" FechaPago="2018-02-21T14:31:11.250" />
+		<pago NumeroFinca="179" FechaPago="2018-02-14T03:48:19.790" />
+		<pago NumeroFinca="16964" FechaPago="2018-02-18T05:39:44.430" />
+		<pago NumeroFinca="32422" FechaPago="2018-02-27T11:15:21.420" />
+		<pago NumeroFinca="46521" FechaPago="2018-02-14T17:40:34.460" />
+		<pago NumeroFinca="94401" FechaPago="2018-02-27T11:15:21.420" />
+		<pago NumeroFinca="97619" FechaPago="2018-02-26T09:20:07.860" />
+		<pago NumeroFinca="16231" FechaPago="2018-02-25T05:55:40.150" />
+		<pago NumeroFinca="12270" FechaPago="2018-02-15T23:56:02.650" />
+		<pago NumeroFinca="35881" FechaPago="2018-02-27T11:15:21.420" />
+		<pago NumeroFinca="48117" FechaPago="2018-02-27T11:15:21.420" />
+		<pago NumeroFinca="36008" FechaPago="2018-02-27T11:15:21.420" />
+		<pago NumeroFinca="31797" FechaPago="2018-02-23T16:32:38.440" />
+		<pago NumeroFinca="12223" FechaPago="2018-02-27T11:15:21.420" />
+		<pago NumeroFinca="50073" FechaPago="2018-02-19T08:18:13.500" />
+		<pago NumeroFinca="41515" FechaPago="2018-02-18T19:34:55.480" />
+		<pago NumeroFinca="12840" FechaPago="2018-02-27T11:15:21.420" />
+		<pago NumeroFinca="68513" FechaPago="2018-02-11T15:07:55.720" />
+		<pago NumeroFinca="89240" FechaPago="2018-02-27T11:15:21.420" />
+		<pago NumeroFinca="65506" FechaPago="2018-02-11T04:57:58.310" />
+		<pago NumeroFinca="34703" FechaPago="2018-02-27T11:15:21.420" />
+		<pago NumeroFinca="32513" FechaPago="2018-02-24T17:26:42.640" />
+		<pago NumeroFinca="35061" FechaPago="2018-02-23T10:27:21.340" />
+		<pago NumeroFinca="77626" FechaPago="2018-02-22T14:03:03.280" />
+		<pago NumeroFinca="24155" FechaPago="2018-02-25T18:10:16.690" />
+		<pago NumeroFinca="90216" FechaPago="2018-02-10T14:23:47.010" />
+		<pago NumeroFinca="68149" FechaPago="2018-02-22T08:30:58.290" />
+		<pago NumeroFinca="8322" FechaPago="2018-02-16T05:11:36.160" />
+		<pago NumeroFinca="1024" FechaPago="2018-02-11T23:42:56.820" />
+		<pago NumeroFinca="47621" FechaPago="2018-02-19T17:41:43.220" />
+		<pago NumeroFinca="97622" FechaPago="2018-02-27T11:15:21.420" />
+		<pago NumeroFinca="6022" FechaPago="2018-02-14T00:34:11.830" />
+		<pago NumeroFinca="56438" FechaPago="2018-02-26T06:36:31.140" />
+		<pago NumeroFinca="52919" FechaPago="2018-02-16T05:13:11.240" />
+		<pago NumeroFinca="78496" FechaPago="2018-02-23T13:24:25.210" />
+		<pago NumeroFinca="18325" FechaPago="2018-02-27T11:15:21.420" />
+		<pago NumeroFinca="89960" FechaPago="2018-02-10T08:18:55.810" />
+		<pago NumeroFinca="96010" FechaPago="2018-02-27T11:15:21.420" />
+		<pago NumeroFinca="51454" FechaPago="2018-02-22T23:20:07.530" />
+		<pago NumeroFinca="13866" FechaPago="2018-02-27T11:15:21.420" />
+		<pago NumeroFinca="16977" FechaPago="2018-02-14T18:35:37.510" />
+		<pago NumeroFinca="19991" FechaPago="2018-02-16T09:39:10.990" />
+		<pago NumeroFinca="96870" FechaPago="2018-02-21T05:46:48.090" />
+		<pago NumeroFinca="50754" FechaPago="2018-02-24T10:39:16.450" />
+		<pago NumeroFinca="29419" FechaPago="2018-02-14T22:12:44.690" />
+		<pago NumeroFinca="63370" FechaPago="2018-02-11T12:10:30.300" />
+		<pago NumeroFinca="89135" FechaPago="2018-02-27T11:15:21.420" />
+		<pago NumeroFinca="29348" FechaPago="2018-02-20T05:46:37.420" />
+		<pago NumeroFinca="53391" FechaPago="2018-02-25T20:46:27.480" />
+		<pago NumeroFinca="88212" FechaPago="2018-02-21T21:28:01.750" />
+		<pago NumeroFinca="62334" FechaPago="2018-02-26T01:15:28.110" />
+		<pago NumeroFinca="99256" FechaPago="2018-02-27T11:15:21.420" />
+		<pago NumeroFinca="58347" FechaPago="2018-02-27T11:15:21.420" />
+		<pago NumeroFinca="39022" FechaPago="2018-02-13T19:56:06.750" />
+		<pago NumeroFinca="7990" FechaPago="2018-02-13T16:47:18.130" />
+		<pago NumeroFinca="89081" FechaPago="2018-02-27T11:15:21.420" />
+		<pago NumeroFinca="45071" FechaPago="2018-02-19T10:07:39.010" />
+		<pago NumeroFinca="81135" FechaPago="2018-02-13T14:04:28.750" />
+		<pago NumeroFinca="68497" FechaPago="2018-02-27T11:15:21.420" />
+		<pago NumeroFinca="94981" FechaPago="2018-02-13T10:51:03.680" />
+		<pago NumeroFinca="14608" FechaPago="2018-02-10T02:17:39.060" />
+		<pago NumeroFinca="7927" FechaPago="2018-02-20T01:39:22.200" />
+		<pago NumeroFinca="39573" FechaPago="2018-02-22T00:12:50.550" />
+		<pago NumeroFinca="91365" FechaPago="2018-03-13T03:54:27.370" />
+		<pago NumeroFinca="68497" FechaPago="2018-03-10T13:51:19.620" />
+		<pago NumeroFinca="36008" FechaPago="2018-03-27T21:35:14.490" />
+		<pago NumeroFinca="24789" FechaPago="2018-03-26T05:58:39.420" />
+		<pago NumeroFinca="89135" FechaPago="2018-03-15T09:44:08.230" />
+		<pago NumeroFinca="63771" FechaPago="2018-03-13T03:48:43.110" />
+		<pago NumeroFinca="2722" FechaPago="2018-03-27T12:51:16.510" />
+		<pago NumeroFinca="48250" FechaPago="2018-03-17T02:00:01.120" />
+		<pago NumeroFinca="74964" FechaPago="2018-03-18T12:21:56.760" />
+		<pago NumeroFinca="34703" FechaPago="2018-03-25T04:54:42.930" />
+		<pago NumeroFinca="99256" FechaPago="2018-03-25T08:23:29.300" />
+		<pago NumeroFinca="32513" FechaPago="2018-03-12T17:19:26.260" />
+		<pago NumeroFinca="53391" FechaPago="2018-03-18T12:35:21.420" />
+		<pago NumeroFinca="60230" FechaPago="2018-03-13T22:59:15.290" />
+		<pago NumeroFinca="29419" FechaPago="2018-03-18T12:35:21.420" />
+		<pago NumeroFinca="97619" FechaPago="2018-03-18T12:35:21.420" />
+		<pago NumeroFinca="24155" FechaPago="2018-03-18T12:35:21.420" />
+		<pago NumeroFinca="97622" FechaPago="2018-03-18T12:08:43.120" />
+		<pago NumeroFinca="50754" FechaPago="2018-03-14T00:59:08.800" />
+		<pago NumeroFinca="89542" FechaPago="2018-03-22T03:01:52.570" />
+		<pago NumeroFinca="13866" FechaPago="2018-03-13T04:56:28.700" />
+		<pago NumeroFinca="179" FechaPago="2018-03-16T17:33:15.370" />
+		<pago NumeroFinca="89960" FechaPago="2018-03-12T14:22:55.190" />
+		<pago NumeroFinca="40607" FechaPago="2018-03-22T13:16:30.010" />
+		<pago NumeroFinca="14608" FechaPago="2018-03-11T05:39:10.050" />
+		<pago NumeroFinca="7927" FechaPago="2018-03-19T18:33:08.170" />
+		<pago NumeroFinca="28501" FechaPago="2018-03-15T02:19:43.480" />
+		<pago NumeroFinca="28747" FechaPago="2018-03-25T03:53:14.630" />
+		<pago NumeroFinca="83136" FechaPago="2018-03-18T12:35:21.420" />
+		<pago NumeroFinca="48370" FechaPago="2018-03-19T05:53:46.760" />
+		<pago NumeroFinca="31432" FechaPago="2018-03-18T12:35:21.420" />
+		<pago NumeroFinca="13904" FechaPago="2018-03-17T08:22:25.520" />
+		<pago NumeroFinca="54964" FechaPago="2018-03-20T15:55:46.300" />
+		<pago NumeroFinca="50073" FechaPago="2018-03-14T18:11:25.550" />
+		<pago NumeroFinca="12223" FechaPago="2018-03-19T03:07:46.240" />
+		<pago NumeroFinca="78496" FechaPago="2018-03-14T17:34:39.670" />
+		<pago NumeroFinca="81135" FechaPago="2018-03-21T09:09:39.690" />
+		<pago NumeroFinca="77294" FechaPago="2018-03-18T12:35:21.420" />
+		<pago NumeroFinca="68513" FechaPago="2018-03-13T03:07:38.140" />
+		<pago NumeroFinca="75398" FechaPago="2018-03-18T12:35:21.420" />
+		<pago NumeroFinca="52919" FechaPago="2018-03-14T11:38:43.340" />
+		<pago NumeroFinca="55337" FechaPago="2018-03-18T12:35:21.420" />
+		<pago NumeroFinca="89240" FechaPago="2018-03-16T10:45:52.490" />
+		<pago NumeroFinca="62334" FechaPago="2018-03-11T23:23:21.030" />
+		<pago NumeroFinca="35881" FechaPago="2018-03-20T03:01:32.780" />
+		<pago NumeroFinca="56438" FechaPago="2018-03-15T17:25:44.310" />
+		<pago NumeroFinca="10556" FechaPago="2018-03-23T21:32:22.690" />
+		<pago NumeroFinca="8292" FechaPago="2018-03-14T06:56:49.280" />
+		<pago NumeroFinca="8201" FechaPago="2018-03-18T12:35:21.420" />
+		<pago NumeroFinca="16035" FechaPago="2018-03-16T22:44:09.980" />
+		<pago NumeroFinca="68149" FechaPago="2018-03-19T06:06:02.080" />
+		<pago NumeroFinca="39022" FechaPago="2018-03-27T14:04:14.920" />
+		<pago NumeroFinca="61609" FechaPago="2018-03-18T12:35:21.420" />
+		<pago NumeroFinca="65506" FechaPago="2018-03-18T01:20:19.230" />
+		<pago NumeroFinca="10369" FechaPago="2018-03-12T15:16:59.660" />
+		<pago NumeroFinca="89081" FechaPago="2018-03-13T20:16:55.670" />
+		<pago NumeroFinca="77626" FechaPago="2018-03-14T01:37:47.390" />
+		<pago NumeroFinca="12270" FechaPago="2018-03-18T02:41:29.040" />
+		<pago NumeroFinca="39573" FechaPago="2018-03-20T00:27:46.820" />
+		<pago NumeroFinca="58347" FechaPago="2018-03-15T18:46:25.080" />
+		<pago NumeroFinca="94981" FechaPago="2018-03-10T15:42:20.930" />
+		<pago NumeroFinca="19844" FechaPago="2018-03-18T07:24:33.390" />
+		<pago NumeroFinca="45071" FechaPago="2018-03-18T12:35:21.420" />
+		<pago NumeroFinca="16231" FechaPago="2018-03-13T16:06:34.550" />
+		<pago NumeroFinca="51454" FechaPago="2018-03-23T10:16:29.130" />
+		<pago NumeroFinca="16977" FechaPago="2018-03-26T15:20:43.630" />
+		<pago NumeroFinca="6022" FechaPago="2018-03-18T12:35:21.420" />
+		<pago NumeroFinca="12840" FechaPago="2018-03-18T09:05:34.690" />
+		<pago NumeroFinca="37678" FechaPago="2018-03-21T09:21:19.210" />
+		<pago NumeroFinca="81754" FechaPago="2018-03-23T11:31:36.140" />
+		<pago NumeroFinca="16964" FechaPago="2018-03-12T17:41:59.850" />
+		<pago NumeroFinca="27673" FechaPago="2018-03-17T00:04:52.650" />
+		<pago NumeroFinca="7990" FechaPago="2018-03-26T01:21:42.710" />
+		<pago NumeroFinca="35061" FechaPago="2018-03-20T11:52:56.820" />
+		<pago NumeroFinca="3807" FechaPago="2018-03-22T18:39:50.950" />
+		<pago NumeroFinca="18325" FechaPago="2018-03-18T12:35:21.420" />
+		<pago NumeroFinca="43010" FechaPago="2018-03-25T22:52:14.890" />
+		<pago NumeroFinca="95764" FechaPago="2018-03-13T18:47:17.080" />
+		<pago NumeroFinca="90216" FechaPago="2018-03-18T12:35:21.420" />
+		<pago NumeroFinca="31797" FechaPago="2018-03-13T19:45:03.230" />
+		<pago NumeroFinca="96870" FechaPago="2018-03-22T05:15:51.160" />
+		<pago NumeroFinca="94401" FechaPago="2018-03-26T05:40:42.920" />
+		<pago NumeroFinca="32422" FechaPago="2018-03-25T12:13:22.810" />
+		<pago NumeroFinca="80822" FechaPago="2018-03-16T12:45:22.080" />
+		<pago NumeroFinca="19991" FechaPago="2018-03-21T21:57:36.030" />
+		<pago NumeroFinca="25361" FechaPago="2018-03-16T09:36:08.260" />
+		<pago NumeroFinca="53186" FechaPago="2018-03-17T07:24:06.020" />
+		<pago NumeroFinca="96983" FechaPago="2018-03-12T10:36:26.080" />
+		<pago NumeroFinca="63370" FechaPago="2018-03-23T15:38:45.220" />
+		<pago NumeroFinca="12250" FechaPago="2018-03-18T12:35:21.420" />
+		<pago NumeroFinca="1024" FechaPago="2018-03-13T07:10:27.930" />
+		<pago NumeroFinca="96010" FechaPago="2018-03-11T15:34:55.140" />
+		<pago NumeroFinca="8322" FechaPago="2018-03-11T17:12:48.930" />
+		<pago NumeroFinca="48117" FechaPago="2018-03-12T11:02:43.820" />
+		<pago NumeroFinca="29348" FechaPago="2018-03-21T07:36:18.960" />
+		<pago NumeroFinca="72930" FechaPago="2018-03-18T12:35:21.420" />
+		<pago NumeroFinca="46521" FechaPago="2018-03-15T04:15:59.370" />
+		<pago NumeroFinca="41515" FechaPago="2018-03-27T05:40:56.480" />
+		<pago NumeroFinca="88212" FechaPago="2018-03-18T12:35:21.420" />
+		<pago NumeroFinca="47621" FechaPago="2018-03-10T15:27:59.470" />
+		<pago NumeroFinca="24155" FechaPago="2018-04-22T13:35:43.220" />
+		<pago NumeroFinca="14608" FechaPago="2018-04-20T16:10:21.420" />
+		<pago NumeroFinca="83136" FechaPago="2018-04-15T20:36:44.250" />
+		<pago NumeroFinca="55337" FechaPago="2018-04-20T16:10:21.420" />
+		<pago NumeroFinca="51454" FechaPago="2018-04-22T11:33:00.610" />
+		<pago NumeroFinca="60230" FechaPago="2018-04-12T02:11:05.860" />
+		<pago NumeroFinca="34703" FechaPago="2018-04-20T16:10:21.420" />
+		<pago NumeroFinca="8292" FechaPago="2018-04-23T12:46:38.850" />
+		<pago NumeroFinca="94981" FechaPago="2018-04-10T21:20:08.980" />
+		<pago NumeroFinca="45071" FechaPago="2018-04-20T16:10:21.420" />
+		<pago NumeroFinca="81135" FechaPago="2018-04-17T14:24:54.280" />
+		<pago NumeroFinca="32422" FechaPago="2018-04-20T16:10:21.420" />
+		<pago NumeroFinca="99256" FechaPago="2018-04-26T02:43:40.710" />
+		<pago NumeroFinca="40607" FechaPago="2018-04-20T17:48:40.970" />
+		<pago NumeroFinca="78496" FechaPago="2018-04-13T20:12:44.630" />
+		<pago NumeroFinca="179" FechaPago="2018-04-20T14:39:32.620" />
+		<pago NumeroFinca="54964" FechaPago="2018-04-26T18:35:33.370" />
+		<pago NumeroFinca="81754" FechaPago="2018-04-20T16:10:21.420" />
+		<pago NumeroFinca="65506" FechaPago="2018-04-26T07:57:59.190" />
+		<pago NumeroFinca="48117" FechaPago="2018-04-27T20:53:44.120" />
+		<pago NumeroFinca="7927" FechaPago="2018-04-26T15:22:25.060" />
+		<pago NumeroFinca="7990" FechaPago="2018-04-15T08:49:27.470" />
+		<pago NumeroFinca="16035" FechaPago="2018-04-20T18:32:11.130" />
+		<pago NumeroFinca="97622" FechaPago="2018-04-27T21:23:38.330" />
+		<pago NumeroFinca="89240" FechaPago="2018-04-13T02:04:35.060" />
+		<pago NumeroFinca="89135" FechaPago="2018-04-11T12:32:51.040" />
+		<pago NumeroFinca="35061" FechaPago="2018-04-13T15:03:10.310" />
+		<pago NumeroFinca="48250" FechaPago="2018-04-24T04:32:15.800" />
+		<pago NumeroFinca="50073" FechaPago="2018-04-18T03:20:20.080" />
+		<pago NumeroFinca="97619" FechaPago="2018-04-13T10:48:17.340" />
+		<pago NumeroFinca="39573" FechaPago="2018-04-21T00:14:05.250" />
+		<pago NumeroFinca="89960" FechaPago="2018-04-10T22:13:43.740" />
+		<pago NumeroFinca="62334" FechaPago="2018-04-18T03:20:52.770" />
+		<pago NumeroFinca="61609" FechaPago="2018-04-25T21:51:39.850" />
+		<pago NumeroFinca="39022" FechaPago="2018-04-24T02:27:12.700" />
+		<pago NumeroFinca="46521" FechaPago="2018-04-11T05:29:34.900" />
+		<pago NumeroFinca="31432" FechaPago="2018-04-10T00:38:44.910" />
+		<pago NumeroFinca="75398" FechaPago="2018-04-17T20:55:08.430" />
+		<pago NumeroFinca="63771" FechaPago="2018-04-20T16:10:21.420" />
+		<pago NumeroFinca="56438" FechaPago="2018-04-21T17:21:46.540" />
+		<pago NumeroFinca="13866" FechaPago="2018-04-16T21:35:42.320" />
+		<pago NumeroFinca="58347" FechaPago="2018-04-18T06:14:03.630" />
+		<pago NumeroFinca="96983" FechaPago="2018-04-20T21:44:52.060" />
+		<pago NumeroFinca="77626" FechaPago="2018-04-12T15:16:33.150" />
+		<pago NumeroFinca="29419" FechaPago="2018-04-20T16:10:21.420" />
+		<pago NumeroFinca="12250" FechaPago="2018-04-18T03:56:49.650" />
+		<pago NumeroFinca="28501" FechaPago="2018-04-17T08:55:40.250" />
+		<pago NumeroFinca="88212" FechaPago="2018-04-27T04:01:37.330" />
+		<pago NumeroFinca="2722" FechaPago="2018-04-15T01:44:42.810" />
+		<pago NumeroFinca="96010" FechaPago="2018-04-20T16:10:21.420" />
+		<pago NumeroFinca="63370" FechaPago="2018-04-14T14:05:26.540" />
+		<pago NumeroFinca="52919" FechaPago="2018-04-10T08:30:21.770" />
+		<pago NumeroFinca="8322" FechaPago="2018-04-14T16:10:12.320" />
+		<pago NumeroFinca="25361" FechaPago="2018-04-23T08:02:53.070" />
+		<pago NumeroFinca="27673" FechaPago="2018-04-11T22:03:58.610" />
+		<pago NumeroFinca="13904" FechaPago="2018-04-24T05:40:01.270" />
+		<pago NumeroFinca="41515" FechaPago="2018-04-20T07:13:50.420" />
+		<pago NumeroFinca="6022" FechaPago="2018-04-17T12:58:38.340" />
+		<pago NumeroFinca="19844" FechaPago="2018-04-13T00:48:10.740" />
+		<pago NumeroFinca="35881" FechaPago="2018-04-20T16:10:21.420" />
+		<pago NumeroFinca="32513" FechaPago="2018-04-20T09:35:55.540" />
+		<pago NumeroFinca="10556" FechaPago="2018-04-21T18:48:43.900" />
+		<pago NumeroFinca="43010" FechaPago="2018-04-18T12:14:02.430" />
+		<pago NumeroFinca="31797" FechaPago="2018-04-12T07:21:19.710" />
+		<pago NumeroFinca="68149" FechaPago="2018-04-21T23:35:31.860" />
+		<pago NumeroFinca="36008" FechaPago="2018-04-26T09:03:27.430" />
+		<pago NumeroFinca="95764" FechaPago="2018-04-25T17:16:24.180" />
+		<pago NumeroFinca="8201" FechaPago="2018-04-19T00:44:43.270" />
+		<pago NumeroFinca="12840" FechaPago="2018-04-19T01:57:00.610" />
+		<pago NumeroFinca="90216" FechaPago="2018-04-22T14:32:55.110" />
+		<pago NumeroFinca="16231" FechaPago="2018-04-20T16:10:21.420" />
+		<pago NumeroFinca="77294" FechaPago="2018-04-20T17:59:16.220" />
+		<pago NumeroFinca="68513" FechaPago="2018-04-20T16:10:21.420" />
+		<pago NumeroFinca="37678" FechaPago="2018-04-19T16:33:14.430" />
+		<pago NumeroFinca="53391" FechaPago="2018-04-12T00:16:28.010" />
+		<pago NumeroFinca="96870" FechaPago="2018-04-19T12:19:06.060" />
+		<pago NumeroFinca="12223" FechaPago="2018-04-13T19:33:59.720" />
+		<pago NumeroFinca="18325" FechaPago="2018-04-12T17:44:24.180" />
+		<pago NumeroFinca="68497" FechaPago="2018-04-15T01:13:46.830" />
+		<pago NumeroFinca="74964" FechaPago="2018-04-19T10:22:16.860" />
+		<pago NumeroFinca="19991" FechaPago="2018-04-20T16:10:21.420" />
+		<pago NumeroFinca="91365" FechaPago="2018-04-19T14:39:40.480" />
+		<pago NumeroFinca="16977" FechaPago="2018-04-15T17:37:32.990" />
+		<pago NumeroFinca="50754" FechaPago="2018-04-12T17:32:54.310" />
+		<pago NumeroFinca="94401" FechaPago="2018-04-12T14:35:21.480" />
+		<pago NumeroFinca="3807" FechaPago="2018-04-20T12:27:58.070" />
+		<pago NumeroFinca="48370" FechaPago="2018-04-13T22:02:57.730" />
+		<pago NumeroFinca="16964" FechaPago="2018-04-20T16:10:21.420" />
+		<pago NumeroFinca="24789" FechaPago="2018-04-24T10:48:08.230" />
+		<pago NumeroFinca="12270" FechaPago="2018-04-27T00:57:43.780" />
+		<pago NumeroFinca="89081" FechaPago="2018-04-20T16:10:21.420" />
+		<pago NumeroFinca="72930" FechaPago="2018-04-23T20:01:54.030" />
+		<pago NumeroFinca="29348" FechaPago="2018-04-20T16:10:21.420" />
+		<pago NumeroFinca="53186" FechaPago="2018-04-13T11:10:07.760" />
+		<pago NumeroFinca="28747" FechaPago="2018-04-18T02:45:24.270" />
+		<pago NumeroFinca="10369" FechaPago="2018-04-20T16:10:21.420" />
+		<pago NumeroFinca="1024" FechaPago="2018-04-20T16:10:21.420" />
+		<pago NumeroFinca="89542" FechaPago="2018-04-19T02:10:06.630" />
+		<pago NumeroFinca="47621" FechaPago="2018-04-20T16:10:21.420" />
+		<pago NumeroFinca="80822" FechaPago="2018-04-14T16:33:42.470" />
+		<pago NumeroFinca="50073" FechaPago="2018-05-13T23:16:59.060" />
+		<pago NumeroFinca="78496" FechaPago="2018-05-21T03:22:08.890" />
+		<pago NumeroFinca="56438" FechaPago="2018-05-17T01:30:46.730" />
+		<pago NumeroFinca="24789" FechaPago="2018-05-15T22:23:32.300" />
+		<pago NumeroFinca="37678" FechaPago="2018-05-13T15:49:09.470" />
+		<pago NumeroFinca="34703" FechaPago="2018-05-26T14:51:34.860" />
+		<pago NumeroFinca="89240" FechaPago="2018-05-25T15:58:32.060" />
+		<pago NumeroFinca="29419" FechaPago="2018-05-17T03:27:20.290" />
+		<pago NumeroFinca="12270" FechaPago="2018-05-22T23:15:25.180" />
+		<pago NumeroFinca="83136" FechaPago="2018-05-20T11:30:46.340" />
+		<pago NumeroFinca="96010" FechaPago="2018-05-15T20:55:35.930" />
+		<pago NumeroFinca="77626" FechaPago="2018-05-22T19:51:40.470" />
+		<pago NumeroFinca="29348" FechaPago="2018-05-20T16:56:43.070" />
+		<pago NumeroFinca="89135" FechaPago="2018-05-24T13:15:21.420" />
+		<pago NumeroFinca="99256" FechaPago="2018-05-19T05:38:45.110" />
+		<pago NumeroFinca="13904" FechaPago="2018-05-21T05:45:41.300" />
+		<pago NumeroFinca="40607" FechaPago="2018-05-26T14:37:02.370" />
+		<pago NumeroFinca="1024" FechaPago="2018-05-10T08:07:53.550" />
+		<pago NumeroFinca="48370" FechaPago="2018-05-21T01:14:01.280" />
+		<pago NumeroFinca="31797" FechaPago="2018-05-13T13:46:14.920" />
+		<pago NumeroFinca="179" FechaPago="2018-05-18T11:49:12.070" />
+		<pago NumeroFinca="94401" FechaPago="2018-05-16T00:27:10.580" />
+		<pago NumeroFinca="10369" FechaPago="2018-05-10T14:31:23.420" />
+		<pago NumeroFinca="36008" FechaPago="2018-05-21T04:20:56.670" />
+		<pago NumeroFinca="89542" FechaPago="2018-05-19T17:43:20.050" />
+		<pago NumeroFinca="74964" FechaPago="2018-05-22T18:34:23.730" />
+		<pago NumeroFinca="18325" FechaPago="2018-05-22T12:05:01.960" />
+		<pago NumeroFinca="13866" FechaPago="2018-05-24T13:15:21.420" />
+		<pago NumeroFinca="89081" FechaPago="2018-05-15T14:45:59.240" />
+		<pago NumeroFinca="19844" FechaPago="2018-05-24T13:15:21.420" />
+		<pago NumeroFinca="35881" FechaPago="2018-05-19T01:31:54.150" />
+		<pago NumeroFinca="63370" FechaPago="2018-05-11T01:46:39.140" />
+		<pago NumeroFinca="32513" FechaPago="2018-05-24T13:15:21.420" />
+		<pago NumeroFinca="96983" FechaPago="2018-05-25T17:24:30.140" />
+		<pago NumeroFinca="16964" FechaPago="2018-05-16T16:07:50.130" />
+		<pago NumeroFinca="10556" FechaPago="2018-05-22T14:42:38.720" />
+		<pago NumeroFinca="58347" FechaPago="2018-05-10T23:04:49.720" />
+		<pago NumeroFinca="95764" FechaPago="2018-05-17T08:25:32.160" />
+		<pago NumeroFinca="2722" FechaPago="2018-05-24T13:04:46.230" />
+		<pago NumeroFinca="39573" FechaPago="2018-05-21T16:28:11.350" />
+		<pago NumeroFinca="16231" FechaPago="2018-05-27T13:07:22" />
+		<pago NumeroFinca="81135" FechaPago="2018-05-12T10:21:16.610" />
+		<pago NumeroFinca="72930" FechaPago="2018-05-20T10:54:31.220" />
+		<pago NumeroFinca="53391" FechaPago="2018-05-19T09:19:04.680" />
+		<pago NumeroFinca="12223" FechaPago="2018-05-10T21:23:23.540" />
+		<pago NumeroFinca="94981" FechaPago="2018-05-19T14:06:38.180" />
+		<pago NumeroFinca="96870" FechaPago="2018-05-24T13:15:21.420" />
+		<pago NumeroFinca="80822" FechaPago="2018-05-20T15:40:24.320" />
+		<pago NumeroFinca="47621" FechaPago="2018-05-16T17:03:24.970" />
+		<pago NumeroFinca="50754" FechaPago="2018-05-24T13:15:21.420" />
+		<pago NumeroFinca="88212" FechaPago="2018-05-14T19:48:50.460" />
+		<pago NumeroFinca="41515" FechaPago="2018-05-27T18:30:09.850" />
+		<pago NumeroFinca="75398" FechaPago="2018-05-12T08:38:33.480" />
+		<pago NumeroFinca="3807" FechaPago="2018-05-20T13:59:54.020" />
+		<pago NumeroFinca="28501" FechaPago="2018-05-19T07:10:51.600" />
+		<pago NumeroFinca="68149" FechaPago="2018-05-15T09:54:00.550" />
+		<pago NumeroFinca="62334" FechaPago="2018-05-22T11:47:17.700" />
+		<pago NumeroFinca="91365" FechaPago="2018-05-24T13:15:21.420" />
+		<pago NumeroFinca="7927" FechaPago="2018-05-11T21:30:53.240" />
+		<pago NumeroFinca="16035" FechaPago="2018-05-13T14:11:35.740" />
+		<pago NumeroFinca="31432" FechaPago="2018-05-15T23:21:55.810" />
+		<pago NumeroFinca="12250" FechaPago="2018-05-25T14:05:29.040" />
+		<pago NumeroFinca="8292" FechaPago="2018-05-13T08:45:35.630" />
+		<pago NumeroFinca="51454" FechaPago="2018-05-27T23:01:12.220" />
+		<pago NumeroFinca="60230" FechaPago="2018-05-25T07:47:26.680" />
+		<pago NumeroFinca="16977" FechaPago="2018-05-21T03:49:08.580" />
+		<pago NumeroFinca="97619" FechaPago="2018-05-19T03:44:07.520" />
+		<pago NumeroFinca="54964" FechaPago="2018-05-24T13:15:21.420" />
+		<pago NumeroFinca="7990" FechaPago="2018-05-21T00:05:35.610" />
+		<pago NumeroFinca="35061" FechaPago="2018-05-16T14:26:37.900" />
+		<pago NumeroFinca="89960" FechaPago="2018-05-16T01:40:41.140" />
+		<pago NumeroFinca="8322" FechaPago="2018-05-25T05:50:55.040" />
+		<pago NumeroFinca="6022" FechaPago="2018-05-13T19:22:56.200" />
+		<pago NumeroFinca="52919" FechaPago="2018-05-21T06:12:57.210" />
+		<pago NumeroFinca="68497" FechaPago="2018-05-21T20:46:50.740" />
+		<pago NumeroFinca="43010" FechaPago="2018-05-13T08:31:10.910" />
+		<pago NumeroFinca="81754" FechaPago="2018-05-24T13:15:21.420" />
+		<pago NumeroFinca="90216" FechaPago="2018-05-22T16:33:58.880" />
+		<pago NumeroFinca="25361" FechaPago="2018-05-27T13:17:29.960" />
+		<pago NumeroFinca="97622" FechaPago="2018-05-27T01:29:40.370" />
+		<pago NumeroFinca="77294" FechaPago="2018-05-25T21:46:36.950" />
+		<pago NumeroFinca="12840" FechaPago="2018-05-10T14:19:30.050" />
+		<pago NumeroFinca="39022" FechaPago="2018-05-22T04:27:10.250" />
+		<pago NumeroFinca="65506" FechaPago="2018-05-17T14:25:48.530" />
+		<pago NumeroFinca="68513" FechaPago="2018-05-24T10:20:32.400" />
+		<pago NumeroFinca="55337" FechaPago="2018-05-17T22:50:59.110" />
+		<pago NumeroFinca="61609" FechaPago="2018-05-14T11:17:31.700" />
+		<pago NumeroFinca="32422" FechaPago="2018-05-14T21:54:29.590" />
+		<pago NumeroFinca="28747" FechaPago="2018-05-23T00:04:13.890" />
+		<pago NumeroFinca="48117" FechaPago="2018-05-20T03:26:28.480" />
+		<pago NumeroFinca="53186" FechaPago="2018-05-24T13:15:21.420" />
+		<pago NumeroFinca="8201" FechaPago="2018-05-23T00:46:05.220" />
+		<pago NumeroFinca="27673" FechaPago="2018-05-27T18:21:02.560" />
+		<pago NumeroFinca="14608" FechaPago="2018-05-23T15:52:38.600" />
+		<pago NumeroFinca="24155" FechaPago="2018-05-13T05:37:12.440" />
+		<pago NumeroFinca="45071" FechaPago="2018-05-14T18:36:56.890" />
+		<pago NumeroFinca="63771" FechaPago="2018-05-24T13:15:21.420" />
+		<pago NumeroFinca="19991" FechaPago="2018-05-19T00:31:02.980" />
+		<pago NumeroFinca="46521" FechaPago="2018-05-22T23:42:53.920" />
+		<pago NumeroFinca="48250" FechaPago="2018-05-19T18:20:03.120" />
+	</Pagos>
+	
+</XML>
